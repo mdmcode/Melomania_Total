@@ -6,6 +6,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="style.css" rel="stylesheet">
+    <link rel="stylesheet" href="specific.css">
 </head>
 
 <body>
@@ -21,24 +22,28 @@
             </ul>
         </nav>
     </header>
-    <main>
-        <h2 style="text-align:center; margin: 30px 0 20px 0; color: #f2f2ff;">Tu Carrito</h2>
-        <div id="cart-list" class="products"></div>
-        <div id="cart-total" style="text-align:center; font-size:1.2rem; margin:20px 0; color: #f2f2ff;"></div>
-        <div style="text-align:center;">
-            <button onclick="clearCart()"
-                style="background:#ff4d4d; color: #f2f2ff; border:none; padding:10px 24px; border-radius:5px; font-weight:bold; cursor:pointer;">Vaciar
-                Carrito</button>
-        </div>
-        <div style="text-align:center; margin-bottom:16px;">
-            <a href="payment.html">
-                <button
-                    style="background:#ffd700; color:#222; border:none; padding:10px 24px; border-radius:5px; font-weight:bold; cursor:pointer;">
-                    Ir a pagar
-                </button>
-            </a>
-        </div>
-    </main>
+    <div class="all">
+        <main>
+            <h2 style="text-align:center; margin: 30px 0 20px 0; color: #f2f2ff;">Tu Carrito</h2>
+            <div id="cart-list" class="products"></div>
+            <div id="cart-total" style="text-align:center; font-size:1.2rem; margin:20px 0; color: #f2f2ff;"></div>
+            <div class="opciones">
+                <div style="text-align:center;">
+                    <button onclick="clearCart()"
+                        style="background:#ff4d4d; color: #f2f2ff; border:none; padding:10px 24px; border-radius:5px; font-weight:bold; cursor:pointer;">Vaciar
+                        Carrito</button>
+                </div>
+                <div style="text-align:center; margin-bottom:16px;">
+                    <a href="payment.html">
+                        <button
+                            style="background:#ffd700; color:#222; border:none; padding:10px 24px; border-radius:5px; font-weight:bold; cursor:pointer;">
+                            Ir a pagar
+                        </button>
+                    </a>
+                </div>
+            </div>
+        </main>
+    </div>
     <footer>
         <p style="text-align:center;">&copy; 2025 Melomanía Total. Todos los derechos reservados.</p>
     </footer>
