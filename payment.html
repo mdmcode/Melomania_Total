@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <title>Pagar | Melomanía Total</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="style.css" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <nav class="navbar">
+            <div class="logo">
+                <h1>Melomanía Total</h1>
+            </div>
+            <ul class="nav-links">
+                <li><a href="store.html">Tienda</a></li>
+                <li><a href="cart.html">Carrito</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <h2 style="text-align:center; margin: 30px 0 20px 0;">Pago</h2>
+        <div id="pay-summary" class="products"></div>
+        <div id="pay-total" style="text-align:center; font-size:1.2rem; margin:20px 0; color: #f2f2ff"></div>
+        <form id="pay-form" style="max-width:400px; margin:30px auto; background:#fff; padding:24px; border-radius:10px; box-shadow:0 2px 8px rgba(0,0,0,0.07);">
+            <h3 style="margin-bottom:16px;">Datos de pago</h3>
+            <label for="name">Nombre completo:</label>
+            <input type="text" id="name" name="name" required>
+            <label for="card">Número de tarjeta:</label>
+            <input type="text" id="card" name="card" maxlength="19" required>
+            <label for="exp">Fecha de expiración:</label>
+            <input type="text" id="exp" name="exp" placeholder="MM/AA" maxlength="5" required>
+            <label for="cvv">CVV:</label>
+            <input type="text" id="cvv" name="cvv" maxlength="4" required>
+            <button type="submit" style="margin-top:16px;">Pagar</button>
+        </form>
+        <div id="pay-message" style="text-align:center; margin-top:20px; color: #f2f2ff"></div>
+    </main>
+    <footer>
+        <p style="text-align:center;">&copy; 2025 Melomanía Total. Todos los derechos reservados.</p>
+    </footer>
+    <script>
+        // Muestra el total
+        function renderPaySummary() {
+            const cart = JSON.parse(localStorage.getItem('cart')) || [];
+            const container = document.getElementById('pay-summary');
+            const totalDiv = document.getElementById('pay-total');
+            container.innerHTML = '';
+            let total = 0;
+            if (cart.length === 0) {
+                container.innerHTML = '<p style="grid-column: 1 / -1; text-align:center;">No hay productos en el carrito.</p>';
+                totalDiv.textContent = '';
+                document.getElementById('pay-form').style.display = 'none';
+                return;
+            }
+            cart.forEach(album => {
+                total += Number(album.price);
+                const albumDiv = document.createElement('div');
+                albumDiv.className = 'product';
+                albumDiv.innerHTML = `
+                    <img src="${album.cover}" alt="Album Cover">
+                    <h3>${album.title}</h3>
+                    <p>${album.artist}</p>
+                    <p>$${album.price}</p>
+                `;
+                container.appendChild(albumDiv);
+            });
+            totalDiv.textContent = 'Total a pagar: $' + total;
+        }
+
+        // Maneja el formulario de pago
+        document.getElementById('pay-form').addEventListener('submit', function(e) {
+            e.preventDefault();
+            // Simula un pago exitoso
+            document.getElementById('pay-message').textContent = "¡Pago realizado con éxito! Gracias por tu compra.";
+            localStorage.removeItem('cart');
+            renderPaySummary();
+            this.reset();
+            this.style.display = 'none';
+        });
+
+        renderPaySummary();
+    </script>
+</body>
+</html>
