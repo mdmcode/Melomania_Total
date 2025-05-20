@@ -18,22 +18,45 @@
                 <li><a href="store.html">Tienda</a></li>
                 <li><a href="#about">Sobre Nosotros</a></li>
                 <li><a href="#contact">Contacto</a></li>
+                <li><a href="login.html">Iniciar Sesión</a></li>
             </ul>
         </nav>
     </header>
-    <section id="hero">
-        <h2>Redescubre la magia de la música en vinilos</h2>
-        <p>Explora nuestra colección de discos inolvidables.</p>
+
+    <section id="hero"
+        style="background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url('vinyl-bg.jpg') center/cover no-repeat;">
+        <div class="hero-content">
+            <h2>Redescubre la magia de la música en vinilos</h2>
+            <p>Explora nuestra colección de discos inolvidables.</p>
+            <a href="store.html" class="cta-btn">Ver Tienda</a>
+        </div>
     </section>
-    <section id="shop">
-        <h1><a href="store.html">Accede a nuestros productos</a></h1>
+
+    <section id="featured">
+        <h2>Destacados</h2>
+        <div class="featured-albums"></div>
     </section>
+
     <section id="about">
-        <h2>¿Quienes somos?</h2>
-        <p>Un equipo apasionado por compatir música y sentimientos.</p>
+        <h2>¿Quiénes somos?</h2>
+        <p>Un equipo apasionado por compartir música y sentimientos. Creemos que el vinilo es más que un formato: es una
+            experiencia.</p>
     </section>
+
+    <section id="testimonials">
+        <h2>Lo que dicen nuestros clientes</h2>
+        <blockquote>
+            "¡La mejor tienda de vinilos! El sonido y la atención son inigualables." <br>
+            <span>- Juan P.</span>
+        </blockquote>
+        <blockquote>
+            "Encontré discos que llevaba años buscando. ¡Gracias Melomanía Total!" <br>
+            <span>- Lucía G.</span>
+        </blockquote>
+    </section>
+
     <section id="contact">
-        <h2>Contactanos</h2>
+        <h2>Contáctanos</h2>
         <form>
             <label for="name">Nombre:</label>
             <input type="text" id="name" name="name">
@@ -44,9 +67,47 @@
             <button type="submit">Enviar</button>
         </form>
     </section>
+
     <footer>
-        <p>&copy; 2025 Melomanía Total. All rights reserved.</p>
+        <div class="footer-content">
+            <p>&copy; 2025 Melomanía Total. All rights reserved.</p>
+            <div class="social-links">
+                <a href="#"><img src="icons/instagram.svg" alt="Instagram" /></a>
+                <a href="#"><img src="icons/facebook.svg" alt="Facebook" /></a>
+                <a href="#"><img src="icons/whatsapp.svg" alt="WhatsApp" /></a>
+            </div>
+        </div>
     </footer>
+    <script>
+        let albums = [];
+
+        function renderFeaturedAlbums() {
+            if (!albums.length) return;
+            const randomAlbums = [...albums].sort(() => 0.5 - Math.random()).slice(0, 3);
+            const featuredContainer = document.querySelector('.featured-albums');
+            if (!featuredContainer) return;
+            featuredContainer.innerHTML = '';
+            randomAlbums.forEach(album => {
+                const albumDiv = document.createElement('div');
+                albumDiv.className = 'album-card';
+                albumDiv.innerHTML = `
+                <a href="album.html?title=${encodeURIComponent(album.title)}&artist=${encodeURIComponent(album.artist)}">
+                    <img src="${album.cover}" alt="Album Cover">
+                    <h3>${album.title}</h3>
+                </a>
+                <p>${album.artist}</p>
+            `;
+                featuredContainer.appendChild(albumDiv);
+            });
+        }
+
+        fetch("albums.json")
+            .then(response => response.json())
+            .then(data => {
+                albums = data;
+                renderFeaturedAlbums();
+            });
+    </script>
 </body>
 
 </html>

@@ -222,16 +222,181 @@ footer {
     justify-content: space-between;
 }
 
+.cta-btn {
+    display: inline-block;
+    margin-top: 20px;
+    background: #ffd700;
+    color: #222;
+    padding: 12px 32px;
+    border-radius: 6px;
+    font-weight: bold;
+    text-decoration: none;
+    transition: background 0.2s;
+}
+
+.cta-btn:hover {
+    background: #ffb347;
+}
+
+.featured-albums {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin-top: 20px;
+}
+.album-card {
+    background: #f6f6f6;
+    border-radius: 10px;
+    padding: 18px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.07);
+    width: 180px;
+}
+.album-card img {
+    width: 100%;
+    border-radius: 8px;
+    margin-bottom: 10px;
+}
+
+.footer-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+}
+
+.social-links img {
+    width: 28px;
+    margin: 0 8px;
+    filter: brightness(0) invert(1);
+}
+
+.album-left {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-width: 220px;
+    max-width: 250px;
+    flex: 1;
+}
+
+.album-actions {
+    display: flex;
+    gap: 12px;
+    margin-top: 12px;
+}
+
+.album-actions button {
+    background: #ffd700;
+    color: #222;
+    border: none;
+    padding: 8px 18px;
+    border-radius: 5px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background 0.2s;
+}
+
+.album-actions button:hover {
+    background: #ffb347;
+}
+
+#album-info {
+    display: flex;
+    flex-direction: row;
+    gap: 40px;
+    align-items: flex-start;
+    background: #fff;
+    border-radius: 12px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.07);
+    padding: 32px 24px;
+    max-width: 800px;
+    margin: 40px auto;
+}
+
+#album-cover {
+    width: 100%;
+    max-width: 220px;
+    border-radius: 10px;
+    margin-bottom: 18px;
+    box-shadow: 0 1px 6px rgba(0,0,0,0.10);
+}
+
+#album-title {
+    font-size: 1.4rem;
+    margin: 10px 0 2px 0;
+    text-align: center;
+}
+
+#album-artist {
+    font-size: 1.1rem;
+    color: #666;
+    margin-bottom: 16px;
+    text-align: center;
+}
+
+#tracklist-section {
+    flex: 2;
+    min-width: 220px;
+}
+
+#tracklist-section h4 {
+    margin-bottom: 12px;
+    font-size: 1.1rem;
+    color: #222;
+}
+
+#tracklist {
+    padding-left: 20px;
+    font-size: 1rem;
+}
+
+#tracklist li {
+    margin-bottom: 6px;
+    color: #333;
+}
+
+#featured {
+    align-items: center;
+    text-align: center;
+    padding: 1rem 0;
+}
+
+#featured h2 {
+    color: #fff;
+    font-size: 1.6rem;
+}
+
+#testimonials {
+    background: #222;
+    color: #ffd700;
+    padding: 40px 0;
+    text-align: center;
+}
+#testimonials blockquote {
+    font-style: italic;
+    margin: 20px auto;
+    max-width: 500px;
+}
+
 #hero {
-    background: linear-gradient(90deg, #ffd700 0%, #ffb347 100%);
+    /* background: linear-gradient(90deg, #ffd700 0%, #ffb347 100%);
     color: #222;
     text-align: center;
-    padding: 40px 10px 30px 10px;
+    padding: 40px 10px 30px 10px; */
+    color: #fff;
+    text-align: center;
+    padding: 80px 10px 60px 10px;
+    position: relative;
 }
 
 #hero h2 {
     font-size: 2rem;
     margin-bottom: 10px;
+}
+
+#hero-content {
+    position: relative;
+    z-index: 2;
 }
 
 #shop {
@@ -306,15 +471,29 @@ footer {
 
 /* Responsive hero and sections */
 @media (max-width: 700px) {
+    .store-title {
+        font-size: 1.2rem;
+    }
+
     #hero {
         padding: 24px 5px 18px 5px;
     }
+
     #shop, #about, #contact {
         padding: 10px;
         margin: 20px 0;
     }
-    .store-title {
-        font-size: 1.2rem;
+
+    #album-info {
+        flex-direction: column;
+        align-items: center;
+        gap: 24px;
+        padding: 18px 6px;
+    }
+    
+    #tracklist-section {
+        width: 100%;
+        min-width: unset;
     }
 }
 

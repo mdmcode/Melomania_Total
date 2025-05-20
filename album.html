@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Info del Álbum</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header>
+        <nav class="navbar">
+            <div class="logo">
+                <h1>Melomanía Total</h1>
+            </div>
+            <ul class="nav-links">
+                <li><a href="store.html">Tienda</a></li>
+                <li><a href="cart.html">Carrito</a></li>
+                <li><a href="login.html">Iniciar Sesión</a></li>
+                <li><a href="wishlist.html">Wishlist</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <div id="album-info">
+            <div class="album-left">
+                <img id="album-cover" src="" alt="Album Cover">
+                <h2 id="album-title"></h2>
+                <h3 id="album-artist"></h3>
+                <div class="album-actions">
+                    <button class="add-to-cart-btn">Agregar al carrito</button>
+                    <button class="add-to-wishlist-btn">❤️ Wishlist</button>
+                </div>
+            </div>
+            <div id="tracklist-section">
+                <h4>Tracklist</h4>
+                <ol id="tracklist"></ol>
+            </div>
+        </div>
+    </main>
+    <footer>
+        <p style="text-align:center;">&copy; 2025 Melomanía Total. Todos los derechos reservados.</p>
+    </footer>
+    <script>
+        // Obtiene la información del álbum por medio del url
+        const params = new URLSearchParams(window.location.search);
+        const title = params.get('title');
+        const artist = params.get('artist');
+        document.getElementById('album-title').textContent = title;
+        document.getElementById('album-artist').textContent = artist;
+
+        let currentAlbum = null;
+
+        // Carga la portada y guarda el álbum actual
+        fetch('albums.json')
+            .then(res => res.json())
+            .then(albums => {
+                currentAlbum = albums.find(a => a.title === title && a.artist === artist);
+                if (currentAlbum) {
+                    document.getElementById('album-cover').src = currentAlbum.cover;
+                }
+            });
+
+        // Carga el tracklist
+        fetch('songs.json')
+            .then(res => res.json())
+            .then(songs => {
+                const tracklist = songs
+                    .filter(song => song.album_title === title && song.artist === artist)
+                    .sort((a, b) => a.track_number - b.track_number);
+                const ol = document.getElementById('tracklist');
+                tracklist.forEach(song => {
+                    const li = document.createElement('li');
+                    li.textContent = song.track_title;
+                    ol.appendChild(li);
+                });
+            });
+
+        // Funciones para carrito y wishlist
+        function addToCart(album) {
+            let cart = JSON.parse(localStorage.getItem('cart')) || [];
+            cart.push(album);
+            localStorage.setItem('cart', JSON.stringify(cart));
+            alert('Álbum agregado al carrito');
+        }
+
+        function addToWishlist(album) {
+            let wishlist = JSON.parse(localStorage.getItem('wishlist')) || [];
+            if (!wishlist.some(a => a.title === album.title && a.artist === album.artist)) {
+                wishlist.push(album);
+                localStorage.setItem('wishlist', JSON.stringify(wishlist));
+                alert('Álbum agregado a tu wishlist');
+            } else {
+                alert('Este álbum ya está en tu wishlist');
+            }
+        }
+
+        // Asigna eventos a los botones
+        document.querySelector('.add-to-cart-btn').addEventListener('click', function () {
+            if (currentAlbum) addToCart(currentAlbum);
+            else alert('No se pudo cargar la información del álbum.');
+        });
+
+        document.querySelector('.add-to-wishlist-btn').addEventListener('click', function () {
+            if (currentAlbum) addToWishlist(currentAlbum);
+            else alert('No se pudo cargar la información del álbum.');
+        });
+    </script>
+</body>
+
+</html>
