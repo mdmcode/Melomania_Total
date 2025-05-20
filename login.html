@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <title>Iniciar Sesión | Melomanía Total</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="style.css" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <nav class="navbar">
+            <div class="logo">
+                <h1>Melomanía Total</h1>
+            </div>
+            <ul class="nav-links">
+                <li><a href="store.html">Tienda</a></li>
+                <li><a href="register.html">Registrarse</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <form id="login-form" style="max-width:400px; margin:40px auto; background:#fff; padding:24px; border-radius:10px;">
+            <h2 style="text-align:center;">Iniciar Sesión</h2>
+            <label for="login-email">Email:</label>
+            <input type="email" id="login-email" required>
+            <label for="login-password">Contraseña:</label>
+            <input type="password" id="login-password" required>
+            <button type="submit" style="margin-top:16px;">Entrar</button>
+            <p style="margin-top:10px; text-align:center;">¿No tienes cuenta? <a href="register.html">Regístrate</a></p>
+            <div id="login-message" style="color:red; text-align:center; margin-top:10px;"></div>
+        </form>
+    </main>
+    <footer>
+        <p style="text-align:center;">&copy; 2025 Melomanía Total. Todos los derechos reservados.</p>
+    </footer>
+    <script>
+        document.getElementById('login-form').addEventListener('submit', function(e) {
+            e.preventDefault();
+            const email = document.getElementById('login-email').value;
+            const password = document.getElementById('login-password').value;
+            const users = JSON.parse(localStorage.getItem('users')) || [];
+            const user = users.find(u => u.email === email && u.password === password);
+            if (user) {
+                localStorage.setItem('loggedUser', JSON.stringify(user));
+                window.location.href = "store.html";
+            } else {
+                document.getElementById('login-message').textContent = "Email o contraseña incorrectos.";
+            }
+        });
+    </script>
+</body>
+</html>

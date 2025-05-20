@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <title>Wishlist | Melomanía Total</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="style.css" rel="stylesheet">
+</head>
+
+<body>
+    <header>
+        <nav class="navbar">
+            <div class="logo">
+                <h1>Melomanía Total</h1>
+            </div>
+            <ul class="nav-links">
+                <li><a href="store.html">Tienda</a></li>
+                <li><a href="cart.html">Carrito</a></li>
+                <li><a href="wishlist.html">Wishlist</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <h2 style="text-align:center; margin: 30px 0 20px 0;">Tu Wishlist</h2>
+        <div id="wishlist-list" class="products"></div>
+        <div style="text-align:center;">
+            <button onclick="clearWishlist()"
+                style="background:#ff4d4d; color:#fff; border:none; padding:10px 24px; border-radius:5px; font-weight:bold; cursor:pointer;">Vaciar
+                Wishlist</button>
+        </div>
+    </main>
+    <footer>
+        <p style="text-align:center;">&copy; 2025 Melomanía Total. Todos los derechos reservados.</p>
+    </footer>
+    <script>
+        function renderWishlist() {
+            const wishlist = JSON.parse(localStorage.getItem('wishlist')) || [];
+            const container = document.getElementById('wishlist-list');
+            container.innerHTML = '';
+            if (wishlist.length === 0) {
+                container.innerHTML = '<p style="grid-column: 1 / -1; text-align:center;">Tu wishlist está vacía.</p>';
+                return;
+            }
+            wishlist.forEach((album, idx) => {
+                const albumDiv = document.createElement('div');
+                albumDiv.className = 'product';
+                albumDiv.innerHTML = `
+                    <img src="${album.cover}" alt="Album Cover">
+                    <h3>${album.title}</h3>
+                    <p>${album.artist}</p>
+                    <p>$${album.price}</p>
+                    <button class="add-to-cart-btn" data-index="${idx}">Agregar al carrito</button>
+
+                `;
+                container.appendChild(albumDiv);
+            });
+
+            // Agrega el event listener para los botones de agregar al carrito
+            container.querySelectorAll('.add-to-cart-btn').forEach(btn => {
+                btn.addEventListener('click', function () {
+                    const albumIndex = parseInt(this.getAttribute('data-index'));
+                    addToCart(wishlist[albumIndex]);
+                });
+            });
+        }
+
+        function addToCart(album) {
+            let cart = JSON.parse(localStorage.getItem('cart')) || [];
+            cart.push(album);
+            localStorage.setItem('cart', JSON.stringify(cart));
+            alert('Álbum agregado al carrito');
+        }
+
+        function clearWishlist() {
+            localStorage.removeItem('wishlist');
+            renderWishlist();
+        }
+        renderWishlist();
+    </script>
+</body>
+
+</html>
