@@ -1,14 +1,50 @@
 [
   {
+    "title": "1 1 1",
+    "artist": "Milo j",
+    "cover": "covers\\Milo_j_1_1_1.jpg",
+    "price": 99999
+  },
+  {
+    "title": "166",
+    "artist": "Milo j",
+    "cover": "covers\\Milo_j_166.jpg",
+    "price": 99999
+  },
+  {
+    "title": "1989 (Taylor's Version)",
+    "artist": "Taylor Swift",
+    "cover": "covers\\Taylor_Swift_1989_(Taylor's_Version).jpg",
+    "price": 99999
+  },
+  {
     "title": "22, A Million",
     "artist": "Bon Iver",
     "cover": "covers\\Bon_Iver_22,_A_Million.jpg",
     "price": 99999
   },
   {
-    "title": "Abbey Road",
+    "title": "A Day At The Races (2011 Remaster)",
+    "artist": "Queen",
+    "cover": "covers\\Queen_A_Day_At_The_Races_(2011_Remaster).jpg",
+    "price": 99999
+  },
+  {
+    "title": "A Kind Of Magic (2011 Remaster)",
+    "artist": "Queen",
+    "cover": "covers\\Queen_A_Kind_Of_Magic_(2011_Remaster).jpg",
+    "price": 99999
+  },
+  {
+    "title": "A Night At The Opera (2011 Remaster)",
+    "artist": "Queen",
+    "cover": "covers\\Queen_A_Night_At_The_Opera_(2011_Remaster).jpg",
+    "price": 99999
+  },
+  {
+    "title": "Abbey Road (Remastered)",
     "artist": "The Beatles",
-    "cover": "covers\\The_Beatles_Abbey_Road.jpg",
+    "cover": "covers\\The_Beatles_Abbey_Road_(Remastered).jpg",
     "price": 99999
   },
   {
@@ -18,9 +54,21 @@
     "price": 99999
   },
   {
+    "title": "Alligator Bites Never Heal",
+    "artist": "Doechii",
+    "cover": "covers\\Doechii_Alligator_Bites_Never_Heal.jpg",
+    "price": 99999
+  },
+  {
     "title": "Amnesiac",
     "artist": "Radiohead",
     "cover": "covers\\Radiohead_Amnesiac.jpg",
+    "price": 99999
+  },
+  {
+    "title": "Apa y Can",
+    "artist": "Canserbero",
+    "cover": "covers\\Canserbero_Apa_y_Can.jpg",
     "price": 99999
   },
   {
@@ -30,9 +78,39 @@
     "price": 99999
   },
   {
+    "title": "Apricot Princess",
+    "artist": "Rex Orange County",
+    "cover": "covers\\Rex_Orange_County_Apricot_Princess.jpg",
+    "price": 99999
+  },
+  {
     "title": "Aroma A Nostalgia",
     "artist": "Daniel Quién",
     "cover": "covers\\Daniel_Quién_Aroma_A_Nostalgia.jpg",
+    "price": 99999
+  },
+  {
+    "title": "Around the Fur",
+    "artist": "Deftones",
+    "cover": "covers\\Deftones_Around_the_Fur.jpg",
+    "price": 99999
+  },
+  {
+    "title": "ATP",
+    "artist": "Nsqk",
+    "cover": "covers\\Nsqk_ATP.jpg",
+    "price": 99999
+  },
+  {
+    "title": "Balloonerism",
+    "artist": "Mac Miller",
+    "cover": "covers\\Mac_Miller_Balloonerism.jpg",
+    "price": 99999
+  },
+  {
+    "title": "Bando Stone and The New World",
+    "artist": "Childish Gambino",
+    "cover": "covers\\Childish_Gambino_Bando_Stone_and_The_New_World.jpg",
     "price": 99999
   },
   {
@@ -60,9 +138,9 @@
     "price": 99999
   },
   {
-    "title": "Born to die",
+    "title": "Born To Die",
     "artist": "Lana Del Rey",
-    "cover": "covers\\Lana_Del_Rey_Born_to_die.jpg",
+    "cover": "covers\\Lana_Del_Rey_Born_To_Die.jpg",
     "price": 99999
   },
   {
@@ -72,9 +150,27 @@
     "price": 99999
   },
   {
-    "title": "Canción Animal",
+    "title": "CALL ME IF YOU GET LOST",
+    "artist": "Tyler, The Creator",
+    "cover": "covers\\Tyler,_The_Creator_CALL_ME_IF_YOU_GET_LOST.jpg",
+    "price": 99999
+  },
+  {
+    "title": "Can + Zoo Índigo",
+    "artist": "Canserbero",
+    "cover": "covers\\Canserbero_Can_+_Zoo_Índigo.jpg",
+    "price": 99999
+  },
+  {
+    "title": "Canción Animal (Remastered)",
     "artist": "Soda Stereo",
-    "cover": "covers\\Soda_Stereo_Canción_Animal.jpg",
+    "cover": "covers\\Soda_Stereo_Canción_Animal_(Remastered).jpg",
+    "price": 99999
+  },
+  {
+    "title": "channel ORANGE",
+    "artist": "Frank Ocean",
+    "cover": "covers\\Frank_Ocean_channel_ORANGE.jpg",
     "price": 99999
   },
   {
@@ -84,15 +180,27 @@
     "price": 99999
   },
   {
+    "title": "CHROMAKOPIA",
+    "artist": "Tyler, The Creator",
+    "cover": "covers\\Tyler,_The_Creator_CHROMAKOPIA.jpg",
+    "price": 99999
+  },
+  {
     "title": "Circles",
     "artist": "Mac Miller",
     "cover": "covers\\Mac_Miller_Circles.jpg",
     "price": 99999
   },
   {
-    "title": "The College Dropout",
-    "artist": "Kanye West",
-    "cover": "covers\\Kanye_West_The_College_Dropout.jpg",
+    "title": "Clancy",
+    "artist": "Twenty One Pilots",
+    "cover": "covers\\Twenty_One_Pilots_Clancy.jpg",
+    "price": 99999
+  },
+  {
+    "title": "Ctrl",
+    "artist": "SZA",
+    "cover": "covers\\SZA_Ctrl.jpg",
     "price": 99999
   },
   {
@@ -108,27 +216,21 @@
     "price": 99999
   },
   {
-    "title": "A Day At The Races",
-    "artist": "Queen",
-    "cover": "covers\\Queen_A_Day_At_The_Races.jpg",
-    "price": 99999
-  },
-  {
-    "title": "Did you know that there' s a tunnel under Ocean Blvd",
+    "title": "Did you know that there's a tunnel under Ocean Blvd",
     "artist": "Lana Del Rey",
-    "cover": "covers\\Lana_Del_Rey_Did_you_know_that_there'_s_a_tunnel_under_Ocean_Blvd.jpg",
+    "cover": "covers\\Lana_Del_Rey_Did_you_know_that_there's_a_tunnel_under_Ocean_Blvd.jpg",
     "price": 99999
   },
   {
-    "title": "don' t smile at me",
+    "title": "dont smile at me",
     "artist": "Billie Eilish",
-    "cover": "covers\\Billie_Eilish_don'_t_smile_at_me.jpg",
+    "cover": "covers\\Billie_Eilish_dont_smile_at_me.jpg",
     "price": 99999
   },
   {
-    "title": "The Doors",
-    "artist": "The Doors",
-    "cover": "covers\\The_Doors_The_Doors.jpg",
+    "title": "DURO",
+    "artist": "Natalia Lacunza",
+    "cover": "covers\\Natalia_Lacunza_DURO.jpg",
     "price": 99999
   },
   {
@@ -150,6 +252,12 @@
     "price": 99999
   },
   {
+    "title": "Ella and Louis",
+    "artist": "Ella Fitzgerald",
+    "cover": "covers\\Ella_Fitzgerald_Ella_and_Louis.jpg",
+    "price": 99999
+  },
+  {
     "title": "emails i can't send",
     "artist": "Sabrina Carpenter",
     "cover": "covers\\Sabrina_Carpenter_emails_i_can't_send.jpg",
@@ -157,20 +265,44 @@
   },
   {
     "title": "en dormir sin Madrid",
-    "artist": "Milo J",
-    "cover": "covers\\Milo_J_en_dormir_sin_Madrid.jpg",
+    "artist": "Bizarrap",
+    "cover": "covers\\Bizarrap_en_dormir_sin_Madrid.jpg",
     "price": 99999
   },
   {
-    "title": "ep2",
+    "title": "Enter The Wu-Tang (36 Chambers) [Expanded Edition]",
+    "artist": "Wu-Tang Clan",
+    "cover": "covers\\Wu-Tang_Clan_Enter_The_Wu-Tang_(36_Chambers)_[Expanded_Edition].jpg",
+    "price": 99999
+  },
+  {
+    "title": "ep2 🌧",
     "artist": "Natalia Lacunza",
-    "cover": "covers\\Natalia_Lacunza_ep2.jpg",
+    "cover": "covers\\Natalia_Lacunza_ep2_🌧.jpg",
+    "price": 99999
+  },
+  {
+    "title": "eternal sunshine",
+    "artist": "Ariana Grande",
+    "cover": "covers\\Ariana_Grande_eternal_sunshine.jpg",
+    "price": 99999
+  },
+  {
+    "title": "eternal sunshine deluxe: brighter days ahead",
+    "artist": "Ariana Grande",
+    "cover": "covers\\Ariana_Grande_eternal_sunshine_deluxe_brighter_days_ahead.jpg",
     "price": 99999
   },
   {
     "title": "evermore",
     "artist": "Taylor Swift",
     "cover": "covers\\Taylor_Swift_evermore.jpg",
+    "price": 99999
+  },
+  {
+    "title": "Fancy That",
+    "artist": "PinkPantheress",
+    "cover": "covers\\PinkPantheress_Fancy_That.jpg",
     "price": 99999
   },
   {
@@ -192,15 +324,21 @@
     "price": 99999
   },
   {
-    "title": "The Game",
-    "artist": "Queen",
-    "cover": "covers\\Queen_The_Game.jpg",
+    "title": "fruitcake",
+    "artist": "Sabrina Carpenter",
+    "cover": "covers\\Sabrina_Carpenter_fruitcake.jpg",
     "price": 99999
   },
   {
     "title": "GINGER",
     "artist": "BROCKHAMPTON",
     "cover": "covers\\BROCKHAMPTON_GINGER.jpg",
+    "price": 99999
+  },
+  {
+    "title": "GNX",
+    "artist": "Kendrick Lamar",
+    "cover": "covers\\Kendrick_Lamar_GNX.jpg",
     "price": 99999
   },
   {
@@ -228,6 +366,18 @@
     "price": 99999
   },
   {
+    "title": "Hail To the Thief",
+    "artist": "Radiohead",
+    "cover": "covers\\Radiohead_Hail_To_the_Thief.jpg",
+    "price": 99999
+  },
+  {
+    "title": "Hamilton (Original Broadway Cast Recording)",
+    "artist": "Lin-Manuel Miranda",
+    "cover": "covers\\Lin-Manuel_Miranda_Hamilton_(Original_Broadway_Cast_Recording).jpg",
+    "price": 99999
+  },
+  {
     "title": "Happier Than Ever",
     "artist": "Billie Eilish",
     "cover": "covers\\Billie_Eilish_Happier_Than_Ever.jpg",
@@ -237,6 +387,12 @@
     "title": "Harry's House",
     "artist": "Harry Styles",
     "cover": "covers\\Harry_Styles_Harry's_House.jpg",
+    "price": 99999
+  },
+  {
+    "title": "Heaven knows",
+    "artist": "PinkPantheress",
+    "cover": "covers\\PinkPantheress_Heaven_knows.jpg",
     "price": 99999
   },
   {
@@ -252,15 +408,27 @@
     "price": 99999
   },
   {
+    "title": "I Put A Spell On You",
+    "artist": "Nina Simone",
+    "cover": "covers\\Nina_Simone_I_Put_A_Spell_On_You.jpg",
+    "price": 99999
+  },
+  {
     "title": "IGOR",
     "artist": "Tyler, The Creator",
     "cover": "covers\\Tyler,_The_Creator_IGOR.jpg",
     "price": 99999
   },
   {
-    "title": "Innuendo",
-    "artist": "Queen",
-    "cover": "covers\\Queen_Innuendo.jpg",
+    "title": "Illmatic",
+    "artist": "Nas",
+    "cover": "covers\\Nas_Illmatic.jpg",
+    "price": 99999
+  },
+  {
+    "title": "Imaginal Disk",
+    "artist": "Magdalena Bay",
+    "cover": "covers\\Magdalena_Bay_Imaginal_Disk.jpg",
     "price": 99999
   },
   {
@@ -270,15 +438,27 @@
     "price": 99999
   },
   {
+    "title": "Innuendo (2011 Remaster)",
+    "artist": "Queen",
+    "cover": "covers\\Queen_Innuendo_(2011_Remaster).jpg",
+    "price": 99999
+  },
+  {
     "title": "iridescence",
     "artist": "BROCKHAMPTON",
     "cover": "covers\\BROCKHAMPTON_iridescence.jpg",
     "price": 99999
   },
   {
-    "title": "Jazz",
+    "title": "It's Dark And Hell Is Hot",
+    "artist": "DMX",
+    "cover": "covers\\default_cover.jpg",
+    "price": 99999
+  },
+  {
+    "title": "Jazz (2011 Remaster)",
     "artist": "Queen",
-    "cover": "covers\\Queen_Jazz.jpg",
+    "cover": "covers\\Queen_Jazz_(2011_Remaster).jpg",
     "price": 99999
   },
   {
@@ -288,21 +468,33 @@
     "price": 99999
   },
   {
+    "title": "Just As I Am",
+    "artist": "Bill Withers",
+    "cover": "covers\\Bill_Withers_Just_As_I_Am.jpg",
+    "price": 99999
+  },
+  {
     "title": "Kid A",
     "artist": "Radiohead",
     "cover": "covers\\Radiohead_Kid_A.jpg",
     "price": 99999
   },
   {
-    "title": "A Kind Of Magic",
-    "artist": "Queen",
-    "cover": "covers\\Queen_A_Kind_Of_Magic.jpg",
+    "title": "Kind Of Blue (Legacy Edition)",
+    "artist": "Miles Davis",
+    "cover": "covers\\Miles_Davis_Kind_Of_Blue_(Legacy_Edition).jpg",
     "price": 99999
   },
   {
     "title": "La Casa No Existe",
     "artist": "Alejandro y Maria Laura",
     "cover": "covers\\Alejandro_y_Maria_Laura_La_Casa_No_Existe.jpg",
+    "price": 99999
+  },
+  {
+    "title": "La Pipa De La Paz",
+    "artist": "Aterciopelados",
+    "cover": "covers\\Aterciopelados_La_Pipa_De_La_Paz.jpg",
     "price": 99999
   },
   {
@@ -318,9 +510,9 @@
     "price": 99999
   },
   {
-    "title": "The Life Of Pablo",
-    "artist": "Kanye West",
-    "cover": "covers\\Kanye_West_The_Life_Of_Pablo.jpg",
+    "title": "Love Deluxe",
+    "artist": "Sade",
+    "cover": "covers\\Sade_Love_Deluxe.jpg",
     "price": 99999
   },
   {
@@ -342,6 +534,18 @@
     "price": 99999
   },
   {
+    "title": "Madvillainy",
+    "artist": "Madvillain",
+    "cover": "covers\\Madvillain_Madvillainy.jpg",
+    "price": 99999
+  },
+  {
+    "title": "Mama's Gun",
+    "artist": "Erykah Badu",
+    "cover": "covers\\Erykah_Badu_Mama's_Gun.jpg",
+    "price": 99999
+  },
+  {
     "title": "Melodrama",
     "artist": "Lorde",
     "cover": "covers\\Lorde_Melodrama.jpg",
@@ -354,9 +558,15 @@
     "price": 99999
   },
   {
-    "title": "MM... FOOD",
+    "title": "MM..FOOD",
     "artist": "MF DOOM",
-    "cover": "covers\\MF_DOOM_MM..._FOOD.jpg",
+    "cover": "covers\\MF_DOOM_MM..FOOD.jpg",
+    "price": 99999
+  },
+  {
+    "title": "MONTERO",
+    "artist": "Lil Nas X",
+    "cover": "covers\\Lil_Nas_X_MONTERO.jpg",
     "price": 99999
   },
   {
@@ -366,33 +576,45 @@
     "price": 99999
   },
   {
+    "title": "Mr Bad Guy (Special Edition)",
+    "artist": "Freddie Mercury",
+    "cover": "covers\\Freddie_Mercury_Mr_Bad_Guy_(Special_Edition).jpg",
+    "price": 99999
+  },
+  {
+    "title": "Mr. Morale & The Big Steppers",
+    "artist": "Kendrick Lamar",
+    "cover": "covers\\Kendrick_Lamar_Mr._Morale_&_The_Big_Steppers.jpg",
+    "price": 99999
+  },
+  {
     "title": "Muerte",
     "artist": "Canserbero",
     "cover": "covers\\Canserbero_Muerte.jpg",
     "price": 99999
   },
   {
-    "title": "News Of The World",
-    "artist": "Queen",
-    "cover": "covers\\Queen_News_Of_The_World.jpg",
+    "title": "Nevermind (Remastered)",
+    "artist": "Nirvana",
+    "cover": "covers\\Nirvana_Nevermind_(Remastered).jpg",
     "price": 99999
   },
   {
-    "title": "A Night At The Opera",
+    "title": "News Of The World (2011 Remaster)",
     "artist": "Queen",
-    "cover": "covers\\Queen_A_Night_At_The_Opera.jpg",
+    "cover": "covers\\Queen_News_Of_The_World_(2011_Remaster).jpg",
     "price": 99999
   },
   {
-    "title": "Norman Fucking Rockwell",
+    "title": "Norman Fucking Rockwell!",
     "artist": "Lana Del Rey",
-    "cover": "covers\\Lana_Del_Rey_Norman_Fucking_Rockwell.jpg",
+    "cover": "covers\\Lana_Del_Rey_Norman_Fucking_Rockwell!.jpg",
     "price": 99999
   },
   {
-    "title": "OK COMPUTER",
+    "title": "OK Computer",
     "artist": "Radiohead",
-    "cover": "covers\\Radiohead_OK_COMPUTER.jpg",
+    "cover": "covers\\Radiohead_OK_Computer.jpg",
     "price": 99999
   },
   {
@@ -402,15 +624,27 @@
     "price": 99999
   },
   {
+    "title": "OSCURO ÉXTASIS",
+    "artist": "WOS",
+    "cover": "covers\\WOS_OSCURO_ÉXTASIS.jpg",
+    "price": 99999
+  },
+  {
+    "title": "Paradise",
+    "artist": "Lana Del Rey",
+    "cover": "covers\\Lana_Del_Rey_Paradise.jpg",
+    "price": 99999
+  },
+  {
     "title": "Planet Her",
     "artist": "Doja Cat",
     "cover": "covers\\Doja_Cat_Planet_Her.jpg",
     "price": 99999
   },
   {
-    "title": "Por Cesárea",
+    "title": "Por cesárea",
     "artist": "Dillom",
-    "cover": "covers\\Dillom_Por_Cesárea.jpg",
+    "cover": "covers\\Dillom_Por_cesárea.jpg",
     "price": 99999
   },
   {
@@ -432,6 +666,18 @@
     "price": 99999
   },
   {
+    "title": "Process",
+    "artist": "Sampha",
+    "cover": "covers\\Sampha_Process.jpg",
+    "price": 99999
+  },
+  {
+    "title": "Punisher",
+    "artist": "Phoebe Bridgers",
+    "cover": "covers\\Phoebe_Bridgers_Punisher.jpg",
+    "price": 99999
+  },
+  {
     "title": "Raro",
     "artist": "El Cuarteto De Nos",
     "cover": "covers\\El_Cuarteto_De_Nos_Raro.jpg",
@@ -441,6 +687,12 @@
     "title": "Re",
     "artist": "Café Tacvba",
     "cover": "covers\\Café_Tacvba_Re.jpg",
+    "price": 99999
+  },
+  {
+    "title": "Red (Taylor's Version)",
+    "artist": "Taylor Swift",
+    "cover": "covers\\Taylor_Swift_Red_(Taylor's_Version).jpg",
     "price": 99999
   },
   {
@@ -456,33 +708,75 @@
     "price": 99999
   },
   {
+    "title": "Río Salvaje",
+    "artist": "Little Jesus",
+    "cover": "covers\\Little_Jesus_Río_Salvaje.jpg",
+    "price": 99999
+  },
+  {
+    "title": "rosie",
+    "artist": "ROSÉ",
+    "cover": "covers\\ROSÉ_rosie.jpg",
+    "price": 99999
+  },
+  {
+    "title": "Rumours",
+    "artist": "Fleetwood Mac",
+    "cover": "covers\\Fleetwood_Mac_Rumours.jpg",
+    "price": 99999
+  },
+  {
     "title": "Scarlet",
     "artist": "Doja Cat",
     "cover": "covers\\Doja_Cat_Scarlet.jpg",
     "price": 99999
   },
   {
-    "title": "Sgt. Pepper's Lonely Hearts Club Band",
+    "title": "Sgt. Pepper's Lonely Hearts Club Band (Remastered)",
     "artist": "The Beatles",
-    "cover": "covers\\The_Beatles_Sgt._Pepper's_Lonely_Hearts_Club_Band.jpg",
+    "cover": "covers\\The_Beatles_Sgt._Pepper's_Lonely_Hearts_Club_Band_(Remastered).jpg",
     "price": 99999
   },
   {
-    "title": "Short n'  Sweet",
+    "title": "Sheer Heart Attack (2011 Remaster)",
+    "artist": "Queen",
+    "cover": "covers\\Queen_Sheer_Heart_Attack_(2011_Remaster).jpg",
+    "price": 99999
+  },
+  {
+    "title": "Short n' Sweet",
     "artist": "Sabrina Carpenter",
-    "cover": "covers\\Sabrina_Carpenter_Short_n'__Sweet.jpg",
+    "cover": "covers\\Sabrina_Carpenter_Short_n'_Sweet.jpg",
     "price": 99999
   },
   {
-    "title": "Sin Miedo (del Amor y Otros Demonios)",
+    "title": "Short n' Sweet (Deluxe)",
+    "artist": "Sabrina Carpenter",
+    "cover": "covers\\Sabrina_Carpenter_Short_n'_Sweet_(Deluxe).jpg",
+    "price": 99999
+  },
+  {
+    "title": "Sin Miedo (del Amor y Otros Demonios) ∞",
     "artist": "Kali Uchis",
-    "cover": "covers\\Kali_Uchis_Sin_Miedo_(del_Amor_y_Otros_Demonios).jpg",
+    "cover": "covers\\Kali_Uchis_Sin_Miedo_(del_Amor_y_Otros_Demonios)_∞.jpg",
+    "price": 99999
+  },
+  {
+    "title": "Sincerely,",
+    "artist": "Kali Uchis",
+    "cover": "covers\\Kali_Uchis_Sincerely,.jpg",
     "price": 99999
   },
   {
     "title": "SOS",
     "artist": "SZA",
     "cover": "covers\\SZA_SOS.jpg",
+    "price": 99999
+  },
+  {
+    "title": "SOS Deluxe: LANA",
+    "artist": "SZA",
+    "cover": "covers\\SZA_SOS_Deluxe_LANA.jpg",
     "price": 99999
   },
   {
@@ -504,15 +798,75 @@
     "price": 99999
   },
   {
+    "title": "Stranger in the Alps",
+    "artist": "Phoebe Bridgers",
+    "cover": "covers\\Phoebe_Bridgers_Stranger_in_the_Alps.jpg",
+    "price": 99999
+  },
+  {
+    "title": "Submarine",
+    "artist": "The Marías",
+    "cover": "covers\\The_Marías_Submarine.jpg",
+    "price": 99999
+  },
+  {
     "title": "Swimming",
     "artist": "Mac Miller",
     "cover": "covers\\Mac_Miller_Swimming.jpg",
     "price": 99999
   },
   {
-    "title": "to hell with it",
-    "artist": "PinkPantheress",
-    "cover": "covers\\PinkPantheress_to_hell_with_it.jpg",
+    "title": "Teatro d'ira - Vol. I",
+    "artist": "Måneskin",
+    "cover": "covers\\Måneskin_Teatro_d'ira_-_Vol._I.jpg",
+    "price": 99999
+  },
+  {
+    "title": "The College Dropout",
+    "artist": "Kanye West",
+    "cover": "covers\\Kanye_West_The_College_Dropout.jpg",
+    "price": 99999
+  },
+  {
+    "title": "The Dark Side of the Moon",
+    "artist": "Pink Floyd",
+    "cover": "covers\\Pink_Floyd_The_Dark_Side_of_the_Moon.jpg",
+    "price": 99999
+  },
+  {
+    "title": "The Divine Feminine",
+    "artist": "Mac Miller",
+    "cover": "covers\\Mac_Miller_The_Divine_Feminine.jpg",
+    "price": 99999
+  },
+  {
+    "title": "The Doors",
+    "artist": "The Doors",
+    "cover": "covers\\The_Doors_The_Doors.jpg",
+    "price": 99999
+  },
+  {
+    "title": "The Game (2011 Remaster)",
+    "artist": "Queen",
+    "cover": "covers\\Queen_The_Game_(2011_Remaster).jpg",
+    "price": 99999
+  },
+  {
+    "title": "The Life Of Pablo",
+    "artist": "Kanye West",
+    "cover": "covers\\Kanye_West_The_Life_Of_Pablo.jpg",
+    "price": 99999
+  },
+  {
+    "title": "The Miseducation of Lauryn Hill",
+    "artist": "Ms. Lauryn Hill",
+    "cover": "covers\\Ms._Lauryn_Hill_The_Miseducation_of_Lauryn_Hill.jpg",
+    "price": 99999
+  },
+  {
+    "title": "The New Abnormal",
+    "artist": "The Strokes",
+    "cover": "covers\\The_Strokes_The_New_Abnormal.jpg",
     "price": 99999
   },
   {
@@ -528,45 +882,39 @@
     "price": 99999
   },
   {
+    "title": "The Works (2011 Remaster)",
+    "artist": "Queen",
+    "cover": "covers\\Queen_The_Works_(2011_Remaster).jpg",
+    "price": 99999
+  },
+  {
+    "title": "to hell with it",
+    "artist": "PinkPantheress",
+    "cover": "covers\\PinkPantheress_to_hell_with_it.jpg",
+    "price": 99999
+  },
+  {
+    "title": "To Pimp A Butterfly",
+    "artist": "Kendrick Lamar",
+    "cover": "covers\\Kendrick_Lamar_To_Pimp_A_Butterfly.jpg",
+    "price": 99999
+  },
+  {
     "title": "Trench",
     "artist": "Twenty One Pilots",
     "cover": "covers\\Twenty_One_Pilots_Trench.jpg",
     "price": 99999
   },
   {
-    "title": "Ultraviolence",
+    "title": "Twin Fantasy",
+    "artist": "Car Seat Headrest",
+    "cover": "covers\\Car_Seat_Headrest_Twin_Fantasy.jpg",
+    "price": 99999
+  },
+  {
+    "title": "Ultraviolence (Deluxe)",
     "artist": "Lana Del Rey",
-    "cover": "covers\\Lana_Del_Rey_Ultraviolence.jpg",
-    "price": 99999
-  },
-  {
-    "title": "Madvillainy",
-    "artist": "MF DOOM",
-    "cover": "covers\\MF_DOOM_Madvillainy.jpg",
-    "price": 99999
-  },
-  {
-    "title": "111",
-    "artist": "Milo j\n",
-    "cover": "covers\\Milo_j\n_111.jpg",
-    "price": 99999
-  },
-  {
-    "title": "The Divine Feminine",
-    "artist": "Mac Miller",
-    "cover": "covers\\Mac_Miller_The_Divine_Feminine.jpg",
-    "price": 99999
-  },
-  {
-    "title": "1989 (Taylor' s Version)",
-    "artist": "Taylor Swift",
-    "cover": "covers\\Taylor_Swift_1989_(Taylor'_s_Version).jpg",
-    "price": 99999
-  },
-  {
-    "title": "CHROMAKOPIA",
-    "artist": "Tyler, The Creator",
-    "cover": "covers\\Tyler,_The_Creator_CHROMAKOPIA.jpg",
+    "cover": "covers\\Lana_Del_Rey_Ultraviolence_(Deluxe).jpg",
     "price": 99999
   },
   {
@@ -582,33 +930,27 @@
     "price": 99999
   },
   {
+    "title": "Voodoo",
+    "artist": "D'Angelo",
+    "cover": "covers\\D'Angelo_Voodoo.jpg",
+    "price": 99999
+  },
+  {
+    "title": "Wallsocket",
+    "artist": "underscores",
+    "cover": "covers\\underscores_Wallsocket.jpg",
+    "price": 99999
+  },
+  {
+    "title": "What's Going On",
+    "artist": "Marvin Gaye",
+    "cover": "covers\\Marvin_Gaye_What's_Going_On.jpg",
+    "price": 99999
+  },
+  {
     "title": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
     "artist": "Billie Eilish",
     "cover": "covers\\Billie_Eilish_WHEN_WE_ALL_FALL_ASLEEP,_WHERE_DO_WE_GO.jpg",
-    "price": 99999
-  },
-  {
-    "title": "The Works",
-    "artist": "Queen",
-    "cover": "covers\\Queen_The_Works.jpg",
-    "price": 99999
-  },
-  {
-    "title": "166",
-    "artist": "Milo j",
-    "cover": "covers\\Milo_j_166.jpg",
-    "price": 99999
-  },
-  {
-    "title": "The Miseducation of Lauryn Hill",
-    "artist": "Ms. Lauryn Hill",
-    "cover": "covers\\Ms._Lauryn_Hill_The_Miseducation_of_Lauryn_Hill.jpg",
-    "price": 99999
-  },
-  {
-    "title": "Teatro d' ira - Vol. I",
-    "artist": "Måneskin",
-    "cover": "covers\\Måneskin_Teatro_d'_ira_-_Vol._I.jpg",
     "price": 99999
   }
 ]

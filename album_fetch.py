@@ -12,13 +12,17 @@ def sanitize_filename(filename):
 
 # Se conecta a la base de datos y selecciona el nombre y el artista de los albums en la tabla album
 def fetch_albums(db_params):
-    conn = psycopg2.connect(**db_params)
-    cursor = conn.cursor()
-    cursor.execute("SELECT album_name, artist FROM album")
-    albums = cursor.fetchall()
-    conn.close()
-    return albums
-
+        conn = psycopg2.connect(**db_params)
+        cursor = conn.cursor()
+        cursor.execute("""
+            SELECT album.album_name, artist.artist_name 
+            FROM album 
+            JOIN artist ON album.artist_id = artist.id
+        """)
+        albums = cursor.fetchall()
+        conn.close()
+        return albums
+    
 def get_spotify_token(client_id, client_secret):
     import requests
     import base64
@@ -60,6 +64,30 @@ def download_cover_itunes(title, artist, save_dir="covers"):
     else:
         print(f"No cover found on iTunes for {artist} - {title}")
         return False
+    
+def download_cover_lastfm(title, artist, api_key='1373dea53f05ccbb3143a0660d0be3ab', save_dir="covers"):
+    import requests, os, urllib.parse
+    os.makedirs(save_dir, exist_ok=True)
+    url = f"http://ws.audioscrobbler.com/2.0/?method=album.getinfo&api_key={api_key}&artist={urllib.parse.quote(artist)}&album={urllib.parse.quote(title)}&format=json"
+    response = requests.get(url)
+    if response.status_code != 200:
+        print(f"Last.fm fetch failed for {artist}_{title}")
+        return False
+    data = response.json()
+    if 'album' in data and 'image' in data['album']:
+        # Get the largest image (usually 'extralarge')
+        images = data['album']['image']
+        large_image = next((img['#text'] for img in images if img['size'] == 'extralarge'), None)
+        if large_image:
+            img_data = requests.get(large_image).content
+            raw_filename = f"{save_dir}/{artist}_{title}_lastfm.jpg".replace(" ", "_")
+            filename = sanitize_filename(raw_filename)
+            with open(filename, "wb") as f:
+                f.write(img_data)
+            print(f"Downloaded from Last.fm: {filename}")
+            return True
+    print(f"No cover found on Last.fm for {artist} - {title}")
+    return False
 
 def download_cover(title, artist, token, save_dir="covers"):
     import requests, os, urllib.parse
@@ -98,7 +126,27 @@ if __name__ == "__main__":
         "port": 5432
     }
     albums = fetch_albums(db_params)
+    print(f"Found {len(albums)} albums in database")
+    
+    downloaded_count = 0
+    processed_count = 0
+    
     for name, artist in albums:
+        processed_count += 1
+        name = name.strip() if isinstance(name, str) else name
+        artist = artist.strip() if isinstance(artist, str) else artist
+        print(f"Processing {processed_count}/{len(albums)}: '{name}' by '{artist}'")
+        
         found = download_cover(name, artist, spotify_token)
-        if not found:
-            download_cover_itunes(name, artist)
+        if found:
+            downloaded_count += 1
+        else:
+            lastfm_found = download_cover_lastfm(name, artist)
+            if lastfm_found:
+                downloaded_count += 1
+            else:
+                itunes_found = download_cover_itunes(name, artist)
+                if itunes_found:
+                    downloaded_count += 1
+    
+    print(f"\nSummary: Processed {processed_count} albums, downloaded {downloaded_count} covers")
