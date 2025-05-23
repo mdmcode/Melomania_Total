@@ -13,12 +13,12 @@ function renderAlbums(page) {
         album.title.toLowerCase().includes(searchTerm.toLowerCase()) ||
         album.artist.toLowerCase().includes(searchTerm.toLowerCase())
     );
-    
+
     // Calcula la cantidad de paginas
     totalPages = Math.ceil(filteredAlbums.length / ALBUMS_PER_PAGE);
     if (page > totalPages) page = 1;
     currentPage = page;
-    
+
     const start = (page - 1) * ALBUMS_PER_PAGE;
     const end = start + ALBUMS_PER_PAGE;
     const pageAlbums = filteredAlbums.slice(start, end);
@@ -28,32 +28,37 @@ function renderAlbums(page) {
         const albumDiv = document.createElement("div");
         albumDiv.className = "product";
         albumDiv.innerHTML = `
-        <a href="album.html?title=${encodeURIComponent(album.title)}&artist=${encodeURIComponent(album.artist)}">
-            <img src="${album.cover}" alt="Album Cover">
-            <h3>${album.title}</h3>
-        </a>
-        <p>${album.artist}</p>
-        <p>$${album.price}</p>
-        <div class = 'botones_product'>
-            <button class="add-to-cart-btn" data-index="${start + pageAlbums.indexOf(album)}">Agregar al carrito</button>
-            <button class="add-to-wishlist-btn" data-index="${start + pageAlbums.indexOf(album)}">❤️ Wishlist</button>
-        </div>
-    `;
+            <a href="album.html?title=${encodeURIComponent(album.title)}&artist=${encodeURIComponent(album.artist)}">
+                <img src="${album.cover}" alt="Album Cover">
+                <h3>${album.title}</h3>
+            </a>
+            <p>${album.artist}</p>
+            <p>$${album.price}</p>
+            <div class = 'botones_product'>
+                <button class="add-to-cart-btn" data-index="${start + pageAlbums.indexOf(album)}">Agregar al carrito</button>
+                <button class="add-to-wishlist-btn" data-index="${start + pageAlbums.indexOf(album)}">❤️ Wishlist</button>
+            </div>
+        `;
+
+        const cartBtn = albumDiv.querySelector('.add-to-cart-btn');
+        const wishlistBtn = albumDiv.querySelector('.add-to-wishlist-btn');
+
+        cartBtn.albumData = album;
+        wishlistBtn.albumData = album;
+
         container.appendChild(albumDiv);
     });
 
     // Event listeners
     container.querySelectorAll('.add-to-cart-btn').forEach(btn => {
         btn.addEventListener('click', function () {
-            const albumIndex = parseInt(this.getAttribute('data-index'));
-            addToCart(albums[albumIndex]);
+            addToCart(this.albumData);
         });
     });
 
     container.querySelectorAll('.add-to-wishlist-btn').forEach(btn => {
         btn.addEventListener('click', function () {
-            const albumIndex = parseInt(this.getAttribute('data-index'));
-            addToWishlist(albums[albumIndex]);
+            addToWishlist(this.albumData);
         });
     });
 
@@ -118,7 +123,7 @@ fetch("albums.json")
         // Permite la busqueda:
         const searchBar = document.getElementById('search-bar');
         if (searchBar) {
-            searchBar.addEventListener('input', function() {
+            searchBar.addEventListener('input', function () {
                 searchTerm = this.value;
                 renderAlbums(1);
             });
