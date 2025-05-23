@@ -1,5 +1,371 @@
 [
   {
+    "album_title": "1 1 1",
+    "artist": "Milo j",
+    "track_number": 1,
+    "track_title": "LO QUE ME CAUSA"
+  },
+  {
+    "album_title": "1 1 1",
+    "artist": "Milo j",
+    "track_number": 1,
+    "track_title": "3 PECADOS DESPUES…"
+  },
+  {
+    "album_title": "1 1 1",
+    "artist": "Milo j",
+    "track_number": 1,
+    "track_title": "RETIRADA"
+  },
+  {
+    "album_title": "1 1 1",
+    "artist": "Milo j",
+    "track_number": 2,
+    "track_title": "ANTES DE LOS 20"
+  },
+  {
+    "album_title": "1 1 1",
+    "artist": "Milo j",
+    "track_number": 2,
+    "track_title": "LA TORTURA"
+  },
+  {
+    "album_title": "1 1 1",
+    "artist": "Milo j",
+    "track_number": 3,
+    "track_title": "NI CARLOS NI JOSE"
+  },
+  {
+    "album_title": "1 1 1",
+    "artist": "Milo j",
+    "track_number": 3,
+    "track_title": "BUEN DÍA PORTACIÓN DE ROSTRO"
+  },
+  {
+    "album_title": "1 1 1",
+    "artist": "Milo j",
+    "track_number": 4,
+    "track_title": "LA TOLA Y EL VELERO"
+  },
+  {
+    "album_title": "1 1 1",
+    "artist": "Milo j",
+    "track_number": 4,
+    "track_title": "DAÑA (ELVIRA)"
+  },
+  {
+    "album_title": "1 1 1",
+    "artist": "Milo j",
+    "track_number": 5,
+    "track_title": "A VOS"
+  },
+  {
+    "album_title": "1 1 1",
+    "artist": "Milo j",
+    "track_number": 5,
+    "track_title": "NO NO"
+  },
+  {
+    "album_title": "1 1 1",
+    "artist": "Milo j",
+    "track_number": 6,
+    "track_title": "PARAISO (daña)"
+  },
+  {
+    "album_title": "1 1 1",
+    "artist": "Milo j",
+    "track_number": 6,
+    "track_title": "OLIMPO"
+  },
+  {
+    "album_title": "1 1 1",
+    "artist": "Milo j",
+    "track_number": 7,
+    "track_title": "ALIOLI"
+  },
+  {
+    "album_title": "1 1 1",
+    "artist": "Milo j",
+    "track_number": 7,
+    "track_title": "OJALA"
+  },
+  {
+    "album_title": "1 1 1",
+    "artist": "Milo j",
+    "track_number": 8,
+    "track_title": "DIGAN"
+  },
+  {
+    "album_title": "1 1 1",
+    "artist": "Milo j",
+    "track_number": 9,
+    "track_title": "NO HAGO TRAP"
+  },
+  {
+    "album_title": "1 1 1",
+    "artist": "Milo j",
+    "track_number": 10,
+    "track_title": "I' AM"
+  },
+  {
+    "album_title": "1 1 1",
+    "artist": "Milo j",
+    "track_number": 11,
+    "track_title": "SANGRE PARA DERRAMAR"
+  },
+  {
+    "album_title": "1 1 1",
+    "artist": "Milo j",
+    "track_number": 12,
+    "track_title": "HIPPIE"
+  },
+  {
+    "album_title": "166",
+    "artist": "Milo j",
+    "track_number": 1,
+    "track_title": "RETIRADA"
+  },
+  {
+    "album_title": "166",
+    "artist": "Milo j",
+    "track_number": 1,
+    "track_title": "3 PECADOS DESPUES…"
+  },
+  {
+    "album_title": "166",
+    "artist": "Milo j",
+    "track_number": 1,
+    "track_title": "LO QUE ME CAUSA"
+  },
+  {
+    "album_title": "166",
+    "artist": "Milo j",
+    "track_number": 2,
+    "track_title": "ANTES DE LOS 20"
+  },
+  {
+    "album_title": "166",
+    "artist": "Milo j",
+    "track_number": 2,
+    "track_title": "LA TORTURA"
+  },
+  {
+    "album_title": "166",
+    "artist": "Milo j",
+    "track_number": 3,
+    "track_title": "BUEN DÍA PORTACIÓN DE ROSTRO"
+  },
+  {
+    "album_title": "166",
+    "artist": "Milo j",
+    "track_number": 3,
+    "track_title": "NI CARLOS NI JOSE"
+  },
+  {
+    "album_title": "166",
+    "artist": "Milo j",
+    "track_number": 4,
+    "track_title": "DAÑA (ELVIRA)"
+  },
+  {
+    "album_title": "166",
+    "artist": "Milo j",
+    "track_number": 4,
+    "track_title": "LA TOLA Y EL VELERO"
+  },
+  {
+    "album_title": "166",
+    "artist": "Milo j",
+    "track_number": 5,
+    "track_title": "NO NO"
+  },
+  {
+    "album_title": "166",
+    "artist": "Milo j",
+    "track_number": 5,
+    "track_title": "A VOS"
+  },
+  {
+    "album_title": "166",
+    "artist": "Milo j",
+    "track_number": 6,
+    "track_title": "OLIMPO"
+  },
+  {
+    "album_title": "166",
+    "artist": "Milo j",
+    "track_number": 6,
+    "track_title": "PARAISO (daña)"
+  },
+  {
+    "album_title": "166",
+    "artist": "Milo j",
+    "track_number": 7,
+    "track_title": "ALIOLI"
+  },
+  {
+    "album_title": "166",
+    "artist": "Milo j",
+    "track_number": 7,
+    "track_title": "OJALA"
+  },
+  {
+    "album_title": "166",
+    "artist": "Milo j",
+    "track_number": 8,
+    "track_title": "DIGAN"
+  },
+  {
+    "album_title": "166",
+    "artist": "Milo j",
+    "track_number": 9,
+    "track_title": "NO HAGO TRAP"
+  },
+  {
+    "album_title": "166",
+    "artist": "Milo j",
+    "track_number": 10,
+    "track_title": "I' AM"
+  },
+  {
+    "album_title": "166",
+    "artist": "Milo j",
+    "track_number": 11,
+    "track_title": "SANGRE PARA DERRAMAR"
+  },
+  {
+    "album_title": "166",
+    "artist": "Milo j",
+    "track_number": 12,
+    "track_title": "HIPPIE"
+  },
+  {
+    "album_title": "1989 (Taylor's Version)",
+    "artist": "Taylor Swift",
+    "track_number": 1,
+    "track_title": "Welcome To New York (Taylor's Version)"
+  },
+  {
+    "album_title": "1989 (Taylor's Version)",
+    "artist": "Taylor Swift",
+    "track_number": 2,
+    "track_title": "Blank Space (Taylor's Version)"
+  },
+  {
+    "album_title": "1989 (Taylor's Version)",
+    "artist": "Taylor Swift",
+    "track_number": 3,
+    "track_title": "Style (Taylor's Version)"
+  },
+  {
+    "album_title": "1989 (Taylor's Version)",
+    "artist": "Taylor Swift",
+    "track_number": 4,
+    "track_title": "Out Of The Woods (Taylor's Version)"
+  },
+  {
+    "album_title": "1989 (Taylor's Version)",
+    "artist": "Taylor Swift",
+    "track_number": 5,
+    "track_title": "All You Had To Do Was Stay (Taylor's Version)"
+  },
+  {
+    "album_title": "1989 (Taylor's Version)",
+    "artist": "Taylor Swift",
+    "track_number": 6,
+    "track_title": "Shake It Off (Taylor's Version)"
+  },
+  {
+    "album_title": "1989 (Taylor's Version)",
+    "artist": "Taylor Swift",
+    "track_number": 7,
+    "track_title": "I Wish You Would (Taylor's Version)"
+  },
+  {
+    "album_title": "1989 (Taylor's Version)",
+    "artist": "Taylor Swift",
+    "track_number": 8,
+    "track_title": "Bad Blood (Taylor's Version)"
+  },
+  {
+    "album_title": "1989 (Taylor's Version)",
+    "artist": "Taylor Swift",
+    "track_number": 9,
+    "track_title": "Wildest Dreams (Taylor's Version)"
+  },
+  {
+    "album_title": "1989 (Taylor's Version)",
+    "artist": "Taylor Swift",
+    "track_number": 10,
+    "track_title": "How You Get The Girl (Taylor's Version)"
+  },
+  {
+    "album_title": "1989 (Taylor's Version)",
+    "artist": "Taylor Swift",
+    "track_number": 11,
+    "track_title": "This Love (Taylor’s Version)"
+  },
+  {
+    "album_title": "1989 (Taylor's Version)",
+    "artist": "Taylor Swift",
+    "track_number": 12,
+    "track_title": "I Know Places (Taylor's Version)"
+  },
+  {
+    "album_title": "1989 (Taylor's Version)",
+    "artist": "Taylor Swift",
+    "track_number": 13,
+    "track_title": "Clean (Taylor's Version)"
+  },
+  {
+    "album_title": "1989 (Taylor's Version)",
+    "artist": "Taylor Swift",
+    "track_number": 14,
+    "track_title": "Wonderland (Taylor's Version)"
+  },
+  {
+    "album_title": "1989 (Taylor's Version)",
+    "artist": "Taylor Swift",
+    "track_number": 15,
+    "track_title": "You Are In Love (Taylor's Version)"
+  },
+  {
+    "album_title": "1989 (Taylor's Version)",
+    "artist": "Taylor Swift",
+    "track_number": 16,
+    "track_title": "New Romantics (Taylor's Version)"
+  },
+  {
+    "album_title": "1989 (Taylor's Version)",
+    "artist": "Taylor Swift",
+    "track_number": 17,
+    "track_title": "\"Slut!\" (Taylor's Version) (From The Vault)"
+  },
+  {
+    "album_title": "1989 (Taylor's Version)",
+    "artist": "Taylor Swift",
+    "track_number": 18,
+    "track_title": "Say Don't Go (Taylor's Version) (From The Vault)"
+  },
+  {
+    "album_title": "1989 (Taylor's Version)",
+    "artist": "Taylor Swift",
+    "track_number": 19,
+    "track_title": "Now That We Don't Talk (Taylor's Version) (From The Vault)"
+  },
+  {
+    "album_title": "1989 (Taylor's Version)",
+    "artist": "Taylor Swift",
+    "track_number": 20,
+    "track_title": "Suburban Legends (Taylor's Version) (From The Vault)"
+  },
+  {
+    "album_title": "1989 (Taylor's Version)",
+    "artist": "Taylor Swift",
+    "track_number": 21,
+    "track_title": "Is It Over Now? (Taylor's Version) (From The Vault)"
+  },
+  {
     "album_title": "22, A Million",
     "artist": "Bon Iver",
     "track_number": 1,
@@ -58,6 +424,222 @@
     "artist": "Bon Iver",
     "track_number": 10,
     "track_title": "00000 Million"
+  },
+  {
+    "album_title": "A Day At The Races (2011 Remaster)",
+    "artist": "Queen",
+    "track_number": 1,
+    "track_title": "Tie Your Mother Down - Remastered 2011"
+  },
+  {
+    "album_title": "A Day At The Races (2011 Remaster)",
+    "artist": "Queen",
+    "track_number": 1,
+    "track_title": "Tie Your Mother Down - Backing Track Mix"
+  },
+  {
+    "album_title": "A Day At The Races (2011 Remaster)",
+    "artist": "Queen",
+    "track_number": 2,
+    "track_title": "You Take My Breath Away - Remastered 2011"
+  },
+  {
+    "album_title": "A Day At The Races (2011 Remaster)",
+    "artist": "Queen",
+    "track_number": 2,
+    "track_title": "Somebody To Love - Live At Milton Keynes Bowl / June 1982"
+  },
+  {
+    "album_title": "A Day At The Races (2011 Remaster)",
+    "artist": "Queen",
+    "track_number": 3,
+    "track_title": "You Take My Breath Away - Live In Hyde Park / September 1976"
+  },
+  {
+    "album_title": "A Day At The Races (2011 Remaster)",
+    "artist": "Queen",
+    "track_number": 3,
+    "track_title": "Long Away - Remastered 2011"
+  },
+  {
+    "album_title": "A Day At The Races (2011 Remaster)",
+    "artist": "Queen",
+    "track_number": 4,
+    "track_title": "The Millionaire Waltz - Remastered 2011"
+  },
+  {
+    "album_title": "A Day At The Races (2011 Remaster)",
+    "artist": "Queen",
+    "track_number": 4,
+    "track_title": "Good Old-Fashioned Lover Boy - Live On BBC Top Of The Pops / July 1977"
+  },
+  {
+    "album_title": "A Day At The Races (2011 Remaster)",
+    "artist": "Queen",
+    "track_number": 5,
+    "track_title": "You And I - Remastered 2011"
+  },
+  {
+    "album_title": "A Day At The Races (2011 Remaster)",
+    "artist": "Queen",
+    "track_number": 5,
+    "track_title": "Teo Torriatte (Let Us Cling Together) - Remastered 2011 / HD Mix"
+  },
+  {
+    "album_title": "A Day At The Races (2011 Remaster)",
+    "artist": "Queen",
+    "track_number": 6,
+    "track_title": "Somebody To Love - Remastered 2011"
+  },
+  {
+    "album_title": "A Day At The Races (2011 Remaster)",
+    "artist": "Queen",
+    "track_number": 7,
+    "track_title": "White Man - Remastered 2011"
+  },
+  {
+    "album_title": "A Day At The Races (2011 Remaster)",
+    "artist": "Queen",
+    "track_number": 8,
+    "track_title": "Good Old-Fashioned Lover Boy - Remastered 2011"
+  },
+  {
+    "album_title": "A Day At The Races (2011 Remaster)",
+    "artist": "Queen",
+    "track_number": 9,
+    "track_title": "Drowse - Remastered 2011"
+  },
+  {
+    "album_title": "A Day At The Races (2011 Remaster)",
+    "artist": "Queen",
+    "track_number": 10,
+    "track_title": "Teo Torriatte (Let Us Cling Together) - Remastered 2011"
+  },
+  {
+    "album_title": "A Kind Of Magic (2011 Remaster)",
+    "artist": "Queen",
+    "track_number": 1,
+    "track_title": "One Vision - Remastered 2011"
+  },
+  {
+    "album_title": "A Kind Of Magic (2011 Remaster)",
+    "artist": "Queen",
+    "track_number": 2,
+    "track_title": "A Kind Of Magic - Remastered 2011"
+  },
+  {
+    "album_title": "A Kind Of Magic (2011 Remaster)",
+    "artist": "Queen",
+    "track_number": 3,
+    "track_title": "One Year Of Love - Remastered 2011"
+  },
+  {
+    "album_title": "A Kind Of Magic (2011 Remaster)",
+    "artist": "Queen",
+    "track_number": 4,
+    "track_title": "Pain Is So Close To Pleasure - Remastered 2011"
+  },
+  {
+    "album_title": "A Kind Of Magic (2011 Remaster)",
+    "artist": "Queen",
+    "track_number": 5,
+    "track_title": "Friends Will Be Friends - Remastered 2011"
+  },
+  {
+    "album_title": "A Kind Of Magic (2011 Remaster)",
+    "artist": "Queen",
+    "track_number": 6,
+    "track_title": "Who Wants To Live Forever - Remastered 2011"
+  },
+  {
+    "album_title": "A Kind Of Magic (2011 Remaster)",
+    "artist": "Queen",
+    "track_number": 7,
+    "track_title": "Gimme The Prize - Remastered 2011"
+  },
+  {
+    "album_title": "A Kind Of Magic (2011 Remaster)",
+    "artist": "Queen",
+    "track_number": 8,
+    "track_title": "Don't Lose Your Head - Remastered 2011"
+  },
+  {
+    "album_title": "A Kind Of Magic (2011 Remaster)",
+    "artist": "Queen",
+    "track_number": 9,
+    "track_title": "Princes Of The Universe - Remastered 2011"
+  },
+  {
+    "album_title": "A Night At The Opera (2011 Remaster)",
+    "artist": "Queen",
+    "track_number": 1,
+    "track_title": "Death On Two Legs (Dedicated To...) - Remastered 2011"
+  },
+  {
+    "album_title": "A Night At The Opera (2011 Remaster)",
+    "artist": "Queen",
+    "track_number": 2,
+    "track_title": "Lazing On A Sunday Afternoon - Remastered 2011"
+  },
+  {
+    "album_title": "A Night At The Opera (2011 Remaster)",
+    "artist": "Queen",
+    "track_number": 3,
+    "track_title": "I'm In Love With My Car - Remastered 2011"
+  },
+  {
+    "album_title": "A Night At The Opera (2011 Remaster)",
+    "artist": "Queen",
+    "track_number": 4,
+    "track_title": "You're My Best Friend - Remastered 2011"
+  },
+  {
+    "album_title": "A Night At The Opera (2011 Remaster)",
+    "artist": "Queen",
+    "track_number": 5,
+    "track_title": "'39 - Remastered 2011"
+  },
+  {
+    "album_title": "A Night At The Opera (2011 Remaster)",
+    "artist": "Queen",
+    "track_number": 6,
+    "track_title": "Sweet Lady - Remastered 2011"
+  },
+  {
+    "album_title": "A Night At The Opera (2011 Remaster)",
+    "artist": "Queen",
+    "track_number": 7,
+    "track_title": "Seaside Rendezvous - Remastered 2011"
+  },
+  {
+    "album_title": "A Night At The Opera (2011 Remaster)",
+    "artist": "Queen",
+    "track_number": 8,
+    "track_title": "The Prophet's Song - Remastered 2011"
+  },
+  {
+    "album_title": "A Night At The Opera (2011 Remaster)",
+    "artist": "Queen",
+    "track_number": 9,
+    "track_title": "Love Of My Life - Remastered 2011"
+  },
+  {
+    "album_title": "A Night At The Opera (2011 Remaster)",
+    "artist": "Queen",
+    "track_number": 10,
+    "track_title": "Good Company - Remastered 2011"
+  },
+  {
+    "album_title": "A Night At The Opera (2011 Remaster)",
+    "artist": "Queen",
+    "track_number": 11,
+    "track_title": "Bohemian Rhapsody - Remastered 2011"
+  },
+  {
+    "album_title": "A Night At The Opera (2011 Remaster)",
+    "artist": "Queen",
+    "track_number": 12,
+    "track_title": "God Save The Queen - Remastered 2011"
   },
   {
     "album_title": "Abbey Road (Remastered)",
@@ -366,6 +948,72 @@
     "track_title": "ALLIGATOR BITES NEVER HEAL"
   },
   {
+    "album_title": "Amnesiac",
+    "artist": "Radiohead",
+    "track_number": 1,
+    "track_title": "Packt Like Sardines In a Crushd Tin Box"
+  },
+  {
+    "album_title": "Amnesiac",
+    "artist": "Radiohead",
+    "track_number": 2,
+    "track_title": "Pyramid Song"
+  },
+  {
+    "album_title": "Amnesiac",
+    "artist": "Radiohead",
+    "track_number": 3,
+    "track_title": "Pulk/Pull Revolving Doors"
+  },
+  {
+    "album_title": "Amnesiac",
+    "artist": "Radiohead",
+    "track_number": 4,
+    "track_title": "You And Whose Army?"
+  },
+  {
+    "album_title": "Amnesiac",
+    "artist": "Radiohead",
+    "track_number": 5,
+    "track_title": "I Might Be Wrong"
+  },
+  {
+    "album_title": "Amnesiac",
+    "artist": "Radiohead",
+    "track_number": 6,
+    "track_title": "Knives Out"
+  },
+  {
+    "album_title": "Amnesiac",
+    "artist": "Radiohead",
+    "track_number": 7,
+    "track_title": "Morning Bell/Amnesiac"
+  },
+  {
+    "album_title": "Amnesiac",
+    "artist": "Radiohead",
+    "track_number": 8,
+    "track_title": "Dollars and Cents"
+  },
+  {
+    "album_title": "Amnesiac",
+    "artist": "Radiohead",
+    "track_number": 9,
+    "track_title": "Hunting Bears"
+  },
+  {
+    "album_title": "Amnesiac",
+    "artist": "Radiohead",
+    "track_number": 10,
+    "track_title": "Like Spinning Plates"
+  },
+  {
+    "album_title": "Amnesiac",
+    "artist": "Radiohead",
+    "track_number": 11,
+    "track_title": "Life In a Glasshouse"
+  },
+  {
     "album_title": "Apa y Can",
     "artist": "Canserbero",
     "track_number": 1,
@@ -442,6 +1090,66 @@
     "artist": "Canserbero",
     "track_number": 13,
     "track_title": "La del Estribillo"
+  },
+  {
+    "album_title": "Apocalipsis Zombi",
+    "artist": "El Cuarteto De Nos",
+    "track_number": 1,
+    "track_title": "Apocalipsis Zombi"
+  },
+  {
+    "album_title": "Apocalipsis Zombi",
+    "artist": "El Cuarteto De Nos",
+    "track_number": 2,
+    "track_title": "Invisible"
+  },
+  {
+    "album_title": "Apocalipsis Zombi",
+    "artist": "El Cuarteto De Nos",
+    "track_number": 3,
+    "track_title": "El Innombrable"
+  },
+  {
+    "album_title": "Apocalipsis Zombi",
+    "artist": "El Cuarteto De Nos",
+    "track_number": 4,
+    "track_title": "Calma Vladimir"
+  },
+  {
+    "album_title": "Apocalipsis Zombi",
+    "artist": "El Cuarteto De Nos",
+    "track_number": 5,
+    "track_title": "Gaucho Power"
+  },
+  {
+    "album_title": "Apocalipsis Zombi",
+    "artist": "El Cuarteto De Nos",
+    "track_number": 6,
+    "track_title": "Mirada de Nylon"
+  },
+  {
+    "album_title": "Apocalipsis Zombi",
+    "artist": "El Cuarteto De Nos",
+    "track_number": 7,
+    "track_title": "Hola Karma"
+  },
+  {
+    "album_title": "Apocalipsis Zombi",
+    "artist": "El Cuarteto De Nos",
+    "track_number": 8,
+    "track_title": "La Bestia"
+  },
+  {
+    "album_title": "Apocalipsis Zombi",
+    "artist": "El Cuarteto De Nos",
+    "track_number": 9,
+    "track_title": "Nombres"
+  },
+  {
+    "album_title": "Apocalipsis Zombi",
+    "artist": "El Cuarteto De Nos",
+    "track_number": 10,
+    "track_title": "El Rey y el As"
   },
   {
     "album_title": "Apricot Princess",
@@ -594,6 +1302,66 @@
     "track_title": "Canción Oculta En Las Cuevas"
   },
   {
+    "album_title": "Around the Fur",
+    "artist": "Deftones",
+    "track_number": 1,
+    "track_title": "My Own Summer (Shove It)"
+  },
+  {
+    "album_title": "Around the Fur",
+    "artist": "Deftones",
+    "track_number": 2,
+    "track_title": "Lhabia"
+  },
+  {
+    "album_title": "Around the Fur",
+    "artist": "Deftones",
+    "track_number": 3,
+    "track_title": "Mascara"
+  },
+  {
+    "album_title": "Around the Fur",
+    "artist": "Deftones",
+    "track_number": 4,
+    "track_title": "Around the Fur"
+  },
+  {
+    "album_title": "Around the Fur",
+    "artist": "Deftones",
+    "track_number": 5,
+    "track_title": "Rickets"
+  },
+  {
+    "album_title": "Around the Fur",
+    "artist": "Deftones",
+    "track_number": 6,
+    "track_title": "Be Quiet and Drive (Far Away)"
+  },
+  {
+    "album_title": "Around the Fur",
+    "artist": "Deftones",
+    "track_number": 7,
+    "track_title": "Lotion"
+  },
+  {
+    "album_title": "Around the Fur",
+    "artist": "Deftones",
+    "track_number": 8,
+    "track_title": "Dai the Flu"
+  },
+  {
+    "album_title": "Around the Fur",
+    "artist": "Deftones",
+    "track_number": 9,
+    "track_title": "Headup"
+  },
+  {
+    "album_title": "Around the Fur",
+    "artist": "Deftones",
+    "track_number": 10,
+    "track_title": "MX"
+  },
+  {
     "album_title": "ATP",
     "artist": "Nsqk",
     "track_number": 1,
@@ -696,6 +1464,90 @@
     "track_title": "RIP PETE"
   },
   {
+    "album_title": "Balloonerism",
+    "artist": "Mac Miller",
+    "track_number": 1,
+    "track_title": "Tambourine Dream"
+  },
+  {
+    "album_title": "Balloonerism",
+    "artist": "Mac Miller",
+    "track_number": 2,
+    "track_title": "DJ's Chord Organ (feat. SZA)"
+  },
+  {
+    "album_title": "Balloonerism",
+    "artist": "Mac Miller",
+    "track_number": 3,
+    "track_title": "Do You Have A Destination?"
+  },
+  {
+    "album_title": "Balloonerism",
+    "artist": "Mac Miller",
+    "track_number": 4,
+    "track_title": "5 Dollar Pony Rides"
+  },
+  {
+    "album_title": "Balloonerism",
+    "artist": "Mac Miller",
+    "track_number": 5,
+    "track_title": "Friendly Hallucinations"
+  },
+  {
+    "album_title": "Balloonerism",
+    "artist": "Mac Miller",
+    "track_number": 6,
+    "track_title": "Mrs. Deborah Downer"
+  },
+  {
+    "album_title": "Balloonerism",
+    "artist": "Mac Miller",
+    "track_number": 7,
+    "track_title": "Stoned"
+  },
+  {
+    "album_title": "Balloonerism",
+    "artist": "Mac Miller",
+    "track_number": 8,
+    "track_title": "Shangri-La"
+  },
+  {
+    "album_title": "Balloonerism",
+    "artist": "Mac Miller",
+    "track_number": 9,
+    "track_title": "Funny Papers"
+  },
+  {
+    "album_title": "Balloonerism",
+    "artist": "Mac Miller",
+    "track_number": 10,
+    "track_title": "Excelsior"
+  },
+  {
+    "album_title": "Balloonerism",
+    "artist": "Mac Miller",
+    "track_number": 11,
+    "track_title": "Transformations (feat. Delusional Thomas)"
+  },
+  {
+    "album_title": "Balloonerism",
+    "artist": "Mac Miller",
+    "track_number": 12,
+    "track_title": "Manakins"
+  },
+  {
+    "album_title": "Balloonerism",
+    "artist": "Mac Miller",
+    "track_number": 13,
+    "track_title": "Rick's Piano"
+  },
+  {
+    "album_title": "Balloonerism",
+    "artist": "Mac Miller",
+    "track_number": 14,
+    "track_title": "Tomorrow Will Never Know"
+  },
+  {
     "album_title": "Bando Stone and The New World",
     "artist": "Childish Gambino",
     "track_number": 1,
@@ -796,6 +1648,90 @@
     "artist": "Childish Gambino",
     "track_number": 17,
     "track_title": "A Place Where Love Goes"
+  },
+  {
+    "album_title": "Bewitched",
+    "artist": "Laufey",
+    "track_number": 1,
+    "track_title": "Dreamer"
+  },
+  {
+    "album_title": "Bewitched",
+    "artist": "Laufey",
+    "track_number": 2,
+    "track_title": "Second Best"
+  },
+  {
+    "album_title": "Bewitched",
+    "artist": "Laufey",
+    "track_number": 3,
+    "track_title": "Haunted"
+  },
+  {
+    "album_title": "Bewitched",
+    "artist": "Laufey",
+    "track_number": 4,
+    "track_title": "Must Be Love"
+  },
+  {
+    "album_title": "Bewitched",
+    "artist": "Laufey",
+    "track_number": 5,
+    "track_title": "While You Were Sleeping"
+  },
+  {
+    "album_title": "Bewitched",
+    "artist": "Laufey",
+    "track_number": 6,
+    "track_title": "Lovesick"
+  },
+  {
+    "album_title": "Bewitched",
+    "artist": "Laufey",
+    "track_number": 7,
+    "track_title": "California and Me"
+  },
+  {
+    "album_title": "Bewitched",
+    "artist": "Laufey",
+    "track_number": 8,
+    "track_title": "Nocturne (Interlude)"
+  },
+  {
+    "album_title": "Bewitched",
+    "artist": "Laufey",
+    "track_number": 9,
+    "track_title": "Promise"
+  },
+  {
+    "album_title": "Bewitched",
+    "artist": "Laufey",
+    "track_number": 10,
+    "track_title": "From The Start"
+  },
+  {
+    "album_title": "Bewitched",
+    "artist": "Laufey",
+    "track_number": 11,
+    "track_title": "Misty"
+  },
+  {
+    "album_title": "Bewitched",
+    "artist": "Laufey",
+    "track_number": 12,
+    "track_title": "Serendipity"
+  },
+  {
+    "album_title": "Bewitched",
+    "artist": "Laufey",
+    "track_number": 13,
+    "track_title": "Letter To My 13 Year Old Self"
+  },
+  {
+    "album_title": "Bewitched",
+    "artist": "Laufey",
+    "track_number": 14,
+    "track_title": "Bewitched"
   },
   {
     "album_title": "Bipolar",
@@ -1059,13 +1995,13 @@
     "album_title": "Born To Die",
     "artist": "Lana Del Rey",
     "track_number": 1,
-    "track_title": "Born To Die"
+    "track_title": "Ride"
   },
   {
     "album_title": "Born To Die",
     "artist": "Lana Del Rey",
     "track_number": 1,
-    "track_title": "Ride"
+    "track_title": "Born To Die"
   },
   {
     "album_title": "Born To Die",
@@ -1095,25 +2031,25 @@
     "album_title": "Born To Die",
     "artist": "Lana Del Rey",
     "track_number": 4,
-    "track_title": "Body Electric"
-  },
-  {
-    "album_title": "Born To Die",
-    "artist": "Lana Del Rey",
-    "track_number": 4,
     "track_title": "Video Games"
   },
   {
     "album_title": "Born To Die",
     "artist": "Lana Del Rey",
-    "track_number": 5,
-    "track_title": "Diet Mountain Dew"
+    "track_number": 4,
+    "track_title": "Body Electric"
   },
   {
     "album_title": "Born To Die",
     "artist": "Lana Del Rey",
     "track_number": 5,
     "track_title": "Blue Velvet"
+  },
+  {
+    "album_title": "Born To Die",
+    "artist": "Lana Del Rey",
+    "track_number": 5,
+    "track_title": "Diet Mountain Dew"
   },
   {
     "album_title": "Born To Die",
@@ -1143,13 +2079,13 @@
     "album_title": "Born To Die",
     "artist": "Lana Del Rey",
     "track_number": 8,
-    "track_title": "Bel Air"
+    "track_title": "Radio"
   },
   {
     "album_title": "Born To Die",
     "artist": "Lana Del Rey",
     "track_number": 8,
-    "track_title": "Radio"
+    "track_title": "Bel Air"
   },
   {
     "album_title": "Born To Die",
@@ -1590,6 +2526,72 @@
     "track_title": "End"
   },
   {
+    "album_title": "Charm",
+    "artist": "Clairo",
+    "track_number": 1,
+    "track_title": "Nomad"
+  },
+  {
+    "album_title": "Charm",
+    "artist": "Clairo",
+    "track_number": 2,
+    "track_title": "Sexy to Someone"
+  },
+  {
+    "album_title": "Charm",
+    "artist": "Clairo",
+    "track_number": 3,
+    "track_title": "Second Nature"
+  },
+  {
+    "album_title": "Charm",
+    "artist": "Clairo",
+    "track_number": 4,
+    "track_title": "Slow Dance"
+  },
+  {
+    "album_title": "Charm",
+    "artist": "Clairo",
+    "track_number": 5,
+    "track_title": "Thank You"
+  },
+  {
+    "album_title": "Charm",
+    "artist": "Clairo",
+    "track_number": 6,
+    "track_title": "Terrapin"
+  },
+  {
+    "album_title": "Charm",
+    "artist": "Clairo",
+    "track_number": 7,
+    "track_title": "Juna"
+  },
+  {
+    "album_title": "Charm",
+    "artist": "Clairo",
+    "track_number": 8,
+    "track_title": "Add Up My Love"
+  },
+  {
+    "album_title": "Charm",
+    "artist": "Clairo",
+    "track_number": 9,
+    "track_title": "Echo"
+  },
+  {
+    "album_title": "Charm",
+    "artist": "Clairo",
+    "track_number": 10,
+    "track_title": "Glory of the Snow"
+  },
+  {
+    "album_title": "Charm",
+    "artist": "Clairo",
+    "track_number": 11,
+    "track_title": "Pier 4"
+  },
+  {
     "album_title": "CHROMAKOPIA",
     "artist": "Tyler, The Creator",
     "track_number": 1,
@@ -1746,6 +2748,168 @@
     "track_title": "Once A Day"
   },
   {
+    "album_title": "Clancy",
+    "artist": "Twenty One Pilots",
+    "track_number": 1,
+    "track_title": "Overcompensate"
+  },
+  {
+    "album_title": "Clancy",
+    "artist": "Twenty One Pilots",
+    "track_number": 2,
+    "track_title": "Next Semester"
+  },
+  {
+    "album_title": "Clancy",
+    "artist": "Twenty One Pilots",
+    "track_number": 3,
+    "track_title": "Backslide"
+  },
+  {
+    "album_title": "Clancy",
+    "artist": "Twenty One Pilots",
+    "track_number": 4,
+    "track_title": "Midwest Indigo"
+  },
+  {
+    "album_title": "Clancy",
+    "artist": "Twenty One Pilots",
+    "track_number": 5,
+    "track_title": "Routines In The Night"
+  },
+  {
+    "album_title": "Clancy",
+    "artist": "Twenty One Pilots",
+    "track_number": 6,
+    "track_title": "Vignette"
+  },
+  {
+    "album_title": "Clancy",
+    "artist": "Twenty One Pilots",
+    "track_number": 7,
+    "track_title": "The Craving (Jenna's version)"
+  },
+  {
+    "album_title": "Clancy",
+    "artist": "Twenty One Pilots",
+    "track_number": 8,
+    "track_title": "Lavish"
+  },
+  {
+    "album_title": "Clancy",
+    "artist": "Twenty One Pilots",
+    "track_number": 9,
+    "track_title": "Navigating"
+  },
+  {
+    "album_title": "Clancy",
+    "artist": "Twenty One Pilots",
+    "track_number": 10,
+    "track_title": "Snap Back"
+  },
+  {
+    "album_title": "Clancy",
+    "artist": "Twenty One Pilots",
+    "track_number": 11,
+    "track_title": "Oldies Station"
+  },
+  {
+    "album_title": "Clancy",
+    "artist": "Twenty One Pilots",
+    "track_number": 12,
+    "track_title": "At The Risk Of Feeling Dumb"
+  },
+  {
+    "album_title": "Clancy",
+    "artist": "Twenty One Pilots",
+    "track_number": 13,
+    "track_title": "Paladin Strait"
+  },
+  {
+    "album_title": "Ctrl",
+    "artist": "SZA",
+    "track_number": 1,
+    "track_title": "Supermodel"
+  },
+  {
+    "album_title": "Ctrl",
+    "artist": "SZA",
+    "track_number": 2,
+    "track_title": "Love Galore (feat. Travis Scott)"
+  },
+  {
+    "album_title": "Ctrl",
+    "artist": "SZA",
+    "track_number": 3,
+    "track_title": "Doves In The Wind (feat. Kendrick Lamar)"
+  },
+  {
+    "album_title": "Ctrl",
+    "artist": "SZA",
+    "track_number": 4,
+    "track_title": "Drew Barrymore"
+  },
+  {
+    "album_title": "Ctrl",
+    "artist": "SZA",
+    "track_number": 5,
+    "track_title": "Prom"
+  },
+  {
+    "album_title": "Ctrl",
+    "artist": "SZA",
+    "track_number": 6,
+    "track_title": "The Weekend"
+  },
+  {
+    "album_title": "Ctrl",
+    "artist": "SZA",
+    "track_number": 7,
+    "track_title": "Go Gina"
+  },
+  {
+    "album_title": "Ctrl",
+    "artist": "SZA",
+    "track_number": 8,
+    "track_title": "Garden (Say It Like Dat)"
+  },
+  {
+    "album_title": "Ctrl",
+    "artist": "SZA",
+    "track_number": 9,
+    "track_title": "Broken Clocks"
+  },
+  {
+    "album_title": "Ctrl",
+    "artist": "SZA",
+    "track_number": 10,
+    "track_title": "Anything"
+  },
+  {
+    "album_title": "Ctrl",
+    "artist": "SZA",
+    "track_number": 11,
+    "track_title": "Wavy (Interlude) (feat. James Fauntleroy)"
+  },
+  {
+    "album_title": "Ctrl",
+    "artist": "SZA",
+    "track_number": 12,
+    "track_title": "Normal Girl"
+  },
+  {
+    "album_title": "Ctrl",
+    "artist": "SZA",
+    "track_number": 13,
+    "track_title": "Pretty Little Birds (feat. Isaiah Rashad)"
+  },
+  {
+    "album_title": "Ctrl",
+    "artist": "SZA",
+    "track_number": 14,
+    "track_title": "20 Something"
+  },
+  {
     "album_title": "Cuatro Caminos",
     "artist": "Café Tacvba",
     "track_number": 1,
@@ -1828,6 +2992,180 @@
     "artist": "Café Tacvba",
     "track_number": 14,
     "track_title": "Hola Adios"
+  },
+  {
+    "album_title": "Currents",
+    "artist": "Tame Impala",
+    "track_number": 1,
+    "track_title": "Let It Happen"
+  },
+  {
+    "album_title": "Currents",
+    "artist": "Tame Impala",
+    "track_number": 2,
+    "track_title": "Nangs"
+  },
+  {
+    "album_title": "Currents",
+    "artist": "Tame Impala",
+    "track_number": 3,
+    "track_title": "The Moment"
+  },
+  {
+    "album_title": "Currents",
+    "artist": "Tame Impala",
+    "track_number": 4,
+    "track_title": "Yes I'm Changing"
+  },
+  {
+    "album_title": "Currents",
+    "artist": "Tame Impala",
+    "track_number": 5,
+    "track_title": "Eventually"
+  },
+  {
+    "album_title": "Currents",
+    "artist": "Tame Impala",
+    "track_number": 6,
+    "track_title": "Gossip"
+  },
+  {
+    "album_title": "Currents",
+    "artist": "Tame Impala",
+    "track_number": 7,
+    "track_title": "The Less I Know The Better"
+  },
+  {
+    "album_title": "Currents",
+    "artist": "Tame Impala",
+    "track_number": 8,
+    "track_title": "Past Life"
+  },
+  {
+    "album_title": "Currents",
+    "artist": "Tame Impala",
+    "track_number": 9,
+    "track_title": "Disciples"
+  },
+  {
+    "album_title": "Currents",
+    "artist": "Tame Impala",
+    "track_number": 10,
+    "track_title": "'Cause I'm A Man"
+  },
+  {
+    "album_title": "Currents",
+    "artist": "Tame Impala",
+    "track_number": 11,
+    "track_title": "Reality In Motion"
+  },
+  {
+    "album_title": "Currents",
+    "artist": "Tame Impala",
+    "track_number": 12,
+    "track_title": "Love/Paranoia"
+  },
+  {
+    "album_title": "Currents",
+    "artist": "Tame Impala",
+    "track_number": 13,
+    "track_title": "New Person, Same Old Mistakes"
+  },
+  {
+    "album_title": "Did you know that there's a tunnel under Ocean Blvd",
+    "artist": "Lana Del Rey",
+    "track_number": 1,
+    "track_title": "The Grants"
+  },
+  {
+    "album_title": "Did you know that there's a tunnel under Ocean Blvd",
+    "artist": "Lana Del Rey",
+    "track_number": 2,
+    "track_title": "Did you know that there's a tunnel under Ocean Blvd"
+  },
+  {
+    "album_title": "Did you know that there's a tunnel under Ocean Blvd",
+    "artist": "Lana Del Rey",
+    "track_number": 3,
+    "track_title": "Sweet"
+  },
+  {
+    "album_title": "Did you know that there's a tunnel under Ocean Blvd",
+    "artist": "Lana Del Rey",
+    "track_number": 4,
+    "track_title": "A&W"
+  },
+  {
+    "album_title": "Did you know that there's a tunnel under Ocean Blvd",
+    "artist": "Lana Del Rey",
+    "track_number": 5,
+    "track_title": "Judah Smith Interlude"
+  },
+  {
+    "album_title": "Did you know that there's a tunnel under Ocean Blvd",
+    "artist": "Lana Del Rey",
+    "track_number": 6,
+    "track_title": "Candy Necklace (feat. Jon Batiste)"
+  },
+  {
+    "album_title": "Did you know that there's a tunnel under Ocean Blvd",
+    "artist": "Lana Del Rey",
+    "track_number": 7,
+    "track_title": "Jon Batiste Interlude"
+  },
+  {
+    "album_title": "Did you know that there's a tunnel under Ocean Blvd",
+    "artist": "Lana Del Rey",
+    "track_number": 8,
+    "track_title": "Kintsugi"
+  },
+  {
+    "album_title": "Did you know that there's a tunnel under Ocean Blvd",
+    "artist": "Lana Del Rey",
+    "track_number": 9,
+    "track_title": "Fingertips"
+  },
+  {
+    "album_title": "Did you know that there's a tunnel under Ocean Blvd",
+    "artist": "Lana Del Rey",
+    "track_number": 10,
+    "track_title": "Paris, Texas (feat. SYML)"
+  },
+  {
+    "album_title": "Did you know that there's a tunnel under Ocean Blvd",
+    "artist": "Lana Del Rey",
+    "track_number": 11,
+    "track_title": "Grandfather please stand on the shoulders of my father while he's deep-sea fishing (feat. RIOPY)"
+  },
+  {
+    "album_title": "Did you know that there's a tunnel under Ocean Blvd",
+    "artist": "Lana Del Rey",
+    "track_number": 12,
+    "track_title": "Let The Light In (feat. Father John Misty)"
+  },
+  {
+    "album_title": "Did you know that there's a tunnel under Ocean Blvd",
+    "artist": "Lana Del Rey",
+    "track_number": 13,
+    "track_title": "Margaret (feat. Bleachers)"
+  },
+  {
+    "album_title": "Did you know that there's a tunnel under Ocean Blvd",
+    "artist": "Lana Del Rey",
+    "track_number": 14,
+    "track_title": "Fishtail"
+  },
+  {
+    "album_title": "Did you know that there's a tunnel under Ocean Blvd",
+    "artist": "Lana Del Rey",
+    "track_number": 15,
+    "track_title": "Peppers (feat. Tommy Genesis)"
+  },
+  {
+    "album_title": "Did you know that there's a tunnel under Ocean Blvd",
+    "artist": "Lana Del Rey",
+    "track_number": 16,
+    "track_title": "Taco Truck x VB"
   },
   {
     "album_title": "dont smile at me",
@@ -2010,6 +3348,90 @@
     "track_title": "Mujer Gala (Bonus Track)"
   },
   {
+    "album_title": "El Madrileño",
+    "artist": "C. Tangana",
+    "track_number": 1,
+    "track_title": "Demasiadas Mujeres"
+  },
+  {
+    "album_title": "El Madrileño",
+    "artist": "C. Tangana",
+    "track_number": 2,
+    "track_title": "Tú Me Dejaste De Querer"
+  },
+  {
+    "album_title": "El Madrileño",
+    "artist": "C. Tangana",
+    "track_number": 3,
+    "track_title": "Comerte Entera"
+  },
+  {
+    "album_title": "El Madrileño",
+    "artist": "C. Tangana",
+    "track_number": 4,
+    "track_title": "Nunca Estoy"
+  },
+  {
+    "album_title": "El Madrileño",
+    "artist": "C. Tangana",
+    "track_number": 5,
+    "track_title": "Párteme La Cara"
+  },
+  {
+    "album_title": "El Madrileño",
+    "artist": "C. Tangana",
+    "track_number": 6,
+    "track_title": "Ingobernable"
+  },
+  {
+    "album_title": "El Madrileño",
+    "artist": "C. Tangana",
+    "track_number": 7,
+    "track_title": "Nominao"
+  },
+  {
+    "album_title": "El Madrileño",
+    "artist": "C. Tangana",
+    "track_number": 8,
+    "track_title": "Un Veneno - G-Mix"
+  },
+  {
+    "album_title": "El Madrileño",
+    "artist": "C. Tangana",
+    "track_number": 9,
+    "track_title": "Te Olvidaste"
+  },
+  {
+    "album_title": "El Madrileño",
+    "artist": "C. Tangana",
+    "track_number": 10,
+    "track_title": "Muriendo De Envidia"
+  },
+  {
+    "album_title": "El Madrileño",
+    "artist": "C. Tangana",
+    "track_number": 11,
+    "track_title": "CAMBIA!"
+  },
+  {
+    "album_title": "El Madrileño",
+    "artist": "C. Tangana",
+    "track_number": 12,
+    "track_title": "Cuándo Olvidaré"
+  },
+  {
+    "album_title": "El Madrileño",
+    "artist": "C. Tangana",
+    "track_number": 13,
+    "track_title": "Los Tontos"
+  },
+  {
+    "album_title": "El Madrileño",
+    "artist": "C. Tangana",
+    "track_number": 14,
+    "track_title": "Hong Kong"
+  },
+  {
     "album_title": "El Mal Querer",
     "artist": "ROSALÍA",
     "track_number": 1,
@@ -2074,6 +3496,72 @@
     "artist": "ROSALÍA",
     "track_number": 11,
     "track_title": "A NINGÚN HOMBRE - Cap.11: Poder"
+  },
+  {
+    "album_title": "Ella and Louis",
+    "artist": "Ella Fitzgerald",
+    "track_number": 1,
+    "track_title": "Can't We Be Friends?"
+  },
+  {
+    "album_title": "Ella and Louis",
+    "artist": "Ella Fitzgerald",
+    "track_number": 2,
+    "track_title": "Isn't This A Lovely Day?"
+  },
+  {
+    "album_title": "Ella and Louis",
+    "artist": "Ella Fitzgerald",
+    "track_number": 3,
+    "track_title": "Moonlight In Vermont"
+  },
+  {
+    "album_title": "Ella and Louis",
+    "artist": "Ella Fitzgerald",
+    "track_number": 4,
+    "track_title": "They Can't Take That Away From Me"
+  },
+  {
+    "album_title": "Ella and Louis",
+    "artist": "Ella Fitzgerald",
+    "track_number": 5,
+    "track_title": "Under A Blanket Of Blue"
+  },
+  {
+    "album_title": "Ella and Louis",
+    "artist": "Ella Fitzgerald",
+    "track_number": 6,
+    "track_title": "Tenderly"
+  },
+  {
+    "album_title": "Ella and Louis",
+    "artist": "Ella Fitzgerald",
+    "track_number": 7,
+    "track_title": "A Foggy Day"
+  },
+  {
+    "album_title": "Ella and Louis",
+    "artist": "Ella Fitzgerald",
+    "track_number": 8,
+    "track_title": "Stars Fell On Alabama"
+  },
+  {
+    "album_title": "Ella and Louis",
+    "artist": "Ella Fitzgerald",
+    "track_number": 9,
+    "track_title": "Cheek To Cheek"
+  },
+  {
+    "album_title": "Ella and Louis",
+    "artist": "Ella Fitzgerald",
+    "track_number": 10,
+    "track_title": "The Nearness Of You"
+  },
+  {
+    "album_title": "Ella and Louis",
+    "artist": "Ella Fitzgerald",
+    "track_number": 11,
+    "track_title": "April In Paris"
   },
   {
     "album_title": "emails i can't send",
@@ -2314,6 +3802,234 @@
     "artist": "Natalia Lacunza",
     "track_number": 7,
     "track_title": "llueve"
+  },
+  {
+    "album_title": "eternal sunshine",
+    "artist": "Ariana Grande",
+    "track_number": 1,
+    "track_title": "intro (end of the world)"
+  },
+  {
+    "album_title": "eternal sunshine",
+    "artist": "Ariana Grande",
+    "track_number": 2,
+    "track_title": "bye"
+  },
+  {
+    "album_title": "eternal sunshine",
+    "artist": "Ariana Grande",
+    "track_number": 3,
+    "track_title": "don't wanna break up again"
+  },
+  {
+    "album_title": "eternal sunshine",
+    "artist": "Ariana Grande",
+    "track_number": 4,
+    "track_title": "Saturn Returns Interlude"
+  },
+  {
+    "album_title": "eternal sunshine",
+    "artist": "Ariana Grande",
+    "track_number": 5,
+    "track_title": "eternal sunshine"
+  },
+  {
+    "album_title": "eternal sunshine",
+    "artist": "Ariana Grande",
+    "track_number": 6,
+    "track_title": "supernatural"
+  },
+  {
+    "album_title": "eternal sunshine",
+    "artist": "Ariana Grande",
+    "track_number": 7,
+    "track_title": "true story"
+  },
+  {
+    "album_title": "eternal sunshine",
+    "artist": "Ariana Grande",
+    "track_number": 8,
+    "track_title": "the boy is mine"
+  },
+  {
+    "album_title": "eternal sunshine",
+    "artist": "Ariana Grande",
+    "track_number": 9,
+    "track_title": "yes, and?"
+  },
+  {
+    "album_title": "eternal sunshine",
+    "artist": "Ariana Grande",
+    "track_number": 10,
+    "track_title": "we can't be friends (wait for your love)"
+  },
+  {
+    "album_title": "eternal sunshine",
+    "artist": "Ariana Grande",
+    "track_number": 11,
+    "track_title": "i wish i hated you"
+  },
+  {
+    "album_title": "eternal sunshine",
+    "artist": "Ariana Grande",
+    "track_number": 12,
+    "track_title": "imperfect for you"
+  },
+  {
+    "album_title": "eternal sunshine",
+    "artist": "Ariana Grande",
+    "track_number": 13,
+    "track_title": "ordinary things (feat. Nonna)"
+  },
+  {
+    "album_title": "eternal sunshine",
+    "artist": "Ariana Grande",
+    "track_number": 14,
+    "track_title": "intro (end of the world) - extended"
+  },
+  {
+    "album_title": "eternal sunshine",
+    "artist": "Ariana Grande",
+    "track_number": 15,
+    "track_title": "twilight zone"
+  },
+  {
+    "album_title": "eternal sunshine",
+    "artist": "Ariana Grande",
+    "track_number": 16,
+    "track_title": "warm"
+  },
+  {
+    "album_title": "eternal sunshine",
+    "artist": "Ariana Grande",
+    "track_number": 17,
+    "track_title": "dandelion"
+  },
+  {
+    "album_title": "eternal sunshine",
+    "artist": "Ariana Grande",
+    "track_number": 18,
+    "track_title": "past life"
+  },
+  {
+    "album_title": "eternal sunshine",
+    "artist": "Ariana Grande",
+    "track_number": 19,
+    "track_title": "Hampstead"
+  },
+  {
+    "album_title": "eternal sunshine deluxe: brighter days ahead",
+    "artist": "Ariana Grande",
+    "track_number": 1,
+    "track_title": "intro (end of the world)"
+  },
+  {
+    "album_title": "eternal sunshine deluxe: brighter days ahead",
+    "artist": "Ariana Grande",
+    "track_number": 2,
+    "track_title": "bye"
+  },
+  {
+    "album_title": "eternal sunshine deluxe: brighter days ahead",
+    "artist": "Ariana Grande",
+    "track_number": 3,
+    "track_title": "don't wanna break up again"
+  },
+  {
+    "album_title": "eternal sunshine deluxe: brighter days ahead",
+    "artist": "Ariana Grande",
+    "track_number": 4,
+    "track_title": "Saturn Returns Interlude"
+  },
+  {
+    "album_title": "eternal sunshine deluxe: brighter days ahead",
+    "artist": "Ariana Grande",
+    "track_number": 5,
+    "track_title": "eternal sunshine"
+  },
+  {
+    "album_title": "eternal sunshine deluxe: brighter days ahead",
+    "artist": "Ariana Grande",
+    "track_number": 6,
+    "track_title": "supernatural"
+  },
+  {
+    "album_title": "eternal sunshine deluxe: brighter days ahead",
+    "artist": "Ariana Grande",
+    "track_number": 7,
+    "track_title": "true story"
+  },
+  {
+    "album_title": "eternal sunshine deluxe: brighter days ahead",
+    "artist": "Ariana Grande",
+    "track_number": 8,
+    "track_title": "the boy is mine"
+  },
+  {
+    "album_title": "eternal sunshine deluxe: brighter days ahead",
+    "artist": "Ariana Grande",
+    "track_number": 9,
+    "track_title": "yes, and?"
+  },
+  {
+    "album_title": "eternal sunshine deluxe: brighter days ahead",
+    "artist": "Ariana Grande",
+    "track_number": 10,
+    "track_title": "we can't be friends (wait for your love)"
+  },
+  {
+    "album_title": "eternal sunshine deluxe: brighter days ahead",
+    "artist": "Ariana Grande",
+    "track_number": 11,
+    "track_title": "i wish i hated you"
+  },
+  {
+    "album_title": "eternal sunshine deluxe: brighter days ahead",
+    "artist": "Ariana Grande",
+    "track_number": 12,
+    "track_title": "imperfect for you"
+  },
+  {
+    "album_title": "eternal sunshine deluxe: brighter days ahead",
+    "artist": "Ariana Grande",
+    "track_number": 13,
+    "track_title": "ordinary things (feat. Nonna)"
+  },
+  {
+    "album_title": "eternal sunshine deluxe: brighter days ahead",
+    "artist": "Ariana Grande",
+    "track_number": 14,
+    "track_title": "intro (end of the world) - extended"
+  },
+  {
+    "album_title": "eternal sunshine deluxe: brighter days ahead",
+    "artist": "Ariana Grande",
+    "track_number": 15,
+    "track_title": "twilight zone"
+  },
+  {
+    "album_title": "eternal sunshine deluxe: brighter days ahead",
+    "artist": "Ariana Grande",
+    "track_number": 16,
+    "track_title": "warm"
+  },
+  {
+    "album_title": "eternal sunshine deluxe: brighter days ahead",
+    "artist": "Ariana Grande",
+    "track_number": 17,
+    "track_title": "dandelion"
+  },
+  {
+    "album_title": "eternal sunshine deluxe: brighter days ahead",
+    "artist": "Ariana Grande",
+    "track_number": 18,
+    "track_title": "past life"
+  },
+  {
+    "album_title": "eternal sunshine deluxe: brighter days ahead",
+    "artist": "Ariana Grande",
+    "track_number": 19,
+    "track_title": "Hampstead"
   },
   {
     "album_title": "evermore",
@@ -2614,6 +4330,90 @@
     "artist": "Taylor Swift",
     "track_number": 26,
     "track_title": "Bye Bye Baby (Taylor’s Version) (From The Vault)"
+  },
+  {
+    "album_title": "Flower Boy",
+    "artist": "Tyler, The Creator",
+    "track_number": 1,
+    "track_title": "Foreword (feat. Rex Orange County)"
+  },
+  {
+    "album_title": "Flower Boy",
+    "artist": "Tyler, The Creator",
+    "track_number": 2,
+    "track_title": "Where This Flower Blooms (feat. Frank Ocean)"
+  },
+  {
+    "album_title": "Flower Boy",
+    "artist": "Tyler, The Creator",
+    "track_number": 3,
+    "track_title": "Sometimes..."
+  },
+  {
+    "album_title": "Flower Boy",
+    "artist": "Tyler, The Creator",
+    "track_number": 4,
+    "track_title": "See You Again (feat. Kali Uchis)"
+  },
+  {
+    "album_title": "Flower Boy",
+    "artist": "Tyler, The Creator",
+    "track_number": 5,
+    "track_title": "Who Dat Boy (feat. A$AP Rocky)"
+  },
+  {
+    "album_title": "Flower Boy",
+    "artist": "Tyler, The Creator",
+    "track_number": 6,
+    "track_title": "Pothole (feat. Jaden Smith)"
+  },
+  {
+    "album_title": "Flower Boy",
+    "artist": "Tyler, The Creator",
+    "track_number": 7,
+    "track_title": "Garden Shed (feat. Estelle)"
+  },
+  {
+    "album_title": "Flower Boy",
+    "artist": "Tyler, The Creator",
+    "track_number": 8,
+    "track_title": "Boredom (feat. Rex Orange County & Anna of the North)"
+  },
+  {
+    "album_title": "Flower Boy",
+    "artist": "Tyler, The Creator",
+    "track_number": 9,
+    "track_title": "I Ain't Got Time!"
+  },
+  {
+    "album_title": "Flower Boy",
+    "artist": "Tyler, The Creator",
+    "track_number": 10,
+    "track_title": "911 / Mr. Lonely (feat. Frank Ocean & Steve Lacy)"
+  },
+  {
+    "album_title": "Flower Boy",
+    "artist": "Tyler, The Creator",
+    "track_number": 11,
+    "track_title": "Droppin' Seeds (feat. Lil' Wayne)"
+  },
+  {
+    "album_title": "Flower Boy",
+    "artist": "Tyler, The Creator",
+    "track_number": 12,
+    "track_title": "November"
+  },
+  {
+    "album_title": "Flower Boy",
+    "artist": "Tyler, The Creator",
+    "track_number": 13,
+    "track_title": "Glitter"
+  },
+  {
+    "album_title": "Flower Boy",
+    "artist": "Tyler, The Creator",
+    "track_number": 14,
+    "track_title": "Enjoy Right Now, Today"
   },
   {
     "album_title": "folklore",
@@ -2976,6 +4776,90 @@
     "track_title": "Bitch, Don’t Kill My Vibe - International Remix / Explicit Version"
   },
   {
+    "album_title": "Guitar Songs",
+    "artist": "Billie Eilish",
+    "track_number": 1,
+    "track_title": "TV"
+  },
+  {
+    "album_title": "Guitar Songs",
+    "artist": "Billie Eilish",
+    "track_number": 2,
+    "track_title": "The 30th"
+  },
+  {
+    "album_title": "GUTS",
+    "artist": "Olivia Rodrigo",
+    "track_number": 1,
+    "track_title": "all-american bitch"
+  },
+  {
+    "album_title": "GUTS",
+    "artist": "Olivia Rodrigo",
+    "track_number": 2,
+    "track_title": "bad idea right?"
+  },
+  {
+    "album_title": "GUTS",
+    "artist": "Olivia Rodrigo",
+    "track_number": 3,
+    "track_title": "vampire"
+  },
+  {
+    "album_title": "GUTS",
+    "artist": "Olivia Rodrigo",
+    "track_number": 4,
+    "track_title": "lacy"
+  },
+  {
+    "album_title": "GUTS",
+    "artist": "Olivia Rodrigo",
+    "track_number": 5,
+    "track_title": "ballad of a homeschooled girl"
+  },
+  {
+    "album_title": "GUTS",
+    "artist": "Olivia Rodrigo",
+    "track_number": 6,
+    "track_title": "making the bed"
+  },
+  {
+    "album_title": "GUTS",
+    "artist": "Olivia Rodrigo",
+    "track_number": 7,
+    "track_title": "logical"
+  },
+  {
+    "album_title": "GUTS",
+    "artist": "Olivia Rodrigo",
+    "track_number": 8,
+    "track_title": "get him back!"
+  },
+  {
+    "album_title": "GUTS",
+    "artist": "Olivia Rodrigo",
+    "track_number": 9,
+    "track_title": "love is embarrassing"
+  },
+  {
+    "album_title": "GUTS",
+    "artist": "Olivia Rodrigo",
+    "track_number": 10,
+    "track_title": "the grudge"
+  },
+  {
+    "album_title": "GUTS",
+    "artist": "Olivia Rodrigo",
+    "track_number": 11,
+    "track_title": "pretty isn’t pretty"
+  },
+  {
+    "album_title": "GUTS",
+    "artist": "Olivia Rodrigo",
+    "track_number": 12,
+    "track_title": "teenage dream"
+  },
+  {
     "album_title": "Habla Tu Espejo",
     "artist": "El Cuarteto De Nos",
     "track_number": 1,
@@ -3120,6 +5004,450 @@
     "track_title": "A Wolf At the Door"
   },
   {
+    "album_title": "Hamilton (Original Broadway Cast Recording)",
+    "artist": "Lin-Manuel Miranda",
+    "track_number": 2,
+    "track_title": "Aaron Burr, Sir"
+  },
+  {
+    "album_title": "Hamilton (Original Broadway Cast Recording)",
+    "artist": "Lin-Manuel Miranda",
+    "track_number": 3,
+    "track_title": "My Shot"
+  },
+  {
+    "album_title": "Hamilton (Original Broadway Cast Recording)",
+    "artist": "Lin-Manuel Miranda",
+    "track_number": 4,
+    "track_title": "The Story of Tonight"
+  },
+  {
+    "album_title": "Hamilton (Original Broadway Cast Recording)",
+    "artist": "Lin-Manuel Miranda",
+    "track_number": 8,
+    "track_title": "Right Hand Man"
+  },
+  {
+    "album_title": "Hamilton (Original Broadway Cast Recording)",
+    "artist": "Lin-Manuel Miranda",
+    "track_number": 12,
+    "track_title": "We Know"
+  },
+  {
+    "album_title": "Hamilton (Original Broadway Cast Recording)",
+    "artist": "Lin-Manuel Miranda",
+    "track_number": 13,
+    "track_title": "Hurricane"
+  },
+  {
+    "album_title": "Hamilton (Original Broadway Cast Recording)",
+    "artist": "Lin-Manuel Miranda",
+    "track_number": 15,
+    "track_title": "Ten Duel Commandments"
+  },
+  {
+    "album_title": "Hamilton (Original Broadway Cast Recording)",
+    "artist": "Lin-Manuel Miranda",
+    "track_number": 16,
+    "track_title": "Meet Me Inside"
+  },
+  {
+    "album_title": "Hamilton (Original Broadway Cast Recording)",
+    "artist": "Lin-Manuel Miranda",
+    "track_number": 17,
+    "track_title": "Stay Alive - Reprise"
+  },
+  {
+    "album_title": "Happier Than Ever",
+    "artist": "Billie Eilish",
+    "track_number": 1,
+    "track_title": "Getting Older"
+  },
+  {
+    "album_title": "Happier Than Ever",
+    "artist": "Billie Eilish",
+    "track_number": 2,
+    "track_title": "I Didn't Change My Number"
+  },
+  {
+    "album_title": "Happier Than Ever",
+    "artist": "Billie Eilish",
+    "track_number": 3,
+    "track_title": "Billie Bossa Nova"
+  },
+  {
+    "album_title": "Happier Than Ever",
+    "artist": "Billie Eilish",
+    "track_number": 4,
+    "track_title": "my future"
+  },
+  {
+    "album_title": "Happier Than Ever",
+    "artist": "Billie Eilish",
+    "track_number": 5,
+    "track_title": "Oxytocin"
+  },
+  {
+    "album_title": "Happier Than Ever",
+    "artist": "Billie Eilish",
+    "track_number": 6,
+    "track_title": "GOLDWING"
+  },
+  {
+    "album_title": "Happier Than Ever",
+    "artist": "Billie Eilish",
+    "track_number": 7,
+    "track_title": "Lost Cause"
+  },
+  {
+    "album_title": "Happier Than Ever",
+    "artist": "Billie Eilish",
+    "track_number": 8,
+    "track_title": "Halley's Comet"
+  },
+  {
+    "album_title": "Happier Than Ever",
+    "artist": "Billie Eilish",
+    "track_number": 9,
+    "track_title": "Not My Responsibility"
+  },
+  {
+    "album_title": "Happier Than Ever",
+    "artist": "Billie Eilish",
+    "track_number": 10,
+    "track_title": "OverHeated"
+  },
+  {
+    "album_title": "Happier Than Ever",
+    "artist": "Billie Eilish",
+    "track_number": 11,
+    "track_title": "Everybody Dies"
+  },
+  {
+    "album_title": "Happier Than Ever",
+    "artist": "Billie Eilish",
+    "track_number": 12,
+    "track_title": "Your Power"
+  },
+  {
+    "album_title": "Happier Than Ever",
+    "artist": "Billie Eilish",
+    "track_number": 13,
+    "track_title": "NDA"
+  },
+  {
+    "album_title": "Happier Than Ever",
+    "artist": "Billie Eilish",
+    "track_number": 14,
+    "track_title": "Therefore I Am"
+  },
+  {
+    "album_title": "Happier Than Ever",
+    "artist": "Billie Eilish",
+    "track_number": 15,
+    "track_title": "Happier Than Ever"
+  },
+  {
+    "album_title": "Happier Than Ever",
+    "artist": "Billie Eilish",
+    "track_number": 16,
+    "track_title": "Male Fantasy"
+  },
+  {
+    "album_title": "Heaven knows",
+    "artist": "PinkPantheress",
+    "track_number": 1,
+    "track_title": "Another life (feat. Rema)"
+  },
+  {
+    "album_title": "Heaven knows",
+    "artist": "PinkPantheress",
+    "track_number": 2,
+    "track_title": "True romance"
+  },
+  {
+    "album_title": "Heaven knows",
+    "artist": "PinkPantheress",
+    "track_number": 3,
+    "track_title": "Mosquito"
+  },
+  {
+    "album_title": "Heaven knows",
+    "artist": "PinkPantheress",
+    "track_number": 4,
+    "track_title": "The aisle"
+  },
+  {
+    "album_title": "Heaven knows",
+    "artist": "PinkPantheress",
+    "track_number": 5,
+    "track_title": "Nice to meet you (feat. Central Cee)"
+  },
+  {
+    "album_title": "Heaven knows",
+    "artist": "PinkPantheress",
+    "track_number": 6,
+    "track_title": "Bury me (feat. Kelela)"
+  },
+  {
+    "album_title": "Heaven knows",
+    "artist": "PinkPantheress",
+    "track_number": 7,
+    "track_title": "Internet baby (interlude)"
+  },
+  {
+    "album_title": "Heaven knows",
+    "artist": "PinkPantheress",
+    "track_number": 8,
+    "track_title": "Ophelia"
+  },
+  {
+    "album_title": "Heaven knows",
+    "artist": "PinkPantheress",
+    "track_number": 9,
+    "track_title": "Feel complete"
+  },
+  {
+    "album_title": "Heaven knows",
+    "artist": "PinkPantheress",
+    "track_number": 10,
+    "track_title": "Blue"
+  },
+  {
+    "album_title": "Heaven knows",
+    "artist": "PinkPantheress",
+    "track_number": 11,
+    "track_title": "Feelings"
+  },
+  {
+    "album_title": "Heaven knows",
+    "artist": "PinkPantheress",
+    "track_number": 12,
+    "track_title": "Capable of love"
+  },
+  {
+    "album_title": "Heaven knows",
+    "artist": "PinkPantheress",
+    "track_number": 13,
+    "track_title": "Boy's a liar Pt. 2"
+  },
+  {
+    "album_title": "HIT ME HARD AND SOFT",
+    "artist": "Billie Eilish",
+    "track_number": 1,
+    "track_title": "SKINNY"
+  },
+  {
+    "album_title": "HIT ME HARD AND SOFT",
+    "artist": "Billie Eilish",
+    "track_number": 2,
+    "track_title": "LUNCH"
+  },
+  {
+    "album_title": "HIT ME HARD AND SOFT",
+    "artist": "Billie Eilish",
+    "track_number": 3,
+    "track_title": "CHIHIRO"
+  },
+  {
+    "album_title": "HIT ME HARD AND SOFT",
+    "artist": "Billie Eilish",
+    "track_number": 4,
+    "track_title": "BIRDS OF A FEATHER"
+  },
+  {
+    "album_title": "HIT ME HARD AND SOFT",
+    "artist": "Billie Eilish",
+    "track_number": 5,
+    "track_title": "WILDFLOWER"
+  },
+  {
+    "album_title": "HIT ME HARD AND SOFT",
+    "artist": "Billie Eilish",
+    "track_number": 6,
+    "track_title": "THE GREATEST"
+  },
+  {
+    "album_title": "HIT ME HARD AND SOFT",
+    "artist": "Billie Eilish",
+    "track_number": 7,
+    "track_title": "L’AMOUR DE MA VIE"
+  },
+  {
+    "album_title": "HIT ME HARD AND SOFT",
+    "artist": "Billie Eilish",
+    "track_number": 8,
+    "track_title": "THE DINER"
+  },
+  {
+    "album_title": "HIT ME HARD AND SOFT",
+    "artist": "Billie Eilish",
+    "track_number": 9,
+    "track_title": "BITTERSUITE"
+  },
+  {
+    "album_title": "HIT ME HARD AND SOFT",
+    "artist": "Billie Eilish",
+    "track_number": 10,
+    "track_title": "BLUE"
+  },
+  {
+    "album_title": "How Do You Sleep At Night?",
+    "artist": "Teezo Touchdown",
+    "track_number": 1,
+    "track_title": "OK"
+  },
+  {
+    "album_title": "How Do You Sleep At Night?",
+    "artist": "Teezo Touchdown",
+    "track_number": 2,
+    "track_title": "You Thought (feat. Janelle Monáe)"
+  },
+  {
+    "album_title": "How Do You Sleep At Night?",
+    "artist": "Teezo Touchdown",
+    "track_number": 3,
+    "track_title": "UUHH"
+  },
+  {
+    "album_title": "How Do You Sleep At Night?",
+    "artist": "Teezo Touchdown",
+    "track_number": 4,
+    "track_title": "Sweet (feat. Fousheé)"
+  },
+  {
+    "album_title": "How Do You Sleep At Night?",
+    "artist": "Teezo Touchdown",
+    "track_number": 5,
+    "track_title": "Impossible"
+  },
+  {
+    "album_title": "How Do You Sleep At Night?",
+    "artist": "Teezo Touchdown",
+    "track_number": 6,
+    "track_title": "Neighborhood"
+  },
+  {
+    "album_title": "How Do You Sleep At Night?",
+    "artist": "Teezo Touchdown",
+    "track_number": 7,
+    "track_title": "Mood Swings"
+  },
+  {
+    "album_title": "How Do You Sleep At Night?",
+    "artist": "Teezo Touchdown",
+    "track_number": 8,
+    "track_title": "Too Easy (feat. Isaiah Rusk)"
+  },
+  {
+    "album_title": "How Do You Sleep At Night?",
+    "artist": "Teezo Touchdown",
+    "track_number": 9,
+    "track_title": "Familiarity"
+  },
+  {
+    "album_title": "How Do You Sleep At Night?",
+    "artist": "Teezo Touchdown",
+    "track_number": 10,
+    "track_title": "I Don't Think U C Me (feat. Isaiah Rusk)"
+  },
+  {
+    "album_title": "How Do You Sleep At Night?",
+    "artist": "Teezo Touchdown",
+    "track_number": 11,
+    "track_title": "Daddy Mama Drama"
+  },
+  {
+    "album_title": "How Do You Sleep At Night?",
+    "artist": "Teezo Touchdown",
+    "track_number": 12,
+    "track_title": "Nu Nay"
+  },
+  {
+    "album_title": "How Do You Sleep At Night?",
+    "artist": "Teezo Touchdown",
+    "track_number": 13,
+    "track_title": "Stranger"
+  },
+  {
+    "album_title": "How Do You Sleep At Night?",
+    "artist": "Teezo Touchdown",
+    "track_number": 14,
+    "track_title": "The Original Was Better"
+  },
+  {
+    "album_title": "I Put A Spell On You",
+    "artist": "Nina Simone",
+    "track_number": 1,
+    "track_title": "I Put A Spell On You"
+  },
+  {
+    "album_title": "I Put A Spell On You",
+    "artist": "Nina Simone",
+    "track_number": 2,
+    "track_title": "Tomorrow Is My Turn"
+  },
+  {
+    "album_title": "I Put A Spell On You",
+    "artist": "Nina Simone",
+    "track_number": 3,
+    "track_title": "Ne Me Quitte Pas"
+  },
+  {
+    "album_title": "I Put A Spell On You",
+    "artist": "Nina Simone",
+    "track_number": 4,
+    "track_title": "Marriage Is For Old Folks"
+  },
+  {
+    "album_title": "I Put A Spell On You",
+    "artist": "Nina Simone",
+    "track_number": 5,
+    "track_title": "July Tree"
+  },
+  {
+    "album_title": "I Put A Spell On You",
+    "artist": "Nina Simone",
+    "track_number": 6,
+    "track_title": "Gimme Some"
+  },
+  {
+    "album_title": "I Put A Spell On You",
+    "artist": "Nina Simone",
+    "track_number": 7,
+    "track_title": "Feeling Good"
+  },
+  {
+    "album_title": "I Put A Spell On You",
+    "artist": "Nina Simone",
+    "track_number": 8,
+    "track_title": "One September Day"
+  },
+  {
+    "album_title": "I Put A Spell On You",
+    "artist": "Nina Simone",
+    "track_number": 9,
+    "track_title": "Blues On Purpose"
+  },
+  {
+    "album_title": "I Put A Spell On You",
+    "artist": "Nina Simone",
+    "track_number": 10,
+    "track_title": "Beautiful Land"
+  },
+  {
+    "album_title": "I Put A Spell On You",
+    "artist": "Nina Simone",
+    "track_number": 11,
+    "track_title": "You've Got To Learn"
+  },
+  {
+    "album_title": "I Put A Spell On You",
+    "artist": "Nina Simone",
+    "track_number": 12,
+    "track_title": "Take Care Of Business"
+  },
+  {
     "album_title": "IGOR",
     "artist": "Tyler, The Creator",
     "track_number": 1,
@@ -3190,6 +5518,156 @@
     "artist": "Tyler, The Creator",
     "track_number": 12,
     "track_title": "ARE WE STILL FRIENDS?"
+  },
+  {
+    "album_title": "Illmatic",
+    "artist": "Nas",
+    "track_number": 1,
+    "track_title": "The Genesis"
+  },
+  {
+    "album_title": "Illmatic",
+    "artist": "Nas",
+    "track_number": 2,
+    "track_title": "N.Y. State of Mind"
+  },
+  {
+    "album_title": "Illmatic",
+    "artist": "Nas",
+    "track_number": 3,
+    "track_title": "Life's a Bitch (feat. AZ & Olu Dara)"
+  },
+  {
+    "album_title": "Illmatic",
+    "artist": "Nas",
+    "track_number": 4,
+    "track_title": "The World Is Yours"
+  },
+  {
+    "album_title": "Illmatic",
+    "artist": "Nas",
+    "track_number": 5,
+    "track_title": "Halftime"
+  },
+  {
+    "album_title": "Illmatic",
+    "artist": "Nas",
+    "track_number": 6,
+    "track_title": "Memory Lane (Sittin' in da Park)"
+  },
+  {
+    "album_title": "Illmatic",
+    "artist": "Nas",
+    "track_number": 7,
+    "track_title": "One Love (feat. Q-Tip)"
+  },
+  {
+    "album_title": "Illmatic",
+    "artist": "Nas",
+    "track_number": 8,
+    "track_title": "One Time 4 Your Mind"
+  },
+  {
+    "album_title": "Illmatic",
+    "artist": "Nas",
+    "track_number": 9,
+    "track_title": "Represent"
+  },
+  {
+    "album_title": "Illmatic",
+    "artist": "Nas",
+    "track_number": 10,
+    "track_title": "It Ain't Hard to Tell"
+  },
+  {
+    "album_title": "Imaginal Disk",
+    "artist": "Magdalena Bay",
+    "track_number": 1,
+    "track_title": "She Looked Like Me!"
+  },
+  {
+    "album_title": "Imaginal Disk",
+    "artist": "Magdalena Bay",
+    "track_number": 2,
+    "track_title": "Killing Time"
+  },
+  {
+    "album_title": "Imaginal Disk",
+    "artist": "Magdalena Bay",
+    "track_number": 3,
+    "track_title": "True Blue Interlude"
+  },
+  {
+    "album_title": "Imaginal Disk",
+    "artist": "Magdalena Bay",
+    "track_number": 4,
+    "track_title": "Image"
+  },
+  {
+    "album_title": "Imaginal Disk",
+    "artist": "Magdalena Bay",
+    "track_number": 5,
+    "track_title": "Death & Romance"
+  },
+  {
+    "album_title": "Imaginal Disk",
+    "artist": "Magdalena Bay",
+    "track_number": 6,
+    "track_title": "Fear, Sex"
+  },
+  {
+    "album_title": "Imaginal Disk",
+    "artist": "Magdalena Bay",
+    "track_number": 7,
+    "track_title": "Vampire in the Corner"
+  },
+  {
+    "album_title": "Imaginal Disk",
+    "artist": "Magdalena Bay",
+    "track_number": 8,
+    "track_title": "Watching T.V."
+  },
+  {
+    "album_title": "Imaginal Disk",
+    "artist": "Magdalena Bay",
+    "track_number": 9,
+    "track_title": "Tunnel Vision"
+  },
+  {
+    "album_title": "Imaginal Disk",
+    "artist": "Magdalena Bay",
+    "track_number": 10,
+    "track_title": "Love Is Everywhere"
+  },
+  {
+    "album_title": "Imaginal Disk",
+    "artist": "Magdalena Bay",
+    "track_number": 11,
+    "track_title": "Feeling DiskInserted?"
+  },
+  {
+    "album_title": "Imaginal Disk",
+    "artist": "Magdalena Bay",
+    "track_number": 12,
+    "track_title": "That's My Floor"
+  },
+  {
+    "album_title": "Imaginal Disk",
+    "artist": "Magdalena Bay",
+    "track_number": 13,
+    "track_title": "Cry for Me"
+  },
+  {
+    "album_title": "Imaginal Disk",
+    "artist": "Magdalena Bay",
+    "track_number": 14,
+    "track_title": "Angel on a Satellite"
+  },
+  {
+    "album_title": "Imaginal Disk",
+    "artist": "Magdalena Bay",
+    "track_number": 15,
+    "track_title": "The Ballad of Matt & Mica"
   },
   {
     "album_title": "In Rainbows",
@@ -3322,6 +5800,96 @@
     "artist": "Queen",
     "track_number": 12,
     "track_title": "The Show Must Go On - Remastered 2011"
+  },
+  {
+    "album_title": "iridescence",
+    "artist": "BROCKHAMPTON",
+    "track_number": 1,
+    "track_title": "NEW ORLEANS"
+  },
+  {
+    "album_title": "iridescence",
+    "artist": "BROCKHAMPTON",
+    "track_number": 2,
+    "track_title": "THUG LIFE"
+  },
+  {
+    "album_title": "iridescence",
+    "artist": "BROCKHAMPTON",
+    "track_number": 3,
+    "track_title": "BERLIN"
+  },
+  {
+    "album_title": "iridescence",
+    "artist": "BROCKHAMPTON",
+    "track_number": 4,
+    "track_title": "SOMETHING ABOUT HIM"
+  },
+  {
+    "album_title": "iridescence",
+    "artist": "BROCKHAMPTON",
+    "track_number": 5,
+    "track_title": "WHERE THE CASH AT"
+  },
+  {
+    "album_title": "iridescence",
+    "artist": "BROCKHAMPTON",
+    "track_number": 6,
+    "track_title": "WEIGHT"
+  },
+  {
+    "album_title": "iridescence",
+    "artist": "BROCKHAMPTON",
+    "track_number": 7,
+    "track_title": "DISTRICT"
+  },
+  {
+    "album_title": "iridescence",
+    "artist": "BROCKHAMPTON",
+    "track_number": 8,
+    "track_title": "LOOPHOLE"
+  },
+  {
+    "album_title": "iridescence",
+    "artist": "BROCKHAMPTON",
+    "track_number": 9,
+    "track_title": "TAPE"
+  },
+  {
+    "album_title": "iridescence",
+    "artist": "BROCKHAMPTON",
+    "track_number": 10,
+    "track_title": "J'OUVERT"
+  },
+  {
+    "album_title": "iridescence",
+    "artist": "BROCKHAMPTON",
+    "track_number": 11,
+    "track_title": "HONEY"
+  },
+  {
+    "album_title": "iridescence",
+    "artist": "BROCKHAMPTON",
+    "track_number": 12,
+    "track_title": "VIVID"
+  },
+  {
+    "album_title": "iridescence",
+    "artist": "BROCKHAMPTON",
+    "track_number": 13,
+    "track_title": "SAN MARCOS"
+  },
+  {
+    "album_title": "iridescence",
+    "artist": "BROCKHAMPTON",
+    "track_number": 14,
+    "track_title": "TONYA"
+  },
+  {
+    "album_title": "iridescence",
+    "artist": "BROCKHAMPTON",
+    "track_number": 15,
+    "track_title": "FABRIC"
   },
   {
     "album_title": "Jazz (2011 Remaster)",
@@ -3594,6 +6162,132 @@
     "track_title": "Untitled"
   },
   {
+    "album_title": "Kind Of Blue (Legacy Edition)",
+    "artist": "Miles Davis",
+    "track_number": 1,
+    "track_title": "So What (feat. John Coltrane, Cannonball Adderley & Bill Evans)"
+  },
+  {
+    "album_title": "Kind Of Blue (Legacy Edition)",
+    "artist": "Miles Davis",
+    "track_number": 1,
+    "track_title": "On Green Dolphin Street (feat. John Coltrane, Cannonball Adderley & Bill Evans)"
+  },
+  {
+    "album_title": "Kind Of Blue (Legacy Edition)",
+    "artist": "Miles Davis",
+    "track_number": 2,
+    "track_title": "Freddie Freeloader (feat. John Coltrane, Cannonball Adderley, Wynton Kelly & Paul Chambers)"
+  },
+  {
+    "album_title": "Kind Of Blue (Legacy Edition)",
+    "artist": "Miles Davis",
+    "track_number": 2,
+    "track_title": "Fran-Dance (feat. John Coltrane, Cannonball Adderley & Bill Evans)"
+  },
+  {
+    "album_title": "Kind Of Blue (Legacy Edition)",
+    "artist": "Miles Davis",
+    "track_number": 3,
+    "track_title": "Stella By Starlight (feat. John Coltrane & Bill Evans)"
+  },
+  {
+    "album_title": "Kind Of Blue (Legacy Edition)",
+    "artist": "Miles Davis",
+    "track_number": 3,
+    "track_title": "Blue in Green (feat. John Coltrane & Bill Evans)"
+  },
+  {
+    "album_title": "Kind Of Blue (Legacy Edition)",
+    "artist": "Miles Davis",
+    "track_number": 4,
+    "track_title": "All Blues (feat. John Coltrane, Cannonball Adderley & Bill Evans)"
+  },
+  {
+    "album_title": "Kind Of Blue (Legacy Edition)",
+    "artist": "Miles Davis",
+    "track_number": 4,
+    "track_title": "Love For Sale"
+  },
+  {
+    "album_title": "Kind Of Blue (Legacy Edition)",
+    "artist": "Miles Davis",
+    "track_number": 5,
+    "track_title": "Fran-Dance - alternate take"
+  },
+  {
+    "album_title": "Kind Of Blue (Legacy Edition)",
+    "artist": "Miles Davis",
+    "track_number": 5,
+    "track_title": "Flamenco Sketches (feat. John Coltrane, Cannonball Adderley & Bill Evans)"
+  },
+  {
+    "album_title": "Kind Of Blue (Legacy Edition)",
+    "artist": "Miles Davis",
+    "track_number": 6,
+    "track_title": "Flamenco Sketches (feat. John Coltrane, Cannonball Adderley & Bill Evans) - Alternate Take"
+  },
+  {
+    "album_title": "Kind Of Blue (Legacy Edition)",
+    "artist": "Miles Davis",
+    "track_number": 6,
+    "track_title": "So What - Live at Kurhaus, Den Haag, Holland - April 1960"
+  },
+  {
+    "album_title": "Kind Of Blue (Legacy Edition)",
+    "artist": "Miles Davis",
+    "track_number": 7,
+    "track_title": "Freddie Freeloader - Studio Sequence 1"
+  },
+  {
+    "album_title": "Kind Of Blue (Legacy Edition)",
+    "artist": "Miles Davis",
+    "track_number": 8,
+    "track_title": "Freddie Freeloader - False Start"
+  },
+  {
+    "album_title": "Kind Of Blue (Legacy Edition)",
+    "artist": "Miles Davis",
+    "track_number": 9,
+    "track_title": "Freddie Freeloader - Studio Sequence 2"
+  },
+  {
+    "album_title": "Kind Of Blue (Legacy Edition)",
+    "artist": "Miles Davis",
+    "track_number": 10,
+    "track_title": "So What - Studio Sequence 1"
+  },
+  {
+    "album_title": "Kind Of Blue (Legacy Edition)",
+    "artist": "Miles Davis",
+    "track_number": 11,
+    "track_title": "So What - Studio Sequence 2"
+  },
+  {
+    "album_title": "Kind Of Blue (Legacy Edition)",
+    "artist": "Miles Davis",
+    "track_number": 12,
+    "track_title": "Blue in Green - Studio Sequence"
+  },
+  {
+    "album_title": "Kind Of Blue (Legacy Edition)",
+    "artist": "Miles Davis",
+    "track_number": 13,
+    "track_title": "Flamenco Sketches - Studio Sequence 1"
+  },
+  {
+    "album_title": "Kind Of Blue (Legacy Edition)",
+    "artist": "Miles Davis",
+    "track_number": 14,
+    "track_title": "Flamenco Sketches - Studio Sequence 2"
+  },
+  {
+    "album_title": "Kind Of Blue (Legacy Edition)",
+    "artist": "Miles Davis",
+    "track_number": 15,
+    "track_title": "All Blues - Studio Sequence"
+  },
+  {
     "album_title": "La Casa No Existe",
     "artist": "Alejandro y Maria Laura",
     "track_number": 1,
@@ -3664,6 +6358,96 @@
     "artist": "Alejandro y Maria Laura",
     "track_number": 12,
     "track_title": "María Flojera"
+  },
+  {
+    "album_title": "La Pipa De La Paz",
+    "artist": "Aterciopelados",
+    "track_number": 1,
+    "track_title": "Cosita Seria"
+  },
+  {
+    "album_title": "La Pipa De La Paz",
+    "artist": "Aterciopelados",
+    "track_number": 2,
+    "track_title": "No Necesito"
+  },
+  {
+    "album_title": "La Pipa De La Paz",
+    "artist": "Aterciopelados",
+    "track_number": 3,
+    "track_title": "Quemarropa"
+  },
+  {
+    "album_title": "La Pipa De La Paz",
+    "artist": "Aterciopelados",
+    "track_number": 4,
+    "track_title": "Nada Quer Ver"
+  },
+  {
+    "album_title": "La Pipa De La Paz",
+    "artist": "Aterciopelados",
+    "track_number": 5,
+    "track_title": "La Culpable"
+  },
+  {
+    "album_title": "La Pipa De La Paz",
+    "artist": "Aterciopelados",
+    "track_number": 6,
+    "track_title": "Expreso Amazonia"
+  },
+  {
+    "album_title": "La Pipa De La Paz",
+    "artist": "Aterciopelados",
+    "track_number": 7,
+    "track_title": "Miss Panela"
+  },
+  {
+    "album_title": "La Pipa De La Paz",
+    "artist": "Aterciopelados",
+    "track_number": 8,
+    "track_title": "Musica"
+  },
+  {
+    "album_title": "La Pipa De La Paz",
+    "artist": "Aterciopelados",
+    "track_number": 9,
+    "track_title": "Buena Estrella"
+  },
+  {
+    "album_title": "La Pipa De La Paz",
+    "artist": "Aterciopelados",
+    "track_number": 10,
+    "track_title": "Baracunatana"
+  },
+  {
+    "album_title": "La Pipa De La Paz",
+    "artist": "Aterciopelados",
+    "track_number": 11,
+    "track_title": "Platonico"
+  },
+  {
+    "album_title": "La Pipa De La Paz",
+    "artist": "Aterciopelados",
+    "track_number": 12,
+    "track_title": "La Voz De La Patria"
+  },
+  {
+    "album_title": "La Pipa De La Paz",
+    "artist": "Aterciopelados",
+    "track_number": 13,
+    "track_title": "Chica Dificil"
+  },
+  {
+    "album_title": "La Pipa De La Paz",
+    "artist": "Aterciopelados",
+    "track_number": 14,
+    "track_title": "Te Juro Que No"
+  },
+  {
+    "album_title": "La Pipa De La Paz",
+    "artist": "Aterciopelados",
+    "track_number": 15,
+    "track_title": "La Pipa De La Paz"
   },
   {
     "album_title": "Lámina Once",
@@ -4110,6 +6894,84 @@
     "track_title": "Get Free"
   },
   {
+    "album_title": "Madre Padre Marte",
+    "artist": "Alejandro y Maria Laura",
+    "track_number": 1,
+    "track_title": "Bajo el cielo azul de Marte"
+  },
+  {
+    "album_title": "Madre Padre Marte",
+    "artist": "Alejandro y Maria Laura",
+    "track_number": 2,
+    "track_title": "Algo tiene que estar mal"
+  },
+  {
+    "album_title": "Madre Padre Marte",
+    "artist": "Alejandro y Maria Laura",
+    "track_number": 3,
+    "track_title": "Siempre siempre"
+  },
+  {
+    "album_title": "Madre Padre Marte",
+    "artist": "Alejandro y Maria Laura",
+    "track_number": 4,
+    "track_title": "La Princesa y el Rio"
+  },
+  {
+    "album_title": "Madre Padre Marte",
+    "artist": "Alejandro y Maria Laura",
+    "track_number": 5,
+    "track_title": "Aparato"
+  },
+  {
+    "album_title": "Madre Padre Marte",
+    "artist": "Alejandro y Maria Laura",
+    "track_number": 6,
+    "track_title": "De a poco"
+  },
+  {
+    "album_title": "Madre Padre Marte",
+    "artist": "Alejandro y Maria Laura",
+    "track_number": 7,
+    "track_title": "Querido hombre del Perú"
+  },
+  {
+    "album_title": "Madre Padre Marte",
+    "artist": "Alejandro y Maria Laura",
+    "track_number": 8,
+    "track_title": "Lo que iba a ser"
+  },
+  {
+    "album_title": "Madre Padre Marte",
+    "artist": "Alejandro y Maria Laura",
+    "track_number": 9,
+    "track_title": "Nunca Fui Parte de Algo"
+  },
+  {
+    "album_title": "Madre Padre Marte",
+    "artist": "Alejandro y Maria Laura",
+    "track_number": 10,
+    "track_title": "Lagrimón"
+  },
+  {
+    "album_title": "Madre Padre Marte",
+    "artist": "Alejandro y Maria Laura",
+    "track_number": 11,
+    "track_title": "Pasaje de Ida"
+  },
+  {
+    "album_title": "Madre Padre Marte",
+    "artist": "Alejandro y Maria Laura",
+    "track_number": 12,
+    "track_title": "Sana sana"
+  },
+  {
+    "album_title": "Madre Padre Marte",
+    "artist": "Alejandro y Maria Laura",
+    "track_number": 13,
+    "track_title": "Babas"
+  },
+  {
     "album_title": "Madvillainy",
     "artist": "Madvillain",
     "track_number": 1,
@@ -4308,6 +7170,84 @@
     "track_title": "Perfect Places"
   },
   {
+    "album_title": "Midnights",
+    "artist": "Taylor Swift",
+    "track_number": 1,
+    "track_title": "Lavender Haze"
+  },
+  {
+    "album_title": "Midnights",
+    "artist": "Taylor Swift",
+    "track_number": 2,
+    "track_title": "Maroon"
+  },
+  {
+    "album_title": "Midnights",
+    "artist": "Taylor Swift",
+    "track_number": 3,
+    "track_title": "Anti-Hero"
+  },
+  {
+    "album_title": "Midnights",
+    "artist": "Taylor Swift",
+    "track_number": 4,
+    "track_title": "Snow On The Beach (feat. Lana Del Rey)"
+  },
+  {
+    "album_title": "Midnights",
+    "artist": "Taylor Swift",
+    "track_number": 5,
+    "track_title": "You're On Your Own, Kid"
+  },
+  {
+    "album_title": "Midnights",
+    "artist": "Taylor Swift",
+    "track_number": 6,
+    "track_title": "Midnight Rain"
+  },
+  {
+    "album_title": "Midnights",
+    "artist": "Taylor Swift",
+    "track_number": 7,
+    "track_title": "Question...?"
+  },
+  {
+    "album_title": "Midnights",
+    "artist": "Taylor Swift",
+    "track_number": 8,
+    "track_title": "Vigilante Shit"
+  },
+  {
+    "album_title": "Midnights",
+    "artist": "Taylor Swift",
+    "track_number": 9,
+    "track_title": "Bejeweled"
+  },
+  {
+    "album_title": "Midnights",
+    "artist": "Taylor Swift",
+    "track_number": 10,
+    "track_title": "Labyrinth"
+  },
+  {
+    "album_title": "Midnights",
+    "artist": "Taylor Swift",
+    "track_number": 11,
+    "track_title": "Karma"
+  },
+  {
+    "album_title": "Midnights",
+    "artist": "Taylor Swift",
+    "track_number": 12,
+    "track_title": "Sweet Nothing"
+  },
+  {
+    "album_title": "Midnights",
+    "artist": "Taylor Swift",
+    "track_number": 13,
+    "track_title": "Mastermind"
+  },
+  {
     "album_title": "MM..FOOD",
     "artist": "MF DOOM",
     "track_number": 1,
@@ -4488,6 +7428,102 @@
     "track_title": "AM I DREAMING (feat. Miley Cyrus)"
   },
   {
+    "album_title": "MOTOMAMI",
+    "artist": "ROSALÍA",
+    "track_number": 1,
+    "track_title": "SAOKO"
+  },
+  {
+    "album_title": "MOTOMAMI",
+    "artist": "ROSALÍA",
+    "track_number": 2,
+    "track_title": "CANDY"
+  },
+  {
+    "album_title": "MOTOMAMI",
+    "artist": "ROSALÍA",
+    "track_number": 3,
+    "track_title": "LA FAMA"
+  },
+  {
+    "album_title": "MOTOMAMI",
+    "artist": "ROSALÍA",
+    "track_number": 4,
+    "track_title": "BULERÍAS"
+  },
+  {
+    "album_title": "MOTOMAMI",
+    "artist": "ROSALÍA",
+    "track_number": 5,
+    "track_title": "CHICKEN TERIYAKI"
+  },
+  {
+    "album_title": "MOTOMAMI",
+    "artist": "ROSALÍA",
+    "track_number": 6,
+    "track_title": "HENTAI"
+  },
+  {
+    "album_title": "MOTOMAMI",
+    "artist": "ROSALÍA",
+    "track_number": 7,
+    "track_title": "BIZCOCHITO"
+  },
+  {
+    "album_title": "MOTOMAMI",
+    "artist": "ROSALÍA",
+    "track_number": 8,
+    "track_title": "G3 N15"
+  },
+  {
+    "album_title": "MOTOMAMI",
+    "artist": "ROSALÍA",
+    "track_number": 9,
+    "track_title": "MOTOMAMI"
+  },
+  {
+    "album_title": "MOTOMAMI",
+    "artist": "ROSALÍA",
+    "track_number": 10,
+    "track_title": "DIABLO"
+  },
+  {
+    "album_title": "MOTOMAMI",
+    "artist": "ROSALÍA",
+    "track_number": 11,
+    "track_title": "DELIRIO DE GRANDEZA"
+  },
+  {
+    "album_title": "MOTOMAMI",
+    "artist": "ROSALÍA",
+    "track_number": 12,
+    "track_title": "CUUUUuuuuuute"
+  },
+  {
+    "album_title": "MOTOMAMI",
+    "artist": "ROSALÍA",
+    "track_number": 13,
+    "track_title": "COMO UN G"
+  },
+  {
+    "album_title": "MOTOMAMI",
+    "artist": "ROSALÍA",
+    "track_number": 14,
+    "track_title": "Abcdefg"
+  },
+  {
+    "album_title": "MOTOMAMI",
+    "artist": "ROSALÍA",
+    "track_number": 15,
+    "track_title": "LA COMBI VERSACE"
+  },
+  {
+    "album_title": "MOTOMAMI",
+    "artist": "ROSALÍA",
+    "track_number": 16,
+    "track_title": "SAKURA"
+  },
+  {
     "album_title": "Mr Bad Guy (Special Edition)",
     "artist": "Freddie Mercury",
     "track_number": 1,
@@ -4557,12 +7593,6 @@
     "album_title": "Mr. Morale & The Big Steppers",
     "artist": "Kendrick Lamar",
     "track_number": 1,
-    "track_title": "The Heart Part 5"
-  },
-  {
-    "album_title": "Mr. Morale & The Big Steppers",
-    "artist": "Kendrick Lamar",
-    "track_number": 1,
     "track_title": "Count Me Out"
   },
   {
@@ -4570,6 +7600,12 @@
     "artist": "Kendrick Lamar",
     "track_number": 1,
     "track_title": "United In Grief"
+  },
+  {
+    "album_title": "Mr. Morale & The Big Steppers",
+    "artist": "Kendrick Lamar",
+    "track_number": 1,
+    "track_title": "The Heart Part 5"
   },
   {
     "album_title": "Mr. Morale & The Big Steppers",
@@ -4611,13 +7647,13 @@
     "album_title": "Mr. Morale & The Big Steppers",
     "artist": "Kendrick Lamar",
     "track_number": 5,
-    "track_title": "Father Time (feat. Sampha)"
+    "track_title": "Savior"
   },
   {
     "album_title": "Mr. Morale & The Big Steppers",
     "artist": "Kendrick Lamar",
     "track_number": 5,
-    "track_title": "Savior"
+    "track_title": "Father Time (feat. Sampha)"
   },
   {
     "album_title": "Mr. Morale & The Big Steppers",
@@ -4752,6 +7788,84 @@
     "track_title": "Jeremías 17-5"
   },
   {
+    "album_title": "Nevermind (Remastered)",
+    "artist": "Nirvana",
+    "track_number": 1,
+    "track_title": "Smells Like Teen Spirit"
+  },
+  {
+    "album_title": "Nevermind (Remastered)",
+    "artist": "Nirvana",
+    "track_number": 2,
+    "track_title": "In Bloom"
+  },
+  {
+    "album_title": "Nevermind (Remastered)",
+    "artist": "Nirvana",
+    "track_number": 3,
+    "track_title": "Come As You Are"
+  },
+  {
+    "album_title": "Nevermind (Remastered)",
+    "artist": "Nirvana",
+    "track_number": 4,
+    "track_title": "Breed"
+  },
+  {
+    "album_title": "Nevermind (Remastered)",
+    "artist": "Nirvana",
+    "track_number": 5,
+    "track_title": "Lithium"
+  },
+  {
+    "album_title": "Nevermind (Remastered)",
+    "artist": "Nirvana",
+    "track_number": 6,
+    "track_title": "Polly"
+  },
+  {
+    "album_title": "Nevermind (Remastered)",
+    "artist": "Nirvana",
+    "track_number": 7,
+    "track_title": "Territorial Pissings"
+  },
+  {
+    "album_title": "Nevermind (Remastered)",
+    "artist": "Nirvana",
+    "track_number": 8,
+    "track_title": "Drain You"
+  },
+  {
+    "album_title": "Nevermind (Remastered)",
+    "artist": "Nirvana",
+    "track_number": 9,
+    "track_title": "Lounge Act"
+  },
+  {
+    "album_title": "Nevermind (Remastered)",
+    "artist": "Nirvana",
+    "track_number": 10,
+    "track_title": "Stay Away"
+  },
+  {
+    "album_title": "Nevermind (Remastered)",
+    "artist": "Nirvana",
+    "track_number": 11,
+    "track_title": "On A Plain"
+  },
+  {
+    "album_title": "Nevermind (Remastered)",
+    "artist": "Nirvana",
+    "track_number": 12,
+    "track_title": "Something In The Way"
+  },
+  {
+    "album_title": "Nevermind (Remastered)",
+    "artist": "Nirvana",
+    "track_number": 13,
+    "track_title": "Endless, Nameless"
+  },
+  {
     "album_title": "News Of The World (2011 Remaster)",
     "artist": "Queen",
     "track_number": 1,
@@ -4816,6 +7930,246 @@
     "artist": "Queen",
     "track_number": 11,
     "track_title": "My Melancholy Blues - Remastered 2011"
+  },
+  {
+    "album_title": "Norman Fucking Rockwell!",
+    "artist": "Lana Del Rey",
+    "track_number": 1,
+    "track_title": "Norman fucking Rockwell"
+  },
+  {
+    "album_title": "Norman Fucking Rockwell!",
+    "artist": "Lana Del Rey",
+    "track_number": 2,
+    "track_title": "Mariners Apartment Complex"
+  },
+  {
+    "album_title": "Norman Fucking Rockwell!",
+    "artist": "Lana Del Rey",
+    "track_number": 3,
+    "track_title": "Venice Bitch"
+  },
+  {
+    "album_title": "Norman Fucking Rockwell!",
+    "artist": "Lana Del Rey",
+    "track_number": 4,
+    "track_title": "Fuck it I love you"
+  },
+  {
+    "album_title": "Norman Fucking Rockwell!",
+    "artist": "Lana Del Rey",
+    "track_number": 5,
+    "track_title": "Doin' Time"
+  },
+  {
+    "album_title": "Norman Fucking Rockwell!",
+    "artist": "Lana Del Rey",
+    "track_number": 6,
+    "track_title": "Love song"
+  },
+  {
+    "album_title": "Norman Fucking Rockwell!",
+    "artist": "Lana Del Rey",
+    "track_number": 7,
+    "track_title": "Cinnamon Girl"
+  },
+  {
+    "album_title": "Norman Fucking Rockwell!",
+    "artist": "Lana Del Rey",
+    "track_number": 8,
+    "track_title": "How to disappear"
+  },
+  {
+    "album_title": "Norman Fucking Rockwell!",
+    "artist": "Lana Del Rey",
+    "track_number": 9,
+    "track_title": "California"
+  },
+  {
+    "album_title": "Norman Fucking Rockwell!",
+    "artist": "Lana Del Rey",
+    "track_number": 10,
+    "track_title": "The Next Best American Record"
+  },
+  {
+    "album_title": "Norman Fucking Rockwell!",
+    "artist": "Lana Del Rey",
+    "track_number": 11,
+    "track_title": "The greatest"
+  },
+  {
+    "album_title": "Norman Fucking Rockwell!",
+    "artist": "Lana Del Rey",
+    "track_number": 12,
+    "track_title": "Bartender"
+  },
+  {
+    "album_title": "Norman Fucking Rockwell!",
+    "artist": "Lana Del Rey",
+    "track_number": 13,
+    "track_title": "Happiness is a butterfly"
+  },
+  {
+    "album_title": "Norman Fucking Rockwell!",
+    "artist": "Lana Del Rey",
+    "track_number": 14,
+    "track_title": "hope is a dangerous thing for a woman like me to have - but I have it"
+  },
+  {
+    "album_title": "OK Computer",
+    "artist": "Radiohead",
+    "track_number": 1,
+    "track_title": "Airbag"
+  },
+  {
+    "album_title": "OK Computer",
+    "artist": "Radiohead",
+    "track_number": 2,
+    "track_title": "Paranoid Android"
+  },
+  {
+    "album_title": "OK Computer",
+    "artist": "Radiohead",
+    "track_number": 3,
+    "track_title": "Subterranean Homesick Alien"
+  },
+  {
+    "album_title": "OK Computer",
+    "artist": "Radiohead",
+    "track_number": 4,
+    "track_title": "Exit Music (For A Film)"
+  },
+  {
+    "album_title": "OK Computer",
+    "artist": "Radiohead",
+    "track_number": 5,
+    "track_title": "Let Down"
+  },
+  {
+    "album_title": "OK Computer",
+    "artist": "Radiohead",
+    "track_number": 6,
+    "track_title": "Karma Police"
+  },
+  {
+    "album_title": "OK Computer",
+    "artist": "Radiohead",
+    "track_number": 7,
+    "track_title": "Fitter Happier"
+  },
+  {
+    "album_title": "OK Computer",
+    "artist": "Radiohead",
+    "track_number": 8,
+    "track_title": "Electioneering"
+  },
+  {
+    "album_title": "OK Computer",
+    "artist": "Radiohead",
+    "track_number": 9,
+    "track_title": "Climbing Up the Walls"
+  },
+  {
+    "album_title": "OK Computer",
+    "artist": "Radiohead",
+    "track_number": 10,
+    "track_title": "No Surprises"
+  },
+  {
+    "album_title": "OK Computer",
+    "artist": "Radiohead",
+    "track_number": 11,
+    "track_title": "Lucky"
+  },
+  {
+    "album_title": "OK Computer",
+    "artist": "Radiohead",
+    "track_number": 12,
+    "track_title": "The Tourist"
+  },
+  {
+    "album_title": "ORQUÍDEAS",
+    "artist": "Kali Uchis",
+    "track_number": 1,
+    "track_title": "¿Cómo Así?"
+  },
+  {
+    "album_title": "ORQUÍDEAS",
+    "artist": "Kali Uchis",
+    "track_number": 2,
+    "track_title": "Me Pongo Loca"
+  },
+  {
+    "album_title": "ORQUÍDEAS",
+    "artist": "Kali Uchis",
+    "track_number": 3,
+    "track_title": "Igual Que Un Ángel (with Peso Pluma)"
+  },
+  {
+    "album_title": "ORQUÍDEAS",
+    "artist": "Kali Uchis",
+    "track_number": 4,
+    "track_title": "Pensamientos Intrusivos"
+  },
+  {
+    "album_title": "ORQUÍDEAS",
+    "artist": "Kali Uchis",
+    "track_number": 5,
+    "track_title": "Diosa"
+  },
+  {
+    "album_title": "ORQUÍDEAS",
+    "artist": "Kali Uchis",
+    "track_number": 6,
+    "track_title": "Te Mata"
+  },
+  {
+    "album_title": "ORQUÍDEAS",
+    "artist": "Kali Uchis",
+    "track_number": 7,
+    "track_title": "Perdiste"
+  },
+  {
+    "album_title": "ORQUÍDEAS",
+    "artist": "Kali Uchis",
+    "track_number": 8,
+    "track_title": "Young Rich & In Love"
+  },
+  {
+    "album_title": "ORQUÍDEAS",
+    "artist": "Kali Uchis",
+    "track_number": 9,
+    "track_title": "Tu Corazón Es Mío..."
+  },
+  {
+    "album_title": "ORQUÍDEAS",
+    "artist": "Kali Uchis",
+    "track_number": 10,
+    "track_title": "Muñekita (with El Alfa & JT)"
+  },
+  {
+    "album_title": "ORQUÍDEAS",
+    "artist": "Kali Uchis",
+    "track_number": 11,
+    "track_title": "Labios Mordidos (with KAROL G)"
+  },
+  {
+    "album_title": "ORQUÍDEAS",
+    "artist": "Kali Uchis",
+    "track_number": 12,
+    "track_title": "No Hay Ley Parte 2 (with Rauw Alejandro)"
+  },
+  {
+    "album_title": "ORQUÍDEAS",
+    "artist": "Kali Uchis",
+    "track_number": 13,
+    "track_title": "Heladito"
+  },
+  {
+    "album_title": "ORQUÍDEAS",
+    "artist": "Kali Uchis",
+    "track_number": 14,
+    "track_title": "Dame Beso // Muévete"
   },
   {
     "album_title": "OSCURO ÉXTASIS",
@@ -4935,19 +8289,13 @@
     "album_title": "Paradise",
     "artist": "Lana Del Rey",
     "track_number": 4,
-    "track_title": "Video Games"
-  },
-  {
-    "album_title": "Paradise",
-    "artist": "Lana Del Rey",
-    "track_number": 4,
     "track_title": "Body Electric"
   },
   {
     "album_title": "Paradise",
     "artist": "Lana Del Rey",
-    "track_number": 5,
-    "track_title": "Blue Velvet"
+    "track_number": 4,
+    "track_title": "Video Games"
   },
   {
     "album_title": "Paradise",
@@ -4958,8 +8306,8 @@
   {
     "album_title": "Paradise",
     "artist": "Lana Del Rey",
-    "track_number": 6,
-    "track_title": "National Anthem"
+    "track_number": 5,
+    "track_title": "Blue Velvet"
   },
   {
     "album_title": "Paradise",
@@ -4970,14 +8318,20 @@
   {
     "album_title": "Paradise",
     "artist": "Lana Del Rey",
-    "track_number": 7,
-    "track_title": "Yayo"
+    "track_number": 6,
+    "track_title": "National Anthem"
   },
   {
     "album_title": "Paradise",
     "artist": "Lana Del Rey",
     "track_number": 7,
     "track_title": "Dark Paradise"
+  },
+  {
+    "album_title": "Paradise",
+    "artist": "Lana Del Rey",
+    "track_number": 7,
+    "track_title": "Yayo"
   },
   {
     "album_title": "Paradise",
@@ -5032,6 +8386,90 @@
     "artist": "Lana Del Rey",
     "track_number": 15,
     "track_title": "Lucky Ones"
+  },
+  {
+    "album_title": "Planet Her",
+    "artist": "Doja Cat",
+    "track_number": 1,
+    "track_title": "Woman"
+  },
+  {
+    "album_title": "Planet Her",
+    "artist": "Doja Cat",
+    "track_number": 2,
+    "track_title": "Naked"
+  },
+  {
+    "album_title": "Planet Her",
+    "artist": "Doja Cat",
+    "track_number": 3,
+    "track_title": "Payday (feat. Young Thug)"
+  },
+  {
+    "album_title": "Planet Her",
+    "artist": "Doja Cat",
+    "track_number": 4,
+    "track_title": "Get Into It (Yuh)"
+  },
+  {
+    "album_title": "Planet Her",
+    "artist": "Doja Cat",
+    "track_number": 5,
+    "track_title": "Need to Know"
+  },
+  {
+    "album_title": "Planet Her",
+    "artist": "Doja Cat",
+    "track_number": 6,
+    "track_title": "I Don't Do Drugs (feat. Ariana Grande)"
+  },
+  {
+    "album_title": "Planet Her",
+    "artist": "Doja Cat",
+    "track_number": 7,
+    "track_title": "Love To Dream"
+  },
+  {
+    "album_title": "Planet Her",
+    "artist": "Doja Cat",
+    "track_number": 8,
+    "track_title": "You Right"
+  },
+  {
+    "album_title": "Planet Her",
+    "artist": "Doja Cat",
+    "track_number": 9,
+    "track_title": "Been Like This"
+  },
+  {
+    "album_title": "Planet Her",
+    "artist": "Doja Cat",
+    "track_number": 10,
+    "track_title": "Options (feat. JID)"
+  },
+  {
+    "album_title": "Planet Her",
+    "artist": "Doja Cat",
+    "track_number": 11,
+    "track_title": "Ain't Shit"
+  },
+  {
+    "album_title": "Planet Her",
+    "artist": "Doja Cat",
+    "track_number": 12,
+    "track_title": "Imagine"
+  },
+  {
+    "album_title": "Planet Her",
+    "artist": "Doja Cat",
+    "track_number": 13,
+    "track_title": "Alone"
+  },
+  {
+    "album_title": "Planet Her",
+    "artist": "Doja Cat",
+    "track_number": 14,
+    "track_title": "Kiss Me More (feat. SZA)"
   },
   {
     "album_title": "Por cesárea",
@@ -5370,6 +8808,78 @@
     "track_title": "AMIGOS NUEVOS"
   },
   {
+    "album_title": "Process",
+    "artist": "Sampha",
+    "track_number": 1,
+    "track_title": "Plastic 100°C"
+  },
+  {
+    "album_title": "Process",
+    "artist": "Sampha",
+    "track_number": 2,
+    "track_title": "Blood On Me"
+  },
+  {
+    "album_title": "Process",
+    "artist": "Sampha",
+    "track_number": 3,
+    "track_title": "Kora Sings"
+  },
+  {
+    "album_title": "Process",
+    "artist": "Sampha",
+    "track_number": 4,
+    "track_title": "(No One Knows Me) Like the Piano"
+  },
+  {
+    "album_title": "Process",
+    "artist": "Sampha",
+    "track_number": 5,
+    "track_title": "Take Me Inside"
+  },
+  {
+    "album_title": "Process",
+    "artist": "Sampha",
+    "track_number": 6,
+    "track_title": "Reverse Faults"
+  },
+  {
+    "album_title": "Process",
+    "artist": "Sampha",
+    "track_number": 7,
+    "track_title": "Under"
+  },
+  {
+    "album_title": "Process",
+    "artist": "Sampha",
+    "track_number": 8,
+    "track_title": "Timmy's Prayer"
+  },
+  {
+    "album_title": "Process",
+    "artist": "Sampha",
+    "track_number": 9,
+    "track_title": "Incomplete Kisses"
+  },
+  {
+    "album_title": "Process",
+    "artist": "Sampha",
+    "track_number": 10,
+    "track_title": "What Shouldn't I Be?"
+  },
+  {
+    "album_title": "Process",
+    "artist": "Sampha",
+    "track_number": 11,
+    "track_title": "In-between and Overseas"
+  },
+  {
+    "album_title": "Process",
+    "artist": "Sampha",
+    "track_number": 12,
+    "track_title": "Answer"
+  },
+  {
     "album_title": "Punisher",
     "artist": "Phoebe Bridgers",
     "track_number": 1,
@@ -5434,6 +8944,78 @@
     "artist": "Phoebe Bridgers",
     "track_number": 11,
     "track_title": "I Know The End"
+  },
+  {
+    "album_title": "Raro",
+    "artist": "El Cuarteto De Nos",
+    "track_number": 1,
+    "track_title": "Nada Es Gratis en la Vida"
+  },
+  {
+    "album_title": "Raro",
+    "artist": "El Cuarteto De Nos",
+    "track_number": 2,
+    "track_title": "Hoy Estoy Raro"
+  },
+  {
+    "album_title": "Raro",
+    "artist": "El Cuarteto De Nos",
+    "track_number": 3,
+    "track_title": "Así Soy Yo"
+  },
+  {
+    "album_title": "Raro",
+    "artist": "El Cuarteto De Nos",
+    "track_number": 4,
+    "track_title": "Yendo a la Casa de Damián"
+  },
+  {
+    "album_title": "Raro",
+    "artist": "El Cuarteto De Nos",
+    "track_number": 5,
+    "track_title": "Pobre Papá"
+  },
+  {
+    "album_title": "Raro",
+    "artist": "El Cuarteto De Nos",
+    "track_number": 6,
+    "track_title": "Ya No Sé Que Hacer Conmigo"
+  },
+  {
+    "album_title": "Raro",
+    "artist": "El Cuarteto De Nos",
+    "track_number": 7,
+    "track_title": "Natural"
+  },
+  {
+    "album_title": "Raro",
+    "artist": "El Cuarteto De Nos",
+    "track_number": 8,
+    "track_title": "Invierno del 92"
+  },
+  {
+    "album_title": "Raro",
+    "artist": "El Cuarteto De Nos",
+    "track_number": 9,
+    "track_title": "El Karaoke de Mi Noviecita"
+  },
+  {
+    "album_title": "Raro",
+    "artist": "El Cuarteto De Nos",
+    "track_number": 10,
+    "track_title": "Me Hace Bien, Me Hace Mal"
+  },
+  {
+    "album_title": "Raro",
+    "artist": "El Cuarteto De Nos",
+    "track_number": 11,
+    "track_title": "Pueblo Podrido"
+  },
+  {
+    "album_title": "Raro",
+    "artist": "El Cuarteto De Nos",
+    "track_number": 12,
+    "track_title": "Autos Nuevos"
   },
   {
     "album_title": "Re",
@@ -5556,6 +9138,276 @@
     "track_title": "El balcón"
   },
   {
+    "album_title": "Red (Taylor's Version)",
+    "artist": "Taylor Swift",
+    "track_number": 1,
+    "track_title": "State Of Grace (Taylor's Version)"
+  },
+  {
+    "album_title": "Red (Taylor's Version)",
+    "artist": "Taylor Swift",
+    "track_number": 2,
+    "track_title": "Red (Taylor's Version)"
+  },
+  {
+    "album_title": "Red (Taylor's Version)",
+    "artist": "Taylor Swift",
+    "track_number": 3,
+    "track_title": "Treacherous (Taylor's Version)"
+  },
+  {
+    "album_title": "Red (Taylor's Version)",
+    "artist": "Taylor Swift",
+    "track_number": 4,
+    "track_title": "I Knew You Were Trouble (Taylor's Version)"
+  },
+  {
+    "album_title": "Red (Taylor's Version)",
+    "artist": "Taylor Swift",
+    "track_number": 5,
+    "track_title": "All Too Well (Taylor's Version)"
+  },
+  {
+    "album_title": "Red (Taylor's Version)",
+    "artist": "Taylor Swift",
+    "track_number": 6,
+    "track_title": "22 (Taylor's Version)"
+  },
+  {
+    "album_title": "Red (Taylor's Version)",
+    "artist": "Taylor Swift",
+    "track_number": 7,
+    "track_title": "I Almost Do (Taylor's Version)"
+  },
+  {
+    "album_title": "Red (Taylor's Version)",
+    "artist": "Taylor Swift",
+    "track_number": 8,
+    "track_title": "We Are Never Ever Getting Back Together (Taylor's Version)"
+  },
+  {
+    "album_title": "Red (Taylor's Version)",
+    "artist": "Taylor Swift",
+    "track_number": 9,
+    "track_title": "Stay Stay Stay (Taylor's Version)"
+  },
+  {
+    "album_title": "Red (Taylor's Version)",
+    "artist": "Taylor Swift",
+    "track_number": 10,
+    "track_title": "The Last Time (feat. Gary Lightbody of Snow Patrol) (Taylor’s Version)"
+  },
+  {
+    "album_title": "Red (Taylor's Version)",
+    "artist": "Taylor Swift",
+    "track_number": 11,
+    "track_title": "Holy Ground (Taylor's Version)"
+  },
+  {
+    "album_title": "Red (Taylor's Version)",
+    "artist": "Taylor Swift",
+    "track_number": 12,
+    "track_title": "Sad Beautiful Tragic (Taylor's Version)"
+  },
+  {
+    "album_title": "Red (Taylor's Version)",
+    "artist": "Taylor Swift",
+    "track_number": 13,
+    "track_title": "The Lucky One (Taylor's Version)"
+  },
+  {
+    "album_title": "Red (Taylor's Version)",
+    "artist": "Taylor Swift",
+    "track_number": 14,
+    "track_title": "Everything Has Changed (feat. Ed Sheeran) (Taylor’s Version)"
+  },
+  {
+    "album_title": "Red (Taylor's Version)",
+    "artist": "Taylor Swift",
+    "track_number": 15,
+    "track_title": "Starlight (Taylor's Version)"
+  },
+  {
+    "album_title": "Red (Taylor's Version)",
+    "artist": "Taylor Swift",
+    "track_number": 16,
+    "track_title": "Begin Again (Taylor's Version)"
+  },
+  {
+    "album_title": "Red (Taylor's Version)",
+    "artist": "Taylor Swift",
+    "track_number": 17,
+    "track_title": "The Moment I Knew (Taylor's Version)"
+  },
+  {
+    "album_title": "Red (Taylor's Version)",
+    "artist": "Taylor Swift",
+    "track_number": 18,
+    "track_title": "Come Back...Be Here (Taylor's Version)"
+  },
+  {
+    "album_title": "Red (Taylor's Version)",
+    "artist": "Taylor Swift",
+    "track_number": 19,
+    "track_title": "Girl At Home (Taylor's Version)"
+  },
+  {
+    "album_title": "Red (Taylor's Version)",
+    "artist": "Taylor Swift",
+    "track_number": 20,
+    "track_title": "State Of Grace (Acoustic Version) (Taylor's Version)"
+  },
+  {
+    "album_title": "Red (Taylor's Version)",
+    "artist": "Taylor Swift",
+    "track_number": 21,
+    "track_title": "Ronan (Taylor's Version)"
+  },
+  {
+    "album_title": "Red (Taylor's Version)",
+    "artist": "Taylor Swift",
+    "track_number": 22,
+    "track_title": "Better Man (Taylor's Version) (From The Vault)"
+  },
+  {
+    "album_title": "Red (Taylor's Version)",
+    "artist": "Taylor Swift",
+    "track_number": 23,
+    "track_title": "Nothing New (feat. Phoebe Bridgers) (Taylor’s Version) (From The Vault)"
+  },
+  {
+    "album_title": "Red (Taylor's Version)",
+    "artist": "Taylor Swift",
+    "track_number": 24,
+    "track_title": "Babe (Taylor's Version) (From The Vault)"
+  },
+  {
+    "album_title": "Red (Taylor's Version)",
+    "artist": "Taylor Swift",
+    "track_number": 25,
+    "track_title": "Message In A Bottle (Taylor's Version) (From The Vault)"
+  },
+  {
+    "album_title": "Red (Taylor's Version)",
+    "artist": "Taylor Swift",
+    "track_number": 26,
+    "track_title": "I Bet You Think About Me (feat. Chris Stapleton) (Taylor’s Version) (From The Vault)"
+  },
+  {
+    "album_title": "Red (Taylor's Version)",
+    "artist": "Taylor Swift",
+    "track_number": 27,
+    "track_title": "Forever Winter (Taylor's Version) (From The Vault)"
+  },
+  {
+    "album_title": "Red (Taylor's Version)",
+    "artist": "Taylor Swift",
+    "track_number": 28,
+    "track_title": "Run (feat. Ed Sheeran) (Taylor’s Version) (From The Vault)"
+  },
+  {
+    "album_title": "Red (Taylor's Version)",
+    "artist": "Taylor Swift",
+    "track_number": 29,
+    "track_title": "The Very First Night (Taylor's Version) (From The Vault)"
+  },
+  {
+    "album_title": "Red (Taylor's Version)",
+    "artist": "Taylor Swift",
+    "track_number": 30,
+    "track_title": "All Too Well (10 Minute Version) (Taylor's Version) (From The Vault)"
+  },
+  {
+    "album_title": "Red Moon In Venus",
+    "artist": "Kali Uchis",
+    "track_number": 1,
+    "track_title": "in My Garden..."
+  },
+  {
+    "album_title": "Red Moon In Venus",
+    "artist": "Kali Uchis",
+    "track_number": 2,
+    "track_title": "I Wish you Roses"
+  },
+  {
+    "album_title": "Red Moon In Venus",
+    "artist": "Kali Uchis",
+    "track_number": 3,
+    "track_title": "Worth the Wait (feat. Omar Apollo)"
+  },
+  {
+    "album_title": "Red Moon In Venus",
+    "artist": "Kali Uchis",
+    "track_number": 4,
+    "track_title": "Love Between..."
+  },
+  {
+    "album_title": "Red Moon In Venus",
+    "artist": "Kali Uchis",
+    "track_number": 5,
+    "track_title": "All Mine"
+  },
+  {
+    "album_title": "Red Moon In Venus",
+    "artist": "Kali Uchis",
+    "track_number": 6,
+    "track_title": "Fantasy (feat. Don Toliver)"
+  },
+  {
+    "album_title": "Red Moon In Venus",
+    "artist": "Kali Uchis",
+    "track_number": 7,
+    "track_title": "Como Te Quiero Yo"
+  },
+  {
+    "album_title": "Red Moon In Venus",
+    "artist": "Kali Uchis",
+    "track_number": 8,
+    "track_title": "Hasta Cuando"
+  },
+  {
+    "album_title": "Red Moon In Venus",
+    "artist": "Kali Uchis",
+    "track_number": 9,
+    "track_title": "Endlessly"
+  },
+  {
+    "album_title": "Red Moon In Venus",
+    "artist": "Kali Uchis",
+    "track_number": 10,
+    "track_title": "Moral Conscience"
+  },
+  {
+    "album_title": "Red Moon In Venus",
+    "artist": "Kali Uchis",
+    "track_number": 11,
+    "track_title": "Not Too Late (interlude)"
+  },
+  {
+    "album_title": "Red Moon In Venus",
+    "artist": "Kali Uchis",
+    "track_number": 12,
+    "track_title": "Blue"
+  },
+  {
+    "album_title": "Red Moon In Venus",
+    "artist": "Kali Uchis",
+    "track_number": 13,
+    "track_title": "Deserve Me (with Summer Walker)"
+  },
+  {
+    "album_title": "Red Moon In Venus",
+    "artist": "Kali Uchis",
+    "track_number": 14,
+    "track_title": "Moonlight"
+  },
+  {
+    "album_title": "Red Moon In Venus",
+    "artist": "Kali Uchis",
+    "track_number": 15,
+    "track_title": "Happy Now"
+  },
+  {
     "album_title": "reputation",
     "artist": "Taylor Swift",
     "track_number": 1,
@@ -5644,6 +9496,438 @@
     "artist": "Taylor Swift",
     "track_number": 15,
     "track_title": "New Year’s Day"
+  },
+  {
+    "album_title": "Río Salvaje",
+    "artist": "Little Jesus",
+    "track_number": 1,
+    "track_title": "Nuevos Amigos"
+  },
+  {
+    "album_title": "Río Salvaje",
+    "artist": "Little Jesus",
+    "track_number": 2,
+    "track_title": "La Magia"
+  },
+  {
+    "album_title": "Río Salvaje",
+    "artist": "Little Jesus",
+    "track_number": 3,
+    "track_title": "Mala Onda"
+  },
+  {
+    "album_title": "Río Salvaje",
+    "artist": "Little Jesus",
+    "track_number": 4,
+    "track_title": "Niña Bien"
+  },
+  {
+    "album_title": "Río Salvaje",
+    "artist": "Little Jesus",
+    "track_number": 5,
+    "track_title": "La Luna"
+  },
+  {
+    "album_title": "Río Salvaje",
+    "artist": "Little Jesus",
+    "track_number": 6,
+    "track_title": "Golden Choice"
+  },
+  {
+    "album_title": "Río Salvaje",
+    "artist": "Little Jesus",
+    "track_number": 7,
+    "track_title": "Trágame Tierra"
+  },
+  {
+    "album_title": "Río Salvaje",
+    "artist": "Little Jesus",
+    "track_number": 8,
+    "track_title": "Nuevo México"
+  },
+  {
+    "album_title": "Río Salvaje",
+    "artist": "Little Jesus",
+    "track_number": 9,
+    "track_title": "Río Salvaje"
+  },
+  {
+    "album_title": "Río Salvaje",
+    "artist": "Little Jesus",
+    "track_number": 10,
+    "track_title": "TQM"
+  },
+  {
+    "album_title": "rosie",
+    "artist": "ROSÉ",
+    "track_number": 1,
+    "track_title": "number one girl"
+  },
+  {
+    "album_title": "rosie",
+    "artist": "ROSÉ",
+    "track_number": 2,
+    "track_title": "3am"
+  },
+  {
+    "album_title": "rosie",
+    "artist": "ROSÉ",
+    "track_number": 3,
+    "track_title": "two years"
+  },
+  {
+    "album_title": "rosie",
+    "artist": "ROSÉ",
+    "track_number": 4,
+    "track_title": "toxic till the end"
+  },
+  {
+    "album_title": "rosie",
+    "artist": "ROSÉ",
+    "track_number": 5,
+    "track_title": "drinks or coffee"
+  },
+  {
+    "album_title": "rosie",
+    "artist": "ROSÉ",
+    "track_number": 6,
+    "track_title": "APT."
+  },
+  {
+    "album_title": "rosie",
+    "artist": "ROSÉ",
+    "track_number": 7,
+    "track_title": "gameboy"
+  },
+  {
+    "album_title": "rosie",
+    "artist": "ROSÉ",
+    "track_number": 8,
+    "track_title": "stay a little longer"
+  },
+  {
+    "album_title": "rosie",
+    "artist": "ROSÉ",
+    "track_number": 9,
+    "track_title": "not the same"
+  },
+  {
+    "album_title": "rosie",
+    "artist": "ROSÉ",
+    "track_number": 10,
+    "track_title": "call it the end"
+  },
+  {
+    "album_title": "rosie",
+    "artist": "ROSÉ",
+    "track_number": 11,
+    "track_title": "too bad for us"
+  },
+  {
+    "album_title": "rosie",
+    "artist": "ROSÉ",
+    "track_number": 12,
+    "track_title": "dance all night"
+  },
+  {
+    "album_title": "Rumours",
+    "artist": "Fleetwood Mac",
+    "track_number": 1,
+    "track_title": "Second Hand News - Early Take"
+  },
+  {
+    "album_title": "Rumours",
+    "artist": "Fleetwood Mac",
+    "track_number": 1,
+    "track_title": "Second Hand News - Sessions, Roughs & Outtakes; 2004 Remaster"
+  },
+  {
+    "album_title": "Rumours",
+    "artist": "Fleetwood Mac",
+    "track_number": 1,
+    "track_title": "Second Hand News - 2004 Remaster"
+  },
+  {
+    "album_title": "Rumours",
+    "artist": "Fleetwood Mac",
+    "track_number": 1,
+    "track_title": "Intro - Live 1977"
+  },
+  {
+    "album_title": "Rumours",
+    "artist": "Fleetwood Mac",
+    "track_number": 2,
+    "track_title": "Dreams - Take 2"
+  },
+  {
+    "album_title": "Rumours",
+    "artist": "Fleetwood Mac",
+    "track_number": 2,
+    "track_title": "Monday Morning - Live 1977"
+  },
+  {
+    "album_title": "Rumours",
+    "artist": "Fleetwood Mac",
+    "track_number": 2,
+    "track_title": "Dreams - 2004 Remaster"
+  },
+  {
+    "album_title": "Rumours",
+    "artist": "Fleetwood Mac",
+    "track_number": 2,
+    "track_title": "Dreams - Sessions, Roughs & Outtakes; 2004 Remaster"
+  },
+  {
+    "album_title": "Rumours",
+    "artist": "Fleetwood Mac",
+    "track_number": 3,
+    "track_title": "Never Going Back Again - Acoustic Duet"
+  },
+  {
+    "album_title": "Rumours",
+    "artist": "Fleetwood Mac",
+    "track_number": 3,
+    "track_title": "Dreams - Live 1977"
+  },
+  {
+    "album_title": "Rumours",
+    "artist": "Fleetwood Mac",
+    "track_number": 3,
+    "track_title": "Brushes (Never Going Back Again) - Sessions, Roughs & Outtakes; 2004 Remaster"
+  },
+  {
+    "album_title": "Rumours",
+    "artist": "Fleetwood Mac",
+    "track_number": 3,
+    "track_title": "Never Going Back Again - 2004 Remaster"
+  },
+  {
+    "album_title": "Rumours",
+    "artist": "Fleetwood Mac",
+    "track_number": 4,
+    "track_title": "Don't Stop - Live 1977"
+  },
+  {
+    "album_title": "Rumours",
+    "artist": "Fleetwood Mac",
+    "track_number": 4,
+    "track_title": "Go Your Own Way - Early Take"
+  },
+  {
+    "album_title": "Rumours",
+    "artist": "Fleetwood Mac",
+    "track_number": 4,
+    "track_title": "Don't Stop - 2004 Remaster"
+  },
+  {
+    "album_title": "Rumours",
+    "artist": "Fleetwood Mac",
+    "track_number": 4,
+    "track_title": "Don't Stop - Sessions, Roughs & Outtakes; 2004 Remaster"
+  },
+  {
+    "album_title": "Rumours",
+    "artist": "Fleetwood Mac",
+    "track_number": 5,
+    "track_title": "Songbird - Demo"
+  },
+  {
+    "album_title": "Rumours",
+    "artist": "Fleetwood Mac",
+    "track_number": 5,
+    "track_title": "Go Your Own Way - 2004 Remaster"
+  },
+  {
+    "album_title": "Rumours",
+    "artist": "Fleetwood Mac",
+    "track_number": 5,
+    "track_title": "Go Your Own Way - Sessions, Roughs & Outtakes"
+  },
+  {
+    "album_title": "Rumours",
+    "artist": "Fleetwood Mac",
+    "track_number": 5,
+    "track_title": "The Chain - Live 1977"
+  },
+  {
+    "album_title": "Rumours",
+    "artist": "Fleetwood Mac",
+    "track_number": 6,
+    "track_title": "Oh Daddy - Live 1977"
+  },
+  {
+    "album_title": "Rumours",
+    "artist": "Fleetwood Mac",
+    "track_number": 6,
+    "track_title": "Songbird - 2004 Remaster"
+  },
+  {
+    "album_title": "Rumours",
+    "artist": "Fleetwood Mac",
+    "track_number": 6,
+    "track_title": "Songbird - Instrumental, Take 10"
+  },
+  {
+    "album_title": "Rumours",
+    "artist": "Fleetwood Mac",
+    "track_number": 6,
+    "track_title": "Songbird - Sessions, Roughs & Outtakes; 2004 Remaster"
+  },
+  {
+    "album_title": "Rumours",
+    "artist": "Fleetwood Mac",
+    "track_number": 7,
+    "track_title": "The Chain - 2004 Remaster"
+  },
+  {
+    "album_title": "Rumours",
+    "artist": "Fleetwood Mac",
+    "track_number": 7,
+    "track_title": "I Don't Want to Know - Early Take"
+  },
+  {
+    "album_title": "Rumours",
+    "artist": "Fleetwood Mac",
+    "track_number": 7,
+    "track_title": "Silver Springs - Sessions, Roughs & Outtakes"
+  },
+  {
+    "album_title": "Rumours",
+    "artist": "Fleetwood Mac",
+    "track_number": 7,
+    "track_title": "Rhiannon - Live 1977"
+  },
+  {
+    "album_title": "Rumours",
+    "artist": "Fleetwood Mac",
+    "track_number": 8,
+    "track_title": "Never Going Back Again - Live 1977"
+  },
+  {
+    "album_title": "Rumours",
+    "artist": "Fleetwood Mac",
+    "track_number": 8,
+    "track_title": "You Make Loving Fun - Sessions, Roughs & Outtakes; 2004 Remaster"
+  },
+  {
+    "album_title": "Rumours",
+    "artist": "Fleetwood Mac",
+    "track_number": 8,
+    "track_title": "Keep Me There - Instrumental; 2013 Remaster"
+  },
+  {
+    "album_title": "Rumours",
+    "artist": "Fleetwood Mac",
+    "track_number": 8,
+    "track_title": "You Make Loving Fun - 2004 Remaster"
+  },
+  {
+    "album_title": "Rumours",
+    "artist": "Fleetwood Mac",
+    "track_number": 9,
+    "track_title": "I Don't Want to Know - 2004 Remaster"
+  },
+  {
+    "album_title": "Rumours",
+    "artist": "Fleetwood Mac",
+    "track_number": 9,
+    "track_title": "Gold Dust Woman - Live 1977; 2013 Remaster"
+  },
+  {
+    "album_title": "Rumours",
+    "artist": "Fleetwood Mac",
+    "track_number": 9,
+    "track_title": "Gold Dust Woman #1 - Sessions, Roughs & Outtakes 2004 Remaster"
+  },
+  {
+    "album_title": "Rumours",
+    "artist": "Fleetwood Mac",
+    "track_number": 9,
+    "track_title": "The Chain - Demo"
+  },
+  {
+    "album_title": "Rumours",
+    "artist": "Fleetwood Mac",
+    "track_number": 10,
+    "track_title": "Oh Daddy - 2004 Remaster"
+  },
+  {
+    "album_title": "Rumours",
+    "artist": "Fleetwood Mac",
+    "track_number": 10,
+    "track_title": "Keep Me There - With Vocal; 2013 Remaster"
+  },
+  {
+    "album_title": "Rumours",
+    "artist": "Fleetwood Mac",
+    "track_number": 10,
+    "track_title": "Oh Daddy - Sessions, Roughs & Outtakes; 2004 Remaster"
+  },
+  {
+    "album_title": "Rumours",
+    "artist": "Fleetwood Mac",
+    "track_number": 10,
+    "track_title": "World Turning - Live 1977"
+  },
+  {
+    "album_title": "Rumours",
+    "artist": "Fleetwood Mac",
+    "track_number": 11,
+    "track_title": "Gold Dust Woman - Early Take; 2013 Remaster"
+  },
+  {
+    "album_title": "Rumours",
+    "artist": "Fleetwood Mac",
+    "track_number": 11,
+    "track_title": "Gold Dust Woman - 2004 Remaster"
+  },
+  {
+    "album_title": "Rumours",
+    "artist": "Fleetwood Mac",
+    "track_number": 11,
+    "track_title": "Go Your Own Way - Live 1977"
+  },
+  {
+    "album_title": "Rumours",
+    "artist": "Fleetwood Mac",
+    "track_number": 12,
+    "track_title": "Songbird - Live 1977"
+  },
+  {
+    "album_title": "Rumours",
+    "artist": "Fleetwood Mac",
+    "track_number": 12,
+    "track_title": "Silver Springs - 2004 Remaster"
+  },
+  {
+    "album_title": "Rumours",
+    "artist": "Fleetwood Mac",
+    "track_number": 12,
+    "track_title": "Oh Daddy - Early Take"
+  },
+  {
+    "album_title": "Rumours",
+    "artist": "Fleetwood Mac",
+    "track_number": 13,
+    "track_title": "Silver Springs - Early Take"
+  },
+  {
+    "album_title": "Rumours",
+    "artist": "Fleetwood Mac",
+    "track_number": 14,
+    "track_title": "Planets of the Universe - Demo; 2013 Remaster"
+  },
+  {
+    "album_title": "Rumours",
+    "artist": "Fleetwood Mac",
+    "track_number": 15,
+    "track_title": "Doesn't Anything Last - Acoustic Duet; 2013 Remaster"
+  },
+  {
+    "album_title": "Rumours",
+    "artist": "Fleetwood Mac",
+    "track_number": 16,
+    "track_title": "Never Going Back Again - Instrumental"
   },
   {
     "album_title": "Scarlet",
@@ -5829,13 +10113,13 @@
     "album_title": "Sheer Heart Attack (2011 Remaster)",
     "artist": "Queen",
     "track_number": 1,
-    "track_title": "Brighton Rock - Remastered 2011"
+    "track_title": "Now I’m Here - Live At Hammersmith Odeon, London / December 1975"
   },
   {
     "album_title": "Sheer Heart Attack (2011 Remaster)",
     "artist": "Queen",
     "track_number": 1,
-    "track_title": "Now I’m Here - Live At Hammersmith Odeon, London / December 1975"
+    "track_title": "Brighton Rock - Remastered 2011"
   },
   {
     "album_title": "Sheer Heart Attack (2011 Remaster)",
@@ -5853,19 +10137,13 @@
     "album_title": "Sheer Heart Attack (2011 Remaster)",
     "artist": "Queen",
     "track_number": 3,
-    "track_title": "Tenement Funster - Remastered 2011"
-  },
-  {
-    "album_title": "Sheer Heart Attack (2011 Remaster)",
-    "artist": "Queen",
-    "track_number": 3,
     "track_title": "Tenement Funster - Live BBC Session / October 1974"
   },
   {
     "album_title": "Sheer Heart Attack (2011 Remaster)",
     "artist": "Queen",
-    "track_number": 4,
-    "track_title": "Flick Of The Wrist - Remastered 2011"
+    "track_number": 3,
+    "track_title": "Tenement Funster - Remastered 2011"
   },
   {
     "album_title": "Sheer Heart Attack (2011 Remaster)",
@@ -5876,14 +10154,20 @@
   {
     "album_title": "Sheer Heart Attack (2011 Remaster)",
     "artist": "Queen",
-    "track_number": 5,
-    "track_title": "In The Lap Of The Gods… Revisited - Live At Wembley Stadium / July 1986"
+    "track_number": 4,
+    "track_title": "Flick Of The Wrist - Remastered 2011"
   },
   {
     "album_title": "Sheer Heart Attack (2011 Remaster)",
     "artist": "Queen",
     "track_number": 5,
     "track_title": "Lily Of The Valley - Remastered 2011"
+  },
+  {
+    "album_title": "Sheer Heart Attack (2011 Remaster)",
+    "artist": "Queen",
+    "track_number": 5,
+    "track_title": "In The Lap Of The Gods… Revisited - Live At Wembley Stadium / July 1986"
   },
   {
     "album_title": "Sheer Heart Attack (2011 Remaster)",
@@ -5932,6 +10216,78 @@
     "artist": "Queen",
     "track_number": 13,
     "track_title": "In The Lap Of The Gods... Revisited - Remastered 2011"
+  },
+  {
+    "album_title": "Short n' Sweet",
+    "artist": "Sabrina Carpenter",
+    "track_number": 1,
+    "track_title": "Taste"
+  },
+  {
+    "album_title": "Short n' Sweet",
+    "artist": "Sabrina Carpenter",
+    "track_number": 2,
+    "track_title": "Please Please Please"
+  },
+  {
+    "album_title": "Short n' Sweet",
+    "artist": "Sabrina Carpenter",
+    "track_number": 3,
+    "track_title": "Good Graces"
+  },
+  {
+    "album_title": "Short n' Sweet",
+    "artist": "Sabrina Carpenter",
+    "track_number": 4,
+    "track_title": "Sharpest Tool"
+  },
+  {
+    "album_title": "Short n' Sweet",
+    "artist": "Sabrina Carpenter",
+    "track_number": 5,
+    "track_title": "Coincidence"
+  },
+  {
+    "album_title": "Short n' Sweet",
+    "artist": "Sabrina Carpenter",
+    "track_number": 6,
+    "track_title": "Bed Chem"
+  },
+  {
+    "album_title": "Short n' Sweet",
+    "artist": "Sabrina Carpenter",
+    "track_number": 7,
+    "track_title": "Espresso"
+  },
+  {
+    "album_title": "Short n' Sweet",
+    "artist": "Sabrina Carpenter",
+    "track_number": 8,
+    "track_title": "Dumb & Poetic"
+  },
+  {
+    "album_title": "Short n' Sweet",
+    "artist": "Sabrina Carpenter",
+    "track_number": 9,
+    "track_title": "Slim Pickins"
+  },
+  {
+    "album_title": "Short n' Sweet",
+    "artist": "Sabrina Carpenter",
+    "track_number": 10,
+    "track_title": "Juno"
+  },
+  {
+    "album_title": "Short n' Sweet",
+    "artist": "Sabrina Carpenter",
+    "track_number": 11,
+    "track_title": "Lie To Girls"
+  },
+  {
+    "album_title": "Short n' Sweet",
+    "artist": "Sabrina Carpenter",
+    "track_number": 12,
+    "track_title": "Don’t Smile"
   },
   {
     "album_title": "Short n' Sweet (Deluxe)",
@@ -6112,6 +10468,456 @@
     "artist": "Kali Uchis",
     "track_number": 13,
     "track_title": "ángel sin cielo"
+  },
+  {
+    "album_title": "Sincerely,",
+    "artist": "Kali Uchis",
+    "track_number": 1,
+    "track_title": "Heaven is a Home…"
+  },
+  {
+    "album_title": "Sincerely,",
+    "artist": "Kali Uchis",
+    "track_number": 2,
+    "track_title": "Sugar! Honey! Love!"
+  },
+  {
+    "album_title": "Sincerely,",
+    "artist": "Kali Uchis",
+    "track_number": 3,
+    "track_title": "Lose My Cool,"
+  },
+  {
+    "album_title": "Sincerely,",
+    "artist": "Kali Uchis",
+    "track_number": 4,
+    "track_title": "It's Just Us"
+  },
+  {
+    "album_title": "Sincerely,",
+    "artist": "Kali Uchis",
+    "track_number": 5,
+    "track_title": "For: You"
+  },
+  {
+    "album_title": "Sincerely,",
+    "artist": "Kali Uchis",
+    "track_number": 6,
+    "track_title": "Silk Lingerie,"
+  },
+  {
+    "album_title": "Sincerely,",
+    "artist": "Kali Uchis",
+    "track_number": 7,
+    "track_title": "Territorial"
+  },
+  {
+    "album_title": "Sincerely,",
+    "artist": "Kali Uchis",
+    "track_number": 8,
+    "track_title": "Fall Apart,"
+  },
+  {
+    "album_title": "Sincerely,",
+    "artist": "Kali Uchis",
+    "track_number": 9,
+    "track_title": "All I Can Say"
+  },
+  {
+    "album_title": "Sincerely,",
+    "artist": "Kali Uchis",
+    "track_number": 10,
+    "track_title": "Daggers!"
+  },
+  {
+    "album_title": "Sincerely,",
+    "artist": "Kali Uchis",
+    "track_number": 11,
+    "track_title": "Angels All Around Me…"
+  },
+  {
+    "album_title": "Sincerely,",
+    "artist": "Kali Uchis",
+    "track_number": 12,
+    "track_title": "Breeze!"
+  },
+  {
+    "album_title": "Sincerely,",
+    "artist": "Kali Uchis",
+    "track_number": 13,
+    "track_title": "Sunshine & Rain..."
+  },
+  {
+    "album_title": "Sincerely,",
+    "artist": "Kali Uchis",
+    "track_number": 14,
+    "track_title": "ILYSMIH"
+  },
+  {
+    "album_title": "SOS",
+    "artist": "SZA",
+    "track_number": 1,
+    "track_title": "SOS"
+  },
+  {
+    "album_title": "SOS",
+    "artist": "SZA",
+    "track_number": 2,
+    "track_title": "Kill Bill"
+  },
+  {
+    "album_title": "SOS",
+    "artist": "SZA",
+    "track_number": 3,
+    "track_title": "Seek & Destroy"
+  },
+  {
+    "album_title": "SOS",
+    "artist": "SZA",
+    "track_number": 4,
+    "track_title": "Low"
+  },
+  {
+    "album_title": "SOS",
+    "artist": "SZA",
+    "track_number": 5,
+    "track_title": "Love Language"
+  },
+  {
+    "album_title": "SOS",
+    "artist": "SZA",
+    "track_number": 6,
+    "track_title": "Blind"
+  },
+  {
+    "album_title": "SOS",
+    "artist": "SZA",
+    "track_number": 7,
+    "track_title": "Used (feat. Don Toliver)"
+  },
+  {
+    "album_title": "SOS",
+    "artist": "SZA",
+    "track_number": 8,
+    "track_title": "Snooze"
+  },
+  {
+    "album_title": "SOS",
+    "artist": "SZA",
+    "track_number": 9,
+    "track_title": "Notice Me"
+  },
+  {
+    "album_title": "SOS",
+    "artist": "SZA",
+    "track_number": 10,
+    "track_title": "Gone Girl"
+  },
+  {
+    "album_title": "SOS",
+    "artist": "SZA",
+    "track_number": 11,
+    "track_title": "Smoking on my Ex Pack"
+  },
+  {
+    "album_title": "SOS",
+    "artist": "SZA",
+    "track_number": 12,
+    "track_title": "Ghost in the Machine (feat. Phoebe Bridgers)"
+  },
+  {
+    "album_title": "SOS",
+    "artist": "SZA",
+    "track_number": 13,
+    "track_title": "F2F"
+  },
+  {
+    "album_title": "SOS",
+    "artist": "SZA",
+    "track_number": 14,
+    "track_title": "Nobody Gets Me"
+  },
+  {
+    "album_title": "SOS",
+    "artist": "SZA",
+    "track_number": 15,
+    "track_title": "Conceited"
+  },
+  {
+    "album_title": "SOS",
+    "artist": "SZA",
+    "track_number": 16,
+    "track_title": "Special"
+  },
+  {
+    "album_title": "SOS",
+    "artist": "SZA",
+    "track_number": 17,
+    "track_title": "Too Late"
+  },
+  {
+    "album_title": "SOS",
+    "artist": "SZA",
+    "track_number": 18,
+    "track_title": "Far"
+  },
+  {
+    "album_title": "SOS",
+    "artist": "SZA",
+    "track_number": 19,
+    "track_title": "Shirt"
+  },
+  {
+    "album_title": "SOS",
+    "artist": "SZA",
+    "track_number": 20,
+    "track_title": "Open Arms (feat. Travis Scott)"
+  },
+  {
+    "album_title": "SOS",
+    "artist": "SZA",
+    "track_number": 21,
+    "track_title": "I Hate U"
+  },
+  {
+    "album_title": "SOS",
+    "artist": "SZA",
+    "track_number": 22,
+    "track_title": "Good Days"
+  },
+  {
+    "album_title": "SOS",
+    "artist": "SZA",
+    "track_number": 23,
+    "track_title": "Forgiveless (feat. Ol' Dirty Bastard)"
+  },
+  {
+    "album_title": "SOS Deluxe: LANA",
+    "artist": "SZA",
+    "track_number": 1,
+    "track_title": "No More Hiding"
+  },
+  {
+    "album_title": "SOS Deluxe: LANA",
+    "artist": "SZA",
+    "track_number": 2,
+    "track_title": "What Do I Do"
+  },
+  {
+    "album_title": "SOS Deluxe: LANA",
+    "artist": "SZA",
+    "track_number": 3,
+    "track_title": "30 For 30 (with Kendrick Lamar)"
+  },
+  {
+    "album_title": "SOS Deluxe: LANA",
+    "artist": "SZA",
+    "track_number": 4,
+    "track_title": "Diamond Boy (DTM)"
+  },
+  {
+    "album_title": "SOS Deluxe: LANA",
+    "artist": "SZA",
+    "track_number": 5,
+    "track_title": "BMF"
+  },
+  {
+    "album_title": "SOS Deluxe: LANA",
+    "artist": "SZA",
+    "track_number": 6,
+    "track_title": "Scorsese Baby Daddy"
+  },
+  {
+    "album_title": "SOS Deluxe: LANA",
+    "artist": "SZA",
+    "track_number": 7,
+    "track_title": "Love Me 4 Me"
+  },
+  {
+    "album_title": "SOS Deluxe: LANA",
+    "artist": "SZA",
+    "track_number": 8,
+    "track_title": "Chill Baby"
+  },
+  {
+    "album_title": "SOS Deluxe: LANA",
+    "artist": "SZA",
+    "track_number": 9,
+    "track_title": "My Turn"
+  },
+  {
+    "album_title": "SOS Deluxe: LANA",
+    "artist": "SZA",
+    "track_number": 10,
+    "track_title": "Crybaby"
+  },
+  {
+    "album_title": "SOS Deluxe: LANA",
+    "artist": "SZA",
+    "track_number": 11,
+    "track_title": "Kitchen"
+  },
+  {
+    "album_title": "SOS Deluxe: LANA",
+    "artist": "SZA",
+    "track_number": 12,
+    "track_title": "Get Behind Me (Interlude)"
+  },
+  {
+    "album_title": "SOS Deluxe: LANA",
+    "artist": "SZA",
+    "track_number": 13,
+    "track_title": "Drive"
+  },
+  {
+    "album_title": "SOS Deluxe: LANA",
+    "artist": "SZA",
+    "track_number": 14,
+    "track_title": "Another Life"
+  },
+  {
+    "album_title": "SOS Deluxe: LANA",
+    "artist": "SZA",
+    "track_number": 15,
+    "track_title": "Saturn"
+  },
+  {
+    "album_title": "SOS Deluxe: LANA",
+    "artist": "SZA",
+    "track_number": 16,
+    "track_title": "SOS"
+  },
+  {
+    "album_title": "SOS Deluxe: LANA",
+    "artist": "SZA",
+    "track_number": 17,
+    "track_title": "Kill Bill"
+  },
+  {
+    "album_title": "SOS Deluxe: LANA",
+    "artist": "SZA",
+    "track_number": 18,
+    "track_title": "Seek & Destroy"
+  },
+  {
+    "album_title": "SOS Deluxe: LANA",
+    "artist": "SZA",
+    "track_number": 19,
+    "track_title": "Low"
+  },
+  {
+    "album_title": "SOS Deluxe: LANA",
+    "artist": "SZA",
+    "track_number": 20,
+    "track_title": "Love Language"
+  },
+  {
+    "album_title": "SOS Deluxe: LANA",
+    "artist": "SZA",
+    "track_number": 21,
+    "track_title": "Blind"
+  },
+  {
+    "album_title": "SOS Deluxe: LANA",
+    "artist": "SZA",
+    "track_number": 22,
+    "track_title": "Used (feat. Don Toliver)"
+  },
+  {
+    "album_title": "SOS Deluxe: LANA",
+    "artist": "SZA",
+    "track_number": 23,
+    "track_title": "Snooze"
+  },
+  {
+    "album_title": "SOS Deluxe: LANA",
+    "artist": "SZA",
+    "track_number": 24,
+    "track_title": "Notice Me"
+  },
+  {
+    "album_title": "SOS Deluxe: LANA",
+    "artist": "SZA",
+    "track_number": 25,
+    "track_title": "Gone Girl"
+  },
+  {
+    "album_title": "SOS Deluxe: LANA",
+    "artist": "SZA",
+    "track_number": 26,
+    "track_title": "Smoking on my Ex Pack"
+  },
+  {
+    "album_title": "SOS Deluxe: LANA",
+    "artist": "SZA",
+    "track_number": 27,
+    "track_title": "Ghost in the Machine (feat. Phoebe Bridgers)"
+  },
+  {
+    "album_title": "SOS Deluxe: LANA",
+    "artist": "SZA",
+    "track_number": 28,
+    "track_title": "F2F"
+  },
+  {
+    "album_title": "SOS Deluxe: LANA",
+    "artist": "SZA",
+    "track_number": 29,
+    "track_title": "Nobody Gets Me"
+  },
+  {
+    "album_title": "SOS Deluxe: LANA",
+    "artist": "SZA",
+    "track_number": 30,
+    "track_title": "Conceited"
+  },
+  {
+    "album_title": "SOS Deluxe: LANA",
+    "artist": "SZA",
+    "track_number": 31,
+    "track_title": "Special"
+  },
+  {
+    "album_title": "SOS Deluxe: LANA",
+    "artist": "SZA",
+    "track_number": 32,
+    "track_title": "Too Late"
+  },
+  {
+    "album_title": "SOS Deluxe: LANA",
+    "artist": "SZA",
+    "track_number": 33,
+    "track_title": "Far"
+  },
+  {
+    "album_title": "SOS Deluxe: LANA",
+    "artist": "SZA",
+    "track_number": 34,
+    "track_title": "Shirt"
+  },
+  {
+    "album_title": "SOS Deluxe: LANA",
+    "artist": "SZA",
+    "track_number": 35,
+    "track_title": "Open Arms (feat. Travis Scott)"
+  },
+  {
+    "album_title": "SOS Deluxe: LANA",
+    "artist": "SZA",
+    "track_number": 36,
+    "track_title": "I Hate U"
+  },
+  {
+    "album_title": "SOS Deluxe: LANA",
+    "artist": "SZA",
+    "track_number": 37,
+    "track_title": "Good Days"
+  },
+  {
+    "album_title": "SOS Deluxe: LANA",
+    "artist": "SZA",
+    "track_number": 38,
+    "track_title": "Forgiveless (feat. Ol' Dirty Bastard)"
   },
   {
     "album_title": "SOUR",
@@ -6570,6 +11376,84 @@
     "track_title": "Sienna"
   },
   {
+    "album_title": "Swimming",
+    "artist": "Mac Miller",
+    "track_number": 1,
+    "track_title": "Come Back to Earth"
+  },
+  {
+    "album_title": "Swimming",
+    "artist": "Mac Miller",
+    "track_number": 2,
+    "track_title": "Hurt Feelings"
+  },
+  {
+    "album_title": "Swimming",
+    "artist": "Mac Miller",
+    "track_number": 3,
+    "track_title": "What's the Use?"
+  },
+  {
+    "album_title": "Swimming",
+    "artist": "Mac Miller",
+    "track_number": 4,
+    "track_title": "Perfecto"
+  },
+  {
+    "album_title": "Swimming",
+    "artist": "Mac Miller",
+    "track_number": 5,
+    "track_title": "Self Care"
+  },
+  {
+    "album_title": "Swimming",
+    "artist": "Mac Miller",
+    "track_number": 6,
+    "track_title": "Wings"
+  },
+  {
+    "album_title": "Swimming",
+    "artist": "Mac Miller",
+    "track_number": 7,
+    "track_title": "Ladders"
+  },
+  {
+    "album_title": "Swimming",
+    "artist": "Mac Miller",
+    "track_number": 8,
+    "track_title": "Small Worlds"
+  },
+  {
+    "album_title": "Swimming",
+    "artist": "Mac Miller",
+    "track_number": 9,
+    "track_title": "Conversation Pt. 1"
+  },
+  {
+    "album_title": "Swimming",
+    "artist": "Mac Miller",
+    "track_number": 10,
+    "track_title": "Dunno"
+  },
+  {
+    "album_title": "Swimming",
+    "artist": "Mac Miller",
+    "track_number": 11,
+    "track_title": "Jet Fuel"
+  },
+  {
+    "album_title": "Swimming",
+    "artist": "Mac Miller",
+    "track_number": 12,
+    "track_title": "2009"
+  },
+  {
+    "album_title": "Swimming",
+    "artist": "Mac Miller",
+    "track_number": 13,
+    "track_title": "So It Goes"
+  },
+  {
     "album_title": "Teatro d'ira - Vol. I",
     "artist": "Måneskin",
     "track_number": 1,
@@ -6736,6 +11620,126 @@
     "artist": "Kanye West",
     "track_number": 21,
     "track_title": "Last Call"
+  },
+  {
+    "album_title": "The Dark Side of the Moon",
+    "artist": "Pink Floyd",
+    "track_number": 1,
+    "track_title": "Speak to Me"
+  },
+  {
+    "album_title": "The Dark Side of the Moon",
+    "artist": "Pink Floyd",
+    "track_number": 2,
+    "track_title": "Breathe (In the Air)"
+  },
+  {
+    "album_title": "The Dark Side of the Moon",
+    "artist": "Pink Floyd",
+    "track_number": 3,
+    "track_title": "On the Run"
+  },
+  {
+    "album_title": "The Dark Side of the Moon",
+    "artist": "Pink Floyd",
+    "track_number": 4,
+    "track_title": "Time"
+  },
+  {
+    "album_title": "The Dark Side of the Moon",
+    "artist": "Pink Floyd",
+    "track_number": 5,
+    "track_title": "The Great Gig in the Sky"
+  },
+  {
+    "album_title": "The Dark Side of the Moon",
+    "artist": "Pink Floyd",
+    "track_number": 6,
+    "track_title": "Money"
+  },
+  {
+    "album_title": "The Dark Side of the Moon",
+    "artist": "Pink Floyd",
+    "track_number": 7,
+    "track_title": "Us and Them"
+  },
+  {
+    "album_title": "The Dark Side of the Moon",
+    "artist": "Pink Floyd",
+    "track_number": 8,
+    "track_title": "Any Colour You Like"
+  },
+  {
+    "album_title": "The Dark Side of the Moon",
+    "artist": "Pink Floyd",
+    "track_number": 9,
+    "track_title": "Brain Damage"
+  },
+  {
+    "album_title": "The Dark Side of the Moon",
+    "artist": "Pink Floyd",
+    "track_number": 10,
+    "track_title": "Eclipse"
+  },
+  {
+    "album_title": "The Divine Feminine",
+    "artist": "Mac Miller",
+    "track_number": 1,
+    "track_title": "Congratulations (feat. Bilal)"
+  },
+  {
+    "album_title": "The Divine Feminine",
+    "artist": "Mac Miller",
+    "track_number": 2,
+    "track_title": "Dang! (feat. Anderson .Paak)"
+  },
+  {
+    "album_title": "The Divine Feminine",
+    "artist": "Mac Miller",
+    "track_number": 3,
+    "track_title": "Stay"
+  },
+  {
+    "album_title": "The Divine Feminine",
+    "artist": "Mac Miller",
+    "track_number": 4,
+    "track_title": "Skin"
+  },
+  {
+    "album_title": "The Divine Feminine",
+    "artist": "Mac Miller",
+    "track_number": 5,
+    "track_title": "Cinderella (feat. Ty Dolla $ign)"
+  },
+  {
+    "album_title": "The Divine Feminine",
+    "artist": "Mac Miller",
+    "track_number": 6,
+    "track_title": "Planet God Damn (feat. Njomza)"
+  },
+  {
+    "album_title": "The Divine Feminine",
+    "artist": "Mac Miller",
+    "track_number": 7,
+    "track_title": "Soulmate"
+  },
+  {
+    "album_title": "The Divine Feminine",
+    "artist": "Mac Miller",
+    "track_number": 8,
+    "track_title": "We (feat. CeeLo Green)"
+  },
+  {
+    "album_title": "The Divine Feminine",
+    "artist": "Mac Miller",
+    "track_number": 9,
+    "track_title": "My Favorite Part"
+  },
+  {
+    "album_title": "The Divine Feminine",
+    "artist": "Mac Miller",
+    "track_number": 10,
+    "track_title": "God Is Fair, Sexy Nasty (feat. Kendrick Lamar)"
   },
   {
     "album_title": "The Game (2011 Remaster)",
@@ -6916,6 +11920,102 @@
     "artist": "Kanye West",
     "track_number": 20,
     "track_title": "Saint Pablo"
+  },
+  {
+    "album_title": "The Miseducation of Lauryn Hill",
+    "artist": "Ms. Lauryn Hill",
+    "track_number": 1,
+    "track_title": "Intro"
+  },
+  {
+    "album_title": "The Miseducation of Lauryn Hill",
+    "artist": "Ms. Lauryn Hill",
+    "track_number": 2,
+    "track_title": "Lost Ones"
+  },
+  {
+    "album_title": "The Miseducation of Lauryn Hill",
+    "artist": "Ms. Lauryn Hill",
+    "track_number": 3,
+    "track_title": "Ex-Factor"
+  },
+  {
+    "album_title": "The Miseducation of Lauryn Hill",
+    "artist": "Ms. Lauryn Hill",
+    "track_number": 4,
+    "track_title": "To Zion (feat. Carlos Santana)"
+  },
+  {
+    "album_title": "The Miseducation of Lauryn Hill",
+    "artist": "Ms. Lauryn Hill",
+    "track_number": 5,
+    "track_title": "Doo Wop (That Thing)"
+  },
+  {
+    "album_title": "The Miseducation of Lauryn Hill",
+    "artist": "Ms. Lauryn Hill",
+    "track_number": 6,
+    "track_title": "Superstar"
+  },
+  {
+    "album_title": "The Miseducation of Lauryn Hill",
+    "artist": "Ms. Lauryn Hill",
+    "track_number": 7,
+    "track_title": "Final Hour"
+  },
+  {
+    "album_title": "The Miseducation of Lauryn Hill",
+    "artist": "Ms. Lauryn Hill",
+    "track_number": 8,
+    "track_title": "When It Hurts so Bad"
+  },
+  {
+    "album_title": "The Miseducation of Lauryn Hill",
+    "artist": "Ms. Lauryn Hill",
+    "track_number": 9,
+    "track_title": "I Used to Love Him (feat. Mary J. Blige)"
+  },
+  {
+    "album_title": "The Miseducation of Lauryn Hill",
+    "artist": "Ms. Lauryn Hill",
+    "track_number": 10,
+    "track_title": "Forgive Them Father"
+  },
+  {
+    "album_title": "The Miseducation of Lauryn Hill",
+    "artist": "Ms. Lauryn Hill",
+    "track_number": 11,
+    "track_title": "Every Ghetto, Every City"
+  },
+  {
+    "album_title": "The Miseducation of Lauryn Hill",
+    "artist": "Ms. Lauryn Hill",
+    "track_number": 12,
+    "track_title": "Nothing Even Matters (feat. D'Angelo)"
+  },
+  {
+    "album_title": "The Miseducation of Lauryn Hill",
+    "artist": "Ms. Lauryn Hill",
+    "track_number": 13,
+    "track_title": "Everything Is Everything"
+  },
+  {
+    "album_title": "The Miseducation of Lauryn Hill",
+    "artist": "Ms. Lauryn Hill",
+    "track_number": 14,
+    "track_title": "The Miseducation of Lauryn Hill"
+  },
+  {
+    "album_title": "The Miseducation of Lauryn Hill",
+    "artist": "Ms. Lauryn Hill",
+    "track_number": 15,
+    "track_title": "Can't Take My Eyes Off of You - (I Love You Baby)"
+  },
+  {
+    "album_title": "The Miseducation of Lauryn Hill",
+    "artist": "Ms. Lauryn Hill",
+    "track_number": 16,
+    "track_title": "Tell Him"
   },
   {
     "album_title": "The New Abnormal",
@@ -7696,6 +12796,264 @@
     "artist": "Car Seat Headrest",
     "track_number": 10,
     "track_title": "Twin Fantasy (Those Boys)"
+  },
+  {
+    "album_title": "Ultraviolence (Deluxe)",
+    "artist": "Lana Del Rey",
+    "track_number": 1,
+    "track_title": "Cruel World"
+  },
+  {
+    "album_title": "Ultraviolence (Deluxe)",
+    "artist": "Lana Del Rey",
+    "track_number": 2,
+    "track_title": "Ultraviolence"
+  },
+  {
+    "album_title": "Ultraviolence (Deluxe)",
+    "artist": "Lana Del Rey",
+    "track_number": 3,
+    "track_title": "Shades Of Cool"
+  },
+  {
+    "album_title": "Ultraviolence (Deluxe)",
+    "artist": "Lana Del Rey",
+    "track_number": 4,
+    "track_title": "Brooklyn Baby"
+  },
+  {
+    "album_title": "Ultraviolence (Deluxe)",
+    "artist": "Lana Del Rey",
+    "track_number": 5,
+    "track_title": "West Coast"
+  },
+  {
+    "album_title": "Ultraviolence (Deluxe)",
+    "artist": "Lana Del Rey",
+    "track_number": 6,
+    "track_title": "Sad Girl"
+  },
+  {
+    "album_title": "Ultraviolence (Deluxe)",
+    "artist": "Lana Del Rey",
+    "track_number": 7,
+    "track_title": "Pretty When You Cry"
+  },
+  {
+    "album_title": "Ultraviolence (Deluxe)",
+    "artist": "Lana Del Rey",
+    "track_number": 8,
+    "track_title": "Money Power Glory"
+  },
+  {
+    "album_title": "Ultraviolence (Deluxe)",
+    "artist": "Lana Del Rey",
+    "track_number": 9,
+    "track_title": "Fucked My Way Up To The Top"
+  },
+  {
+    "album_title": "Ultraviolence (Deluxe)",
+    "artist": "Lana Del Rey",
+    "track_number": 10,
+    "track_title": "Old Money"
+  },
+  {
+    "album_title": "Ultraviolence (Deluxe)",
+    "artist": "Lana Del Rey",
+    "track_number": 11,
+    "track_title": "The Other Woman"
+  },
+  {
+    "album_title": "Ultraviolence (Deluxe)",
+    "artist": "Lana Del Rey",
+    "track_number": 12,
+    "track_title": "Black Beauty"
+  },
+  {
+    "album_title": "Ultraviolence (Deluxe)",
+    "artist": "Lana Del Rey",
+    "track_number": 13,
+    "track_title": "Guns And Roses"
+  },
+  {
+    "album_title": "Ultraviolence (Deluxe)",
+    "artist": "Lana Del Rey",
+    "track_number": 14,
+    "track_title": "Florida Kilos"
+  },
+  {
+    "album_title": "Vessel",
+    "artist": "Twenty One Pilots",
+    "track_number": 1,
+    "track_title": "Ode to Sleep"
+  },
+  {
+    "album_title": "Vessel",
+    "artist": "Twenty One Pilots",
+    "track_number": 2,
+    "track_title": "Holding on to You"
+  },
+  {
+    "album_title": "Vessel",
+    "artist": "Twenty One Pilots",
+    "track_number": 3,
+    "track_title": "Migraine"
+  },
+  {
+    "album_title": "Vessel",
+    "artist": "Twenty One Pilots",
+    "track_number": 4,
+    "track_title": "House of Gold"
+  },
+  {
+    "album_title": "Vessel",
+    "artist": "Twenty One Pilots",
+    "track_number": 5,
+    "track_title": "Car Radio"
+  },
+  {
+    "album_title": "Vessel",
+    "artist": "Twenty One Pilots",
+    "track_number": 6,
+    "track_title": "Semi-Automatic"
+  },
+  {
+    "album_title": "Vessel",
+    "artist": "Twenty One Pilots",
+    "track_number": 7,
+    "track_title": "Screen"
+  },
+  {
+    "album_title": "Vessel",
+    "artist": "Twenty One Pilots",
+    "track_number": 8,
+    "track_title": "The Run and Go"
+  },
+  {
+    "album_title": "Vessel",
+    "artist": "Twenty One Pilots",
+    "track_number": 9,
+    "track_title": "Fake You Out"
+  },
+  {
+    "album_title": "Vessel",
+    "artist": "Twenty One Pilots",
+    "track_number": 10,
+    "track_title": "Guns for Hands"
+  },
+  {
+    "album_title": "Vessel",
+    "artist": "Twenty One Pilots",
+    "track_number": 11,
+    "track_title": "Trees"
+  },
+  {
+    "album_title": "Vessel",
+    "artist": "Twenty One Pilots",
+    "track_number": 12,
+    "track_title": "Truce"
+  },
+  {
+    "album_title": "Vida",
+    "artist": "Canserbero",
+    "track_number": 1,
+    "track_title": "Prólogo"
+  },
+  {
+    "album_title": "Vida",
+    "artist": "Canserbero",
+    "track_number": 2,
+    "track_title": "Mucho Gusto"
+  },
+  {
+    "album_title": "Vida",
+    "artist": "Canserbero",
+    "track_number": 3,
+    "track_title": "Clima Tropical"
+  },
+  {
+    "album_title": "Vida",
+    "artist": "Canserbero",
+    "track_number": 4,
+    "track_title": "Vida"
+  },
+  {
+    "album_title": "Vida",
+    "artist": "Canserbero",
+    "track_number": 5,
+    "track_title": "Aceptas"
+  },
+  {
+    "album_title": "Vida",
+    "artist": "Canserbero",
+    "track_number": 6,
+    "track_title": "Martillos y Ruedas"
+  },
+  {
+    "album_title": "Vida",
+    "artist": "Canserbero",
+    "track_number": 7,
+    "track_title": "Hace Falta Soñar"
+  },
+  {
+    "album_title": "Vida",
+    "artist": "Canserbero",
+    "track_number": 8,
+    "track_title": "Americanos"
+  },
+  {
+    "album_title": "Vida",
+    "artist": "Canserbero",
+    "track_number": 9,
+    "track_title": "Interludio K219"
+  },
+  {
+    "album_title": "Vida",
+    "artist": "Canserbero",
+    "track_number": 10,
+    "track_title": "Pensando en Ti"
+  },
+  {
+    "album_title": "Vida",
+    "artist": "Canserbero",
+    "track_number": 11,
+    "track_title": "Y la Felicidad Qué"
+  },
+  {
+    "album_title": "Vida",
+    "artist": "Canserbero",
+    "track_number": 12,
+    "track_title": "No Justice"
+  },
+  {
+    "album_title": "Vida",
+    "artist": "Canserbero",
+    "track_number": 13,
+    "track_title": "Únetenos"
+  },
+  {
+    "album_title": "Vida",
+    "artist": "Canserbero",
+    "track_number": 14,
+    "track_title": "Quién Eres"
+  },
+  {
+    "album_title": "Vida",
+    "artist": "Canserbero",
+    "track_number": 15,
+    "track_title": "Perdiendo la Fe"
+  },
+  {
+    "album_title": "Vida",
+    "artist": "Canserbero",
+    "track_number": 16,
+    "track_title": "Ley del Hielo"
+  },
+  {
+    "album_title": "Vida",
+    "artist": "Canserbero",
+    "track_number": 17,
+    "track_title": "Epílogo"
   },
   {
     "album_title": "Wallsocket",
