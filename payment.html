@@ -1,3 +1,26 @@
+<!--
+    payment.html
+
+    Página de pago para "Melomanía Total".
+
+    Estructura:
+    - Encabezado con barra de navegación y enlaces a la tienda y carrito.
+    - Resumen de productos seleccionados para pagar, mostrando portada, título, artista y precio.
+    - Visualización del total a pagar.
+    - Formulario de pago que solicita nombre completo, número de tarjeta, fecha de expiración y CVV.
+    - Mensaje de confirmación tras el pago.
+    - Pie de página con derechos reservados.
+
+    Funcionalidad JavaScript:
+    - renderPaySummary(): Obtiene el carrito desde localStorage, muestra los productos y calcula el total. Si el carrito está vacío, oculta el formulario de pago.
+    - Manejo del formulario de pago: Al enviar, simula un pago exitoso, muestra mensaje de éxito, limpia el carrito y oculta el formulario.
+    - El resumen de pago se actualiza automáticamente al cargar la página y tras el pago.
+
+    Notas:
+    - El formulario no realiza pagos reales, solo simula la operación.
+    - El diseño utiliza estilos en línea y una hoja de estilos externa (style.css).
+-->
+
 <!DOCTYPE html>
 <html lang="es">
 <head>

@@ -4,6 +4,14 @@ let currentPage = 1;
 let totalPages = 1;
 let searchTerm = "";
 
+/**
+ * Renderiza una lista paginada de álbumes filtrados por el término de búsqueda actual.
+ * Actualiza el contenedor de álbumes con las tarjetas de álbum, agrega los event listeners para las acciones de carrito y wishlist,
+ * y muestra los controles de paginación.
+ *
+ * @param {number} page - El número de página a renderizar.
+ */
+
 function renderAlbums(page) {
     const container = document.getElementById("album-list");
     container.innerHTML = "";
@@ -43,6 +51,7 @@ function renderAlbums(page) {
         const cartBtn = albumDiv.querySelector('.add-to-cart-btn');
         const wishlistBtn = albumDiv.querySelector('.add-to-wishlist-btn');
 
+        // 
         cartBtn.albumData = album;
         wishlistBtn.albumData = album;
 

@@ -1,3 +1,8 @@
+/**
+ * Renderiza el carrito de compras obteniendo los elementos del carrito desde localStorage,
+ * mostrándolos en el DOM y calculando el precio total.
+ * Si el carrito está vacío, muestra un mensaje indicándolo.
+ */
 function renderCart() {
     const cart = JSON.parse(localStorage.getItem('cart')) || [];
     const container = document.getElementById('cart-list');
@@ -23,6 +28,11 @@ function renderCart() {
     });
     totalDiv.textContent = 'Total: $' + total;
 }
+
+/**
+ * Vacía el carrito de compras eliminando los datos del carrito de localStorage
+ * y vuelve a renderizar la vista del carrito.
+ */
 function clearCart() {
     localStorage.removeItem('cart');
     renderCart();

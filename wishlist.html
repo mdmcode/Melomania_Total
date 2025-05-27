@@ -8,6 +8,34 @@
     <link href="style.css" rel="stylesheet">
 </head>
 
+<!--
+        Este script gestiona la visualización e interacción de la funcionalidad de wishlist para una página personal.
+
+        Funciones:
+
+        1. renderWishlist():
+        - Recupera el arreglo de la wishlist desde localStorage (o lo inicializa vacío).
+        - Selecciona el contenedor con id 'wishlist-list' y limpia su contenido.
+        - Si la wishlist está vacía, muestra un mensaje indicándolo.
+        - Por cada álbum en la wishlist:
+            - Crea un div con los detalles del álbum (portada, título, artista, precio).
+            - Agrega un botón "Agregar al carrito" para cada álbum.
+        - Añade listeners de clic a cada botón "Agregar al carrito":
+            - Al hacer clic, agrega el álbum al carrito, lo elimina de la wishlist, actualiza localStorage y vuelve a renderizar la wishlist.
+
+        2. addToCart(album):
+        - Recupera el arreglo del carrito desde localStorage (o lo inicializa vacío).
+        - Agrega el álbum recibido al carrito.
+        - Actualiza el carrito en localStorage.
+        - Muestra una alerta confirmando que el álbum fue agregado.
+
+        3. clearWishlist():
+        - Elimina la wishlist de localStorage.
+        - Vuelve a renderizar la wishlist para reflejar el cambio.
+
+        Al final, se llama a renderWishlist() para inicializar la visualización de la wishlist al cargar la página.
+    -->
+
 <body>
     <header>
         <nav class="navbar">
